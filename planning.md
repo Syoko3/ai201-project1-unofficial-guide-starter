@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+I chose the UC Merced CSE courses rating and reviews. This is valuable and hard to find through official channels because 
 
 ---
 
