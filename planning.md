@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-I chose the UC Merced students ratings and reviews of CSE courses and professors. This is valuable and hard to find through official channels because 
+I chose the UC Merced students ratings and reviews of CSE courses and professors. This is a valuable knowledge because CSE courses have heavy workload with some projects, and peer feedback can clarify either the professor is engaged actively on class or not. This is hard to find through official channels because the universities will share the peer feedback to the professor anonymously, and there are some algorithmic and demographic biases included that affects the universities to post the department and faculty rankings publicly. 
 
 ---
 
