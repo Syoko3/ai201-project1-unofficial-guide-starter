@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-I chose the UC Merced CSE courses rating and reviews. This is valuable and hard to find through official channels because 
+I chose the UC Merced students ratings and reviews of CSE courses and professors. This is valuable and hard to find through official channels because 
 
 ---
 
@@ -21,16 +21,16 @@ I chose the UC Merced CSE courses rating and reviews. This is valuable and hard 
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Coursicle | UC Merced CSE Courses & Professors Ratings | https://www.coursicle.com/ucmerced/courses/CSE/ |
+| 2 | Rate My Professors | UC Merced CSE Professors Ratings | https://www.ratemyprofessors.com/search/professors/4767?q=*&did=11 |
+| 3 | Rate My Courses | UC Merced CSE Courses Reviews | https://www.ratemycourses.io/uc-merced/department/cse |
+| 4 | Reddit | UC Merced & Computer Science & Engineering Reviews | https://www.reddit.com/r/ucmerced/comments/m08y2s/uc_merced_and_computer_science_and_engineering/ |
+| 5 | Reddit | What CSE electives do you think are the hardest and easiest? | https://www.reddit.com/r/ucmerced/comments/1nu6w64/cse_majors_what_cse_electives_do_you_think_are/ |
+| 6 | UC Merced | CSE Courses Descriptions | https://catalog.ucmerced.edu/content.php?filter%5B27%5D=CSE&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=23&expand=&navoid=2517&search_database=Filter#acalog_template_course_filter |
+| 7 | UC Merced | CSE Faculty | https://engineering.ucmerced.edu/departments/computer-science-engineering-cse |
+| 8 | Facebook | Computer Science at UC Merced vs SJSU | https://www.facebook.com/groups/collegeadmissionscorner/posts/1464265537775004/ |
+| 9 | GitHub | UC Merced CSE Courses Repository | https://github.com/hajin-park/ucmerced-cse |
+| 10 | Reddit | Will cse ever be impacted at ucm? | https://www.reddit.com/r/ucmerced/comments/1gvksls/will_cse_ever_be_impacted_at_ucm/ |
 
 ---
 
