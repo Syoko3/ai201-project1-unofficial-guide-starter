@@ -1,0 +1,307 @@
+Computer Science and Engineering
+
+Presents the use of computers to control information flow including data collection, management, analysis, and presentation. Basic programming skills, selection of appropriate computer-based tools and languages, and data security are covered. Emphasis is placed on computer knowledge necessary to successfully use and manage data and information.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Intellectual Experience: Ethics
+
+Requisites and Restrictions
+Instructor Permission Required: No
+
+View course scheduling information
+
+Explores basic concepts of discrete mathematics used in computer science and other disciplines that involve formal reasoning. Topics include logic, proof, counting, discrete probability, relations, graphs, trees, and Boolean algebra.
+
+Presents the basics of programming to a student with no prior experience. Concepts of Input/Output, Data Types, Variables and Arrays will be introduced in the context of solving problems. Elementary programming skills such as conditional and loops execution will be emphasized. Object-oriented Programming, recursion and data manipulation will also be introduced. Students are expected to solve problems using different programming paradigms.
+
+GE Requirements
+Lower Division: Language
+
+Laboratory included
+Normal Letter Grade with Pass/No Pass option
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 005 or equivalent exam
+Open only to following major/minor(s):
+Applied Mathematical Sciences (Undergraduate) - MATH
+Computer Science & Engineering (Undergraduate) - CSE
+
+Instructor Permission Required: No
+
+Intended for students with basic to intermediate programming skills, and introduces them to advanced programming techniques such as pointers and memory management, exception handling, multi-threading, object oriented programming, and generic programming. The C++ language is used throughout the course.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 022
+Open only to following major/minor(s):
+Applied Mathematical Sciences (Undergraduate) - MATH
+Computer Science & Engineering (Undergraduate) - CSE
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 024
+Instructor Permission Required: No
+
+Exposes students to the underlying structure of machines. Starting from C programming, pointers, data representation, MIPS instruction-set, Compilation process and down to Hardware implementation.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 024 and CSE 030
+Instructor Permission Required: No
+
+Course Details
+Repeats Allowed for Credit: 99
+
+Normal Letter Grade with Pass/No Pass option
+
+Requisites and Restrictions
+Instructor Permission Required: Yes
+
+Pass/No Pass only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 024 and CSE 030 and (MATH 023 or MATH 023H) and (MATH 032 or ENGR 080)
+Prerequisite Courses with Concurrent Option: CSE 031 and MATH 024
+Instructor Permission Required: No
+
+Our ability to manipulate data depends on and is limited by our familiarity with computing technologies. We study tools for exploratory computing, emphasizing programming and scripting languages over point-and-click interfaces. We cover the Unix basics and common utilities, regular expressions, Perl and R languages. Development of a problem solving ability to learn languages independently and cull online documentation.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Overview of digital image processing including visual perception, image formation, spatial transformations, image enhancement, color image representations and processing, edge detection, image segmentation, and morphological image processing.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Sophomore
+Junior
+Senior
+
+Explores topics related to both front end and backend web development including web security, scalable architecture, web frameworks, databases, and object relational mappers.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and MATH 024
+Prerequisite Courses with Concurrent Option: CSE 100
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.
+
+Teams work on approved design projects or on software teams. Through these projects, students will practice design methodology and learn modern software engineering techniques to create reliable, efficient, reusable, and maintainable software systems using various design process models. Good standard project practices topics will be covered.
+
+GE Requirements
+Upper Division: Culminating Experience
+Intellectual Experience: Scientific Method
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Cannot also be taken due to similarity of content: ENGR 190, ENGR 193, ENGR 194
+Open only to the following class level(s):
+Senior
+
+Crosslisted with: MGMT 126
+Discussion included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Open only to following major/minor(s):
+Management & Business Economics (Undergraduate) - MBE
+Computer Science & Engineering (Undergraduate) - CSE
+
+Introduces the basic theory and practice of cryptographic techniques used in computer security by exploring the inner workings, mathematical assumptions and foundations of cryptographic primitives and how to use them correctly. Topics include pseudorandom functions, one-way functions, cryptographic hashing, encryption (symmetric and public-key), message integrity, message authentication codes, digital signatures, key management, security protocols and more. Covers the necessary mathematical background, formal definitions of security and proofs of security based on precise definitions and assumptions.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Instructor Permission Required: No
+A strong mathematical background in probability and statistics is preferred.
+
+Understanding the inherent capabilities and limitations of computers is a fundamental question in computer science. To answer this question, we will define formal mathematical models of computation, and study their relationships with formal languages. Topics will consist of three central areas of the theory of computation: automata, computability, and complexity.
+
+Fundamental concepts of digital computer design, including instruction sets, memory systems and registers, logic and mathematics units, modern CPUs and their architectural features are discussed along with the motivation for each design choice.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and ENGR 065
+Open only to the following class level(s):
+Junior
+Senior
+
+Explores basic concepts and techniques in compiler construction. Examines topics such as, lexical analysis, finite automata, parsing, context-sensitive analysis, intermediate representation, code shape analysis, code optimizations, code generation, and register allocation.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Concepts of computer operating systems including concurrency, memory management, file systems, multitasking, performance analysis, and security.
+
+Conjoined with: EECS 251
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 150
+Open only to the following class level(s):
+Junior
+Senior
+
+GE Requirements
+Intellectual Experience: Ethics
+Intellectual Experience: Scientific Method
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 100 and CSE 031 and MATH 024
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+Strong skills in programming preferred.
+
+Introduces methods for signal processing between digitization and inference algorithms, where time-series signals are pre-processed. Explores the applications of Internet of Things (IoT) systems, smart connected devices in people’s lives, and examples of converting physical world analog signals to digital ones. Includes topics both theoretical and practical.
+
+Course Details
+Repeats Allowed for Credit: 1
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Instructor Permission Required: No
+
+Design concepts and implementation features of computer networks. Concepts of network robustness, scalability, addressing, routing, and security. Several contemporary networking protocols are analyzed.
+
+GE Requirements
+Intellectual Experience: Ethics
+Intellectual Experience: Sustainability
+Upper Division: Crossroads
+
+Introduces mobile cloud computing’s basic concepts, including different types of mobile computing devices and applications, the communication technologies used in modern smartphones, the context-aware computing technologies, and programming on mobile devices.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and MATH 024 and CSE 100 and CSE 165
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Topics include object-oriented programming concepts, such as classes, objects, methods, interfaces, packages, inheritance, encapsulation, and polymorphism.
+
+Crosslisted with: ENGR 140
+Laboratory included
+Normal Letter Grade only
+
+Covers the foundations of distributed software systems and their practical designs. Includes concepts and principles of distributed systems (e.g., consistency, availability, scalability, etc.); programming models for distributed computing (e.g., batch/streaming processing, RPC, Key-Value, etc.); distributed storage systems (e.g., indexing, replication, partition, and erasure coding, etc.); and convergence of HPC, Big Data, AI, and Cloud Computing with modern distributed systems.
+
+GE Requirements
+Intellectual Experience: Scientific Method
+
+Basic algorithms in computer graphics enabling students to understand and experience the process of implementing modern computer graphics applications. Topics covered: programmable shaders, rasterization, hidden surface removal, transformations, rendering pipeline, scene graphs, curves and surfaces, boundary representation, spatial partition methods, keyframe animation, texture mapping, illumination and shading.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and (CSE 165 or ENGR 140) and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Covers the main algorithms and techniques used in the implementation of interactive 3D Graphics, such as in Computer Games, Robotics Simulators and Virtual Reality. Topics covered are: keyframe animation, articulated figures, direct and inverse kinematics, physically-based simulation, path planning, behavior-based animation, scripting behaviors, and other advanced topics.
+
+Conjoined with: EECS 287
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Approaches to Knowledge: Media and Visual Analysis
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE100 and CSE 165 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Design and analysis of computational simulations of human behavior and brain function. Techniques for modeling active membranes, individual neurons, the dynamics produced by recurrent excitation and lateral inhibition, synaptic plasticity, and the computational role of neurotransmitters. Formal models of perception, attention, learning, memory, language, categorization, and cognitive control.
+
+Crosslisted with: COGS 123
+Laboratory included
+Normal Letter Grade with Pass/No Pass option
+
+Requisites and Restrictions
+Prerequisite Courses: COGS 001 and any upper-division COGS course
+Instructor Permission Required: No
+
+Crosslisted with: COGS 125
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 019 or CSE 021 or CSE 022 or equivalent exam 
+Instructor Permission Required: No
+COGS 001 recommended
+
+Survey of techniques for development and analysis of software that learns from experience. Specific topics: supervised learning (classification, regression); unsupervised learning (density estimation, clustering, dimensionality reduction); reinforcement learning; and others. Specific techniques: linear classifiers, mixture models, nonparametric methods, decision trees, neural networks, kernel machines, ensembles, graphical models, Bayesian methods, etc.
+
+GE Requirements
+Intellectual Experience: Scientific Method
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 141
+Open only to the following class level(s):
+Junior
+Senior
+
+Studies the internals of a database management system, with emphasis on query execution. The final goal of the class is to build a fully-functional database execution engine consisting of all the standard components: storage manager, buffer manager, query execution engine, query optimizer, and query compiler.
+
+Conjoined with: EECS 277
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and CSE 111 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Introduces fundamental concepts in the design and development of secure computer networks. Covers security threats, secret-key and public-key cryptography and algorithms, digital signatures, authentication, Electronic mail, Public-key infrastructure, viruses and worms.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and CSE 150 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Parallel computing is pervasive. From embedded devices, laptops, to high-end supercomputer, and large-scale data centers, parallel computing is widely employed to achieve performance and efficiency targets. This course introduces the foundations of parallel computing, including parallel architectures, parallel programming methods and techniques, and parallel algorithm designs.
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and CSE 140 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Covers the basic of robotics focusing on the algorithmic side, rather than technology. Introduces basic computational techniques concerning spatial modeling, planning, and sensor processing. The course has a strong hands-on component. Implementation of different techniques in simulation will complement the theoretical lectures.
+
+Overview of fundamental image processing and pattern recognition techniques including image formation, edge detection, image segmentation, optical flow, recovery of three-dimensional structure from shading or stereo information, shape representations, and issues in object recognition.
+
+GE Requirements
+Approaches to Knowledge: Media and Visual Analysis
+Upper Division: Crossroads
+
+Covers special topics within Computer Science and Engineering that are not covered in the regularly scheduled courses. Each class will have a specific focus which will be defined by the instructor of the course on a semester-by-semester basis.
+
+Course Details
+Repeats Allowed for Credit: 3
+
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and MATH 024 and CSE 100
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE

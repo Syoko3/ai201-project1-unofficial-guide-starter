@@ -1,0 +1,188 @@
+Computer Science & Engineering (CSE)
+Ahmed Arif heashot
+Ahmed Arif
+Assistant Professor
+
+asarif@ucmerced.edu
+
+SE2 212
+
+Smarter solutions for text entry, error correction, and editing on various devices
+Mobile interaction, tangible user interfaces, child-computer interaction, usable security, and scientific data visualization
+Lab Websites:
+
+scarpin@ucmerced.edu
+
+mcarreira-perpinan@ucmerced.edu
+
+Alberto Cerpa headshot
+Alberto Cerpa
+Associate Professor
+
+acerpa@ucmerced.edu
+
+SE2 221
+
+Santosh Chandrasekhar headshot
+Santosh Chandrasekhar
+Assistant Teaching Professor
+
+schandrasekhar@ucmerced.edu
+
+SE2 273
+
+Development of effective teaching strategies for undergraduate computer science courses
+Development of a security education program for undergraduate students
+Wan Du Portrait
+Wan Du
+Assistant Professor
+
+wdu3@ucmerced.edu
+
+Internet of Things (IoT)
+Wireless Networking and Sensing
+Edge Computing
+Reinforcement Learning
+Data Analytics
+
+Giovanni Gonzalez Araujo
+Assistant Teaching Professor
+
+ggonzalezaraujo@ucmerced.edu
+
+Development of educational software tools for effective teaching and learning in computer science.
+Development of interactive curriculum for introductory programming courses.
+
+Ross Greer
+Assistant Professor
+
+rossgreer@ucmerced.edu
+
+Autonomous Driving
+Computer Vision
+Human-Robot Interaction
+Multimodal Machine Learning
+Novelty Detection
+Hua Huang
+Hua Huang
+Assistant Professor
+
+hhuang80@ucmerced.edu
+
+Sensor Systems
+Wireless Networks
+Ubiquitous Computing
+Smart Healthcare
+Hyeran Jeon
+Hyeran Jeon
+Associate Professor
+
+hjeon7@ucmerced.edu
+
+Computer Architecture
+HW/SW Interaction
+Energy Efficient System
+Reliable and Secure System 
+Angelo Kyrilov
+Angelo Kyrilov
+Assistant Teaching Professor
+
+akyrilov@ucmerced.edu
+
+CO1 370
+
+Dong Li
+Dong Li
+Associate Professor
+
+dli35@ucmerced.edu
+
+High performance computing
+Fault tolerance/resilience in large-scale parallel and distributed systems
+Power-aware computing
+Performance modeling and optimization
+
+Xiaoyi Lu
+Assistant Professor
+
+xiaoyi.lu@ucmerced.edu
+
+Parallel and Distributed Computing
+Systems for HPC, Big Data, AI, and others
+Virtualization and Cloud Computing
+High-Performance Communication and I/O
+Performance, Scalability, Fault tolerance, QoS, and others
+Shawn Newsam
+Shawn Newsam
+Professor
+
+snewsam@ucmerced.edu
+
+Image processing
+Computer vision
+Pattern recognition
+Machine learning
+Content-based information retrieval
+Digital libraries, data mining and knowledge discovery in spatio-temporal, multimedia and scientific datasets
+Shijia Pan
+Shijia Pan
+Assistant Professor
+
+span24@ucmerced.edu
+
+Cyber-Physical Systems
+Internet-of-Things
+Ubiquitous Computing
+Multimodal signal processing for IoT applications
+Vibration/acoustic signal processing
+Florin
+Florin Rusu
+Professor and Department Chair (CSE)
+
+frusu@ucmerced.edu
+
+Large scale data management
+Database systems design and implementation
+Data aggregation methods
+Approximation and randomized algorithms
+
+Pengfei Su
+Assistant Professor
+
+psu9@ucmerced.edu
+
+Programming Languages
+Static and Dynamic Program Analysis
+High-performance/Parallel Computing
+Software Engineering
+
+Meng Tang
+Assistant Professor
+
+mtang4@ucmerced.edu
+
+computer vision
+machine learning
+discrete optimization
+augmented and virtual reality
+
+Yiwei Wang
+Assistant Professor
+
+yiweiwang2@ucmerced.edu
+
+Natural Language Processing
+Large Language Models
+Graph Machine Learning
+Social Media
+
+Twitter/X: https://twitter.com/wangyiw33973985
+Ming-Hsuan Yang
+Ming-Hsuan Yang
+Professor and Graduate Chair, EECS
+
+mhyang@ucmerced.edu
+
+Computer vision
+Pattern recognition
+Machine learning

@@ -1,0 +1,64 @@
+CSE major advice
+I am currently in cse30 I had failed this class f23 and now am retaking the class I barely understanding the material and am only getting the labs done and because the code is the same from last semesters. We just had a midterm and I got a very very low score. I feel like the other kids are so far ahead and are doing these labs on there own with little to no struggle. I am a commuter student and am not often on campus other than going to classes and am unaware of the type of resources and ways that can help me understand the course and its material. I feel like I am barely getting into the advanced courses and I am barely holding on. Any advice ??
+
+10
+·
+11
+u/AmericanExpress avatar
+AmericanExpress
+•
+Promoted
+
+Talk to the professor. You might also talk to the folks at the Bright Success Center for help with things like time management or finding a tutor. But definitely talk to the professor! Just go to their office hours and say you need help.
+
+8
+u/incognito209 avatar
+incognito209
+•
+2y ago
+I graduated in December 2021 with my BS in CSE. I wasn’t the smartest student by any means but I slowly figured out how I learn best. I watched YouTube videos, read short content online (blogs/documentation), traced through the code with pencil/paper, used print statements when running my code in my IDE, and wrote extensive notes.
+
+Sitting in lectures was not my thing. I liked finding a quiet place to do my work. I also commuted for 2 semesters. Don’t let your mind psych you out. You have plenty of time to bounce back!
+
+6
+u/Free_Row6202 avatar
+Free_Row6202
+OP
+•
+2y ago
+Any online sources that you remember that helped out? Any tips on note taking? I do feel like I have time to bounce back but I feel like it’s a long shot now that I depends on the final grade
+
+2
+u/incognito209 avatar
+incognito209
+•
+2y ago
+I found this cool visualization tool: https://pythontutor.com/visualize.html#mode=edit
+
+It’s set to Python by default but you can change it to Java or C++. You can run your code and it’ll visually show you what’s going on.
+
+When you are programming, do you understand what is going on in the code line by line or are you just copy/pasting bits of code? It’s crucial that you understand the logic and flow of the code you are writing.
+
+Read the textbook, watch YouTube videos, read blogs/documentation, go to office hours, and connect with a tutor on campus.
+
+Labs
+The labs arent easy and I dont believe you will ever feel that they are. They are designed to make you bash your head against the wall until you get a solution, like the many other CS classes that came before this. However, I do think that you should try to identify what youre lacking in for the labs. For example, are you failing to understand the algorithms and structures you are trying to implement, or are you failing to implement it?
+
+If its the implementation, I would suggest you take a few steps back and try to truly understand pointers, classes (structs), and the other things that come with object oriented programming (inheritance and polymorphism comes to mind).
+
+If its both... then start with understanding the algos/structs as it’s quicker and then slowly build your C++ knowledge so you can implement them (this is what the labs are trying to do in the first place). I know its tempting to just copy and paste from somewhere but it wont help you in the long run.
+
+DSA In General
+If you want to practice programming/analyzing these DSA concepts, use websites like Leetcode or Neetcode that kind of game-ify it for you. Again, if its just the concepts that youre struggling with, use a different language youre familiar with (Python/Java) as it takes out all the weird C++ quirks.
+
+1
+navy63
+•
+2y ago
+If you’re struggling communicate that with your professor/TA they’re meant to help you (show you resource’s available) :) (if they don’t it says more about them than you)
+
+2
+Hot_Knowledge8513
+•
+2y ago
+dm 🙏

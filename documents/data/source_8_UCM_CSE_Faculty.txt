@@ -1,0 +1,234 @@
+Computer Science & Engineering (CSE)
+Ahmed Arif heashot
+Ahmed Arif
+Assistant Professor
+
+asarif@ucmerced.edu
+
+SE2 212
+
+Smarter solutions for text entry, error correction, and editing on various devices
+Mobile interaction, tangible user interfaces, child-computer interaction, usable security, and scientific data visualization
+Lab Websites:
+
+Inclusive Interaction Lab
+Youtube Channel
+Stefano Carpin headshot
+Stefano Carpin
+Professor and Associate Dean for Research and Graduate Programs
+
+scarpin@ucmerced.edu
+
+SE2 222 Research Website
+
+Robotics
+Motion planning
+Cooperative multi-robot systems
+Urban search and rescue & service robotics
+High fidelity robot simulation
+Artificial intelligence
+Miguel Carreira-Perpinan headshot
+Miguel Carreira-Perpiñán
+Professor
+
+mcarreira-perpinan@ucmerced.edu
+
+SE2 217 Research Website
+
+Professor Carreira-Perpiñán's basic research interests are in machine learning — the estimation of models and representations from data. Most recently, he has been working on topics in the intersection of optimization and machine learning, in particular in learning algorithms for deep neural nets and for nonlinear embeddings. Other topics of interest are dimensionality reduction/manifold learning, clustering, denoising and other unsupervised learning problems, and mean-shift algorithms. He often gets inspiration from problems in speech processing (e.g. articulatory inversion and model adaptation), computer vision (e.g. segmentation, articulated pose tracking, image registration), sensor networks, robotics (e.g. inverse kinematics) and other application areas. In the past, he has also worked on computational neuroscience, specifically on dimension reduction models of the maps of the visual cortex.
+
+Alberto Cerpa headshot
+Alberto Cerpa
+Associate Professor
+
+acerpa@ucmerced.edu
+
+SE2 221
+
+Professor Cerpa's broad interests lie broadly in the computer networking and distributed systems areas. His recent focus has been systems research in wireless sensor networks, with emphasis in wireless radio channel measurement and modeling, link quality estimation, routing algorithms, topology control, and programming models. Professor Cerpa is also interested in Internet protocols and operating systems issues. In the past, he has been involved in active networking, mobile IP, and protocol design and verification research.
+
+His research group develops and deploys sensor networks that address some of the grand challenges in science and engineering, mostly in the energy, health and instruments for scientific discovery domains. Some of his projects include developing instruments for solar radiation mapping, energy and occupancy monitoring in smart buildings and exercise physiology monitoring and modeling.
+
+Santosh Chandrasekhar headshot
+Santosh Chandrasekhar
+Assistant Teaching Professor
+
+schandrasekhar@ucmerced.edu
+
+SE2 273
+
+Development of effective teaching strategies for undergraduate computer science courses
+Development of a security education program for undergraduate students
+Wan Du Portrait
+Wan Du
+Assistant Professor
+
+wdu3@ucmerced.edu
+
+SE2 208 Research Website
+
+Internet of Things (IoT)
+Wireless Networking and Sensing
+Edge Computing
+Reinforcement Learning
+Data Analytics
+
+Giovanni Gonzalez Araujo
+Assistant Teaching Professor
+
+ggonzalezaraujo@ucmerced.edu
+
+Development of educational software tools for effective teaching and learning in computer science.
+Development of interactive curriculum for introductory programming courses.
+
+Ross Greer
+Assistant Professor
+
+rossgreer@ucmerced.edu
+
+Autonomous Driving
+Computer Vision
+Human-Robot Interaction
+Multimodal Machine Learning
+Novelty Detection
+Hua Huang
+Hua Huang
+Assistant Professor
+
+hhuang80@ucmerced.edu
+
+SE2 275 Research Website
+
+Sensor Systems
+Wireless Networks
+Ubiquitous Computing
+Smart Healthcare
+Hyeran Jeon
+Hyeran Jeon
+Associate Professor
+
+hjeon7@ucmerced.edu
+
+SE2 272 Research Website
+
+Computer Architecture
+HW/SW Interaction
+Energy Efficient System
+Reliable and Secure System 
+Angelo Kyrilov
+Angelo Kyrilov
+Assistant Teaching Professor
+
+akyrilov@ucmerced.edu
+
+CO1 370
+
+Dong Li
+Dong Li
+Associate Professor
+
+dli35@ucmerced.edu
+
+SE2 211 Research Website
+
+High performance computing
+Fault tolerance/resilience in large-scale parallel and distributed systems
+Power-aware computing
+Performance modeling and optimization
+
+Xiaoyi Lu
+Assistant Professor
+
+xiaoyi.lu@ucmerced.edu
+
+SE2 277 Research Website
+
+Parallel and Distributed Computing
+Systems for HPC, Big Data, AI, and others
+Virtualization and Cloud Computing
+High-Performance Communication and I/O
+Performance, Scalability, Fault tolerance, QoS, and others
+Shawn Newsam
+Shawn Newsam
+Professor
+
+snewsam@ucmerced.edu
+
+SE2 215 Research Website
+
+Image processing
+Computer vision
+Pattern recognition
+Machine learning
+Content-based information retrieval
+Digital libraries, data mining and knowledge discovery in spatio-temporal, multimedia and scientific datasets
+Shijia Pan
+Shijia Pan
+Assistant Professor
+
+span24@ucmerced.edu
+
+SE2-274 Research Website
+
+Cyber-Physical Systems
+Internet-of-Things
+Ubiquitous Computing
+Multimodal signal processing for IoT applications
+Vibration/acoustic signal processing
+Florin
+Florin Rusu
+Professor and Department Chair (CSE)
+
+frusu@ucmerced.edu
+
+SE2 210 Research Website
+
+Large scale data management
+Database systems design and implementation
+Data aggregation methods
+Approximation and randomized algorithms
+
+Pengfei Su
+Assistant Professor
+
+psu9@ucmerced.edu
+
+Programming Languages
+Static and Dynamic Program Analysis
+High-performance/Parallel Computing
+Software Engineering
+
+Meng Tang
+Assistant Professor
+
+mtang4@ucmerced.edu
+
+SE2 279 Research Website
+
+computer vision
+machine learning
+discrete optimization
+augmented and virtual reality
+
+Yiwei Wang
+Assistant Professor
+
+yiweiwang2@ucmerced.edu
+
+Natural Language Processing
+Large Language Models
+Graph Machine Learning
+Social Media
+
+Twitter/X: https://twitter.com/wangyiw33973985
+Ming-Hsuan Yang
+Ming-Hsuan Yang
+Professor and Graduate Chair, EECS
+
+mhyang@ucmerced.edu
+
+SE2 216 Research Website
+
+Computer vision
+Pattern recognition
+Machine learning

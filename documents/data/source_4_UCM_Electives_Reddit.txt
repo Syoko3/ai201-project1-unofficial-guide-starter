@@ -1,0 +1,41 @@
+CSE majors: what CSE electives do you think are the hardest and easiest?
+Was talking with my friends about the cse electives at UC Merced and we came to conclusion that the easiest ones are cse 108, 107, and 111. On the harder side ive heard cse 160 is pretty tough. What do you guys think?
+
+9
+·
+2
+u/maybellinenewyork avatar
+maybellinenewyork
+•
+Promoted
+
+THE #1 MASCARA BRAND WANTS YOU TO TAKE YOUR MASCARA OFF
+Shop Now
+amazon.com
+Clickable image which will reveal the video player: THE #1 MASCARA BRAND WANTS YOU TO TAKE YOUR MASCARA OFF
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Comments Section
+user0262738
+•
+7mo ago
+does 108 count towards the technical elective requitemment?
+
+1
+dantheman898
+•
+8mo ago
+I’m in 160 and 176 right now.
+
+160 with Cerpa is pretty hardcore; the reading and homework’s aren’t too too bad in terms of concepts, understanding them, doing basic computations and calculations with network related stuff. That class is hard because of the projects. Everything that the class teaches you about the projects is at a very high level, so you have to completely understand the environment and implementation on your own time, and it’s not easy at all.
+
+176 right now is also looking to be pretty difficult. The annoying thing about 176 is that there’s not a lot of coding, and not a lot of homework. Everything is math and conceptual understanding, also Miguel is kind of a dinosaur… he refuses to use canvas and instead uses his own course webpage (which mind you didn’t work on school WiFi for like the first two and a half weeks of class). All in all though he knows his shit, and it seems like he does actually care about his students.
+
+I took 108. Wasn’t too bad. Mostly tedious, I had 0 experience with js, html and css, so learning js from the ground up was probably the most annoying thing about it.
+
+Hope this helps.

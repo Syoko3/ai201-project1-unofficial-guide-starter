@@ -1,0 +1,45 @@
+=========================================
+CSE 100: Algorithm Design and Analysis
+=========================================
+Prof: Ross Greer, Hua Huang / Spring 2026
+
+Apr 23, 2026
+
+Course Content
+As a result of the 80% weight of exams, the class is extremely lecture-heavy. Code is rarely to never discussed, displayed, or demonstrated in lecture, with the focus being on the concepts instead. Conversely, the labs are entirely code.
+
+Advice
+If I had known this class was as demoralizing and demanding as it is, I would have dropped or withdrawn.
+
+Delivery: In personGrade: Not sure yetWorkload: HeavyTextbook Use: Optional
+Exam Heavy
+
+=========================================
+CSE 107: Intro to Digital Image Process
+=========================================
+Prof: Shawn Newsam / Spring 2022
+
+May 26, 2022
+
+Course Content
+Image processing class. Went over how digital images are made and numerous ways to alter them with an algorithm. Not alot of things to turn in, so don't get caught slacking for any of the 5 labs or homeworks
+
+Advice
+Make sure that you double check which version of the book you have
+
+Delivery: In personGrade: B+Workload: ModerateTextbook Use: Yes
+Project HeavyAssignment Heavy
+
+=========================================
+CSE 160: Computer Networks
+=========================================
+Prof: Shijia Pan / Spring 2022
+
+Course Content
+Hella good, this was one of the most interesting classes I've taken of the upper divs.
+
+Advice
+Don't take it, sit in on lectures
+
+Delivery: In personGrade: CWorkload: Very HeavyTextbook Use: Yes
+Project Heavy

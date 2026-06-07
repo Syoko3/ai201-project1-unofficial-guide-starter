@@ -21,16 +21,16 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | Coursicle | UC Merced CSE Courses & Professors Ratings | https://www.coursicle.com/ucmerced/courses/CSE/ |
+| 1 | Rate My Courses | UC Merced CSE Courses Reviews | https://www.ratemycourses.io/uc-merced/department/cse |
 | 2 | Rate My Professors | UC Merced CSE Professors Ratings | https://www.ratemyprofessors.com/search/professors/4767?q=*&did=11 |
-| 3 | Rate My Courses | UC Merced CSE Courses Reviews | https://www.ratemycourses.io/uc-merced/department/cse |
-| 4 | Reddit | UC Merced & Computer Science & Engineering Reviews | https://www.reddit.com/r/ucmerced/comments/m08y2s/uc_merced_and_computer_science_and_engineering/ |
-| 5 | Reddit | What CSE electives do you think are the hardest and easiest? | https://www.reddit.com/r/ucmerced/comments/1nu6w64/cse_majors_what_cse_electives_do_you_think_are/ |
-| 6 | UC Merced | CSE Courses Descriptions | https://catalog.ucmerced.edu/content.php?filter%5B27%5D=CSE&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=23&expand=&navoid=2517&search_database=Filter#acalog_template_course_filter |
-| 7 | UC Merced | CSE Faculty | https://engineering.ucmerced.edu/departments/computer-science-engineering-cse |
-| 8 | Facebook | Computer Science at UC Merced vs SJSU | https://www.facebook.com/groups/collegeadmissionscorner/posts/1464265537775004/ |
+| 3 | Reddit | UC Merced & Computer Science & Engineering Reviews | https://www.reddit.com/r/ucmerced/comments/m08y2s/uc_merced_and_computer_science_and_engineering/ |
+| 4 | Reddit | What CSE electives do you think are the hardest and easiest? | https://www.reddit.com/r/ucmerced/comments/1nu6w64/cse_majors_what_cse_electives_do_you_think_are/ |
+| 5 | Reddit | Will cse ever be impacted at ucm? | https://www.reddit.com/r/ucmerced/comments/1gvksls/will_cse_ever_be_impacted_at_ucm/ |
+| 6 | Reddit | CSE Major Advice | https://www.reddit.com/r/ucmerced/comments/1b6wttq/cse_major_advice/ |
+| 7 | UC Merced | CSE Courses Descriptions | https://catalog.ucmerced.edu/content.php?filter%5B27%5D=CSE&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=23&expand=&navoid=2517&search_database=Filter#acalog_template_course_filter |
+| 8 | UC Merced | CSE Faculty | https://engineering.ucmerced.edu/departments/computer-science-engineering-cse |
 | 9 | UC Merced | Computer Science & Engineering Advising | https://engr-advising.ucmerced.edu/majors/cse |
-| 10 | Reddit | Will cse ever be impacted at ucm? | https://www.reddit.com/r/ucmerced/comments/1gvksls/will_cse_ever_be_impacted_at_ucm/ |
+| 10 | Quora | Should I consider CS at UC Merced? | https://www.quora.com/Should-I-consider-CS-at-UC-Merced |
 
 ---
 
@@ -42,19 +42,19 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-- Sources 1, 2, 3, 9: 150-200 characters
-- Sources 3, 4, 5, 8, 9, 10: 200-300 characters
-- Sources 6, 7: 400-500 characters
+- Sources 1-2: 150-200 characters
+- Sources 3-6, 10: 200-300 characters
+- Sources 7-9: 400-500 characters
 
 **Overlap:**
-- Sources 1, 2, 3, 9: 0 characters
-- Sources 4, 5, 8, 10: 20 characters
-- Sources 6, 7: 50 characters
+- Sources 1-2: 10 characters
+- Sources 3-6, 10: 50 characters
+- Sources 7-9: 100 characters
 
 **Reasoning:**
-- Sources 1, 2, 3, 9: Sources 1-3 are the ratings and reviews of the CSE courses and professors with short comments. Source 9 shows how does the CSE in UC Merced works with the faculty members.
-- Sources 4, 5, 8, 10: They are Reddit, Facebook, or Quora posts with long comments, and some people will say at least 3 bullet points and explain them in detail.
-- Sources 6, 7: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course.
+- Sources 1-2: They are the ratings and reviews of the CSE courses and professors with short comments.
+- Sources 3-6, 10: They are Reddit (sources 3-6) or Quora (source 10) posts with long comments, and some people will say at least 3 bullet points and explain them in detail.
+- Sources 7-9: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course. Source 9 also explains how the CSE in UC Merced works with the faculty members.
 
 ---
 
@@ -88,9 +88,9 @@ all-MiniLM-L6-v2 via sentence-transformers
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | How was the CSE 100 workload in Fall 2026? | CSE 100 had 4 midterms with 14% weight each (56% total), and the final had 24%. Students said there is no real incentive to learn besides surviving the 80% tank and gaining access to required classes. |
+| 1 | How was the CSE 100 workload in Spring 2026? | CSE 100 had 4 midterms with 14% weight each (56% total), and the final had 24%. Students said there is no real incentive to learn besides surviving the 80% tank and gaining access to required classes. |
 | 2 | What is the hardest CSE course in the UC Merced? | The hardest CSE course is CSE 160 because one student said the projects are in very high level, so you need to completely understand the environment and implementation by your own time. |
-| 3 | How did the faculty design the UC Merced CSE curriculum to balance theory and modern technology? | Computer science and engineering students at UC Merced work with the world's top computer scientists and engineers, and their faculty members worked on development of a program of study that combines practical exposure to the most modern technologies available with a theoretical foundation. |
+| 3 | Should CS in UC Merced has to be considered as a bad choice? | No, because CS isn’t taught or learned better as you get closer to the coast, and UC Merced students are bright, even if they don't have same academic track record as their peers at some other UCs. |
 | 4 | How was the professor Santosh Chandrasekhar's grading policy in CSE 31? | His grading policy was very balanced, with only 35% worth on exams. Presenting your lab coding assignments/project to the TA was very helpful. |
 | 5 | What do students say about the quality of CS classes in UC Merced? | Students said that many lectures used in some classes are outdated. Most professors focus on the theoretical parts of the clases instead of teaching us more technical skills used in the industry, but others also care about your technical growth. |
 
@@ -152,3 +152,5 @@ I will use Gemini for my Retrieval Approach section and ask it to implement the 
 
 **Milestone 5 — Generation and interface:**
 I will use Claude Code for generation and interface section and ask it to implement the interactive chat UI components, API integration layers, and frontend UI layout. I expect with the user inputting in the chat UI, and the response should be structured and similar or exactly same as the expected answers I mentioned in the Evaluation Plan section, including the citations. I will verify by testing end-to-end data binding between user queries and the local-to-Groq pipeline.
+
+236 chunks total

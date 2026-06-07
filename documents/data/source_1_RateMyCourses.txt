@@ -1,0 +1,65 @@
+=========================================
+CSE 100: Algorithm Design and Analysis
+=========================================
+Prof: Ross Greer, Hua Huang / Spring 2026
+
+Apr 23, 2026
+
+Comments on the course
+Could have been a good class, but midterms (4, with a 14% weight each, one is dropped at the end) have a total of 56% weight and the final has 24%, making everything else nearly worthless. There is no real incentive to learn besides surviving the 80% tank and gaining access to required classes. There are no quizzes, no homework, and no real checks for understanding. This is a class that you essentially have to teach to yourself. Class averages for exams are currently around 63%.
+
+Course Content
+As a result of the 80% weight of exams, the class is extremely lecture-heavy. Code is rarely to never discussed, displayed, or demonstrated in lecture, with the focus being on the concepts instead. Conversely, the labs are entirely code.
+
+Comments on the professor
+Both professors are kind and helpful, and are willing to answer any questions that students bring up. However, because there is so much lecture material to cover (slide decks are often 50 slides on average, with later slide decks having 100+), there are not many opportunities to ensure that students have a thorough understanding of the material being presented. 
+
+Advice
+If I had known this class was as demoralizing and demanding as it is, I would have dropped or withdrawn.
+
+Delivery: In personGrade: Not sure yetWorkload: HeavyTextbook Use: Optional
+Exam Heavy
+
+=========================================
+CSE 107: Intro to Digital Image Process
+=========================================
+Prof: Shawn Newsam / Spring 2022
+
+May 26, 2022
+
+Comments on the course
+Pretty good class. Math heavy (Math24), but he'll go over all that you need.
+
+Course Content
+Image processing class. Went over how digital images are made and numerous ways to alter them with an algorithm. Not alot of things to turn in, so don't get caught slacking for any of the 5 labs or homeworks
+
+Comments on the professor
+Good professor. Knew what he was doing and generous grader.
+
+Advice
+Make sure that you double check which version of the book you have
+
+Delivery: In personGrade: B+Workload: ModerateTextbook Use: Yes
+Project HeavyAssignment Heavy
+
+=========================================
+CSE 160: Computer Networks
+=========================================
+Prof: Shijia Pan / Spring 2022
+
+May 26, 2022
+
+Comments on the course
+This is one of the CSE filter classes. The content of the class is incredibly interesting and having a strong understanding of the theory is great for later networking work. However, there is a 50% of your grade project that is the main thing holding this class back. I recommend attending lectures but not taking the class.
+
+Course Content
+Hella good, this was one of the most interesting classes I've taken of the upper divs.
+
+Comments on the professor
+Not particularly good or bad. She teached off another's professor's lectures and went through the slides very quicklly.
+
+Advice
+Don't take it, sit in on lectures
+
+Delivery: In personGrade: CWorkload: Very HeavyTextbook Use: Yes
+Project Heavy

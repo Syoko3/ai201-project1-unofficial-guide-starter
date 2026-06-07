@@ -1,0 +1,1293 @@
+Computer Science and Engineering
+  	
+CSE 005: Introduction to Computer Applications
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 005: Introduction to Computer Applications
+Units: 4
+
+Presents the use of computers to control information flow including data collection, management, analysis, and presentation. Basic programming skills, selection of appropriate computer-based tools and languages, and data security are covered. Emphasis is placed on computer knowledge necessary to successfully use and manage data and information.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Intellectual Experience: Ethics
+
+Requisites and Restrictions
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 015: Discrete Mathematics
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 015: Discrete Mathematics
+Units: 4
+
+Explores basic concepts of discrete mathematics used in computer science and other disciplines that involve formal reasoning. Topics include logic, proof, counting, discrete probability, relations, graphs, trees, and Boolean algebra.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 019: Introduction to Computing
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 019: Introduction to Computing
+Units: 4
+
+Presents the basics of programming to a student with no prior experience. Concepts of Input/Output, Data Types, Variables and Arrays will be introduced in the context of solving problems. Elementary programming skills such as conditional and loops execution will be emphasized. Object-oriented Programming, recursion and data manipulation will also be introduced. Students are expected to solve problems using different programming paradigms.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Lower Division: Language
+
+Requisites and Restrictions
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 022: Introduction to Programming
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 022: Introduction to Programming
+Units: 4
+
+Introduces students to programming, computational thinking, and problem solving concepts, teaching students how to use computers as tools rather than appliances. In addition to programming skills, students also learn industry-standard practices, such as version control, unit testing and debugging. Follows a Project-Based Learning Philosophy, with Python as the main programming language, but students also get exposure to HTML, CSS, JavaScript, and SQL.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade with Pass/No Pass option
+
+GE Requirements
+Lower Division: Language
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 005 or equivalent exam
+Open only to following major/minor(s):
+Applied Mathematical Sciences (Undergraduate) - MATH
+Computer Science & Engineering (Undergraduate) - CSE
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 024: Advanced Programming
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 024: Advanced Programming
+Units: 4
+
+Intended for students with basic to intermediate programming skills, and introduces them to advanced programming techniques such as pointers and memory management, exception handling, multi-threading, object oriented programming, and generic programming. The C++ language is used throughout the course.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 022
+Open only to following major/minor(s):
+Applied Mathematical Sciences (Undergraduate) - MATH
+Computer Science & Engineering (Undergraduate) - CSE
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 030: Data Structures
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 030: Data Structures
+Units: 4
+
+Focuses on the design, analysis, and implementation of fundamental data structures, design patterns, and algorithms used throughout computer science, including linked lists, stacks, queues, trees, hash tables, graphs, recursion, and methods for searching and sorting.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 024
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 031: Computer Organization and Assembly Language
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 031: Computer Organization and Assembly Language
+Units: 4
+
+Exposes students to the underlying structure of machines. Starting from C programming, pointers, data representation, MIPS instruction-set, Compilation process and down to Hardware implementation.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 024 and CSE 030
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 095: Lower Division Undergraduate Research
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 095: Lower Division Undergraduate Research
+Lower Unit Limit: 1
+Upper Unit Limit: 5
+
+Supervised research.
+
+Course Details
+Repeats Allowed for Credit: 99
+
+Normal Letter Grade with Pass/No Pass option
+
+Requisites and Restrictions
+Instructor Permission Required: Yes
+
+
+View course scheduling information
+
+
+
+  	
+CSE 098: Lower Division Directed Group Study
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 098: Lower Division Directed Group Study
+Lower Unit Limit: 1
+Upper Unit Limit: 5
+
+Course Details
+Repeats Allowed for Credit: 99
+
+Pass/No Pass only
+
+Requisites and Restrictions
+Instructor Permission Required: Yes
+
+
+View course scheduling information
+
+
+
+  	
+CSE 099: Lower Division Individual Study
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 099: Lower Division Individual Study
+Lower Unit Limit: 1
+Upper Unit Limit: 5
+
+Course Details
+Repeats Allowed for Credit: 99
+
+Pass/No Pass only
+
+Requisites and Restrictions
+Instructor Permission Required: Yes
+
+
+View course scheduling information
+
+
+
+  	
+CSE 100: Algorithm Design and Analysis
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 100: Algorithm Design and Analysis
+Units: 4
+
+Introduction to the design and analysis of computer algorithms. Topics will include concepts of algorithm complexity, and various algorithmic design patterns like divide and conquer, dynamic programming and greedy algorithms. Also covers major algorithms and data structures for searching and sorting, graphs and some optimization techniques.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 024 and CSE 030 and (MATH 023 or MATH 023H) and (MATH 032 or ENGR 080)
+Prerequisite Courses with Concurrent Option: CSE 031 and MATH 024
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 106: Exploratory Computing
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 106: Exploratory Computing
+Units: 4
+
+Our ability to manipulate data depends on and is limited by our familiarity with computing technologies. We study tools for exploratory computing, emphasizing programming and scripting languages over point-and-click interfaces. We cover the Unix basics and common utilities, regular expressions, Perl and R languages. Development of a problem solving ability to learn languages independently and cull online documentation.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 107: Introduction to Digital Image Processing
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 107: Introduction to Digital Image Processing
+Units: 4
+
+Overview of digital image processing including visual perception, image formation, spatial transformations, image enhancement, color image representations and processing, edge detection, image segmentation, and morphological image processing.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Sophomore
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 108: Full Stack Web Development
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 108: Full Stack Web Development
+Units: 4
+
+Explores topics related to both front end and backend web development including web security, scalable architecture, web frameworks, databases, and object relational mappers.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and MATH 024
+Prerequisite Courses with Concurrent Option: CSE 100
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 111: Database Systems
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 111: Database Systems
+Units: 4
+
+Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Sophomore
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 120: Software Engineering
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 120: Software Engineering
+Units: 4
+
+Teams work on approved design projects or on software teams. Through these projects, students will practice design methodology and learn modern software engineering techniques to create reliable, efficient, reusable, and maintainable software systems using various design process models. Good standard project practices topics will be covered.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Culminating Experience
+Intellectual Experience: Scientific Method
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Cannot also be taken due to similarity of content: ENGR 190, ENGR 193, ENGR 194
+Open only to the following class level(s):
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 126: Information Systems and Service Design
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 126: Information Systems and Service Design
+Units: 4
+
+Presents an end-to-end view of the design life cycle for information systems and services. Explains how design problems are conceived, researched, analyzed and resolved in different types of organizations and contexts, including start-ups, enterprises with legacy-systems, non-profit and government entities.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Crosslisted with: MGMT 126
+Discussion included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Open only to following major/minor(s):
+Management & Business Economics (Undergraduate) - MBE
+Computer Science & Engineering (Undergraduate) - CSE
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 130: Introduction to Cryptography
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 130: Introduction to Cryptography
+Units: 4
+
+Introduces the basic theory and practice of cryptographic techniques used in computer security by exploring the inner workings, mathematical assumptions and foundations of cryptographic primitives and how to use them correctly. Topics include pseudorandom functions, one-way functions, cryptographic hashing, encryption (symmetric and public-key), message integrity, message authentication codes, digital signatures, key management, security protocols and more. Covers the necessary mathematical background, formal definitions of security and proofs of security based on precise definitions and assumptions.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Instructor Permission Required: No
+A strong mathematical background in probability and statistics is preferred.
+
+
+View course scheduling information
+
+
+
+  	
+CSE 135: Introduction to Theory of Computation
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 135: Introduction to Theory of Computation
+Units: 4
+
+Understanding the inherent capabilities and limitations of computers is a fundamental question in computer science. To answer this question, we will define formal mathematical models of computation, and study their relationships with formal languages. Topics will consist of three central areas of the theory of computation: automata, computability, and complexity.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 140: Computer Architecture
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 140: Computer Architecture
+Units: 4
+
+Fundamental concepts of digital computer design, including instruction sets, memory systems and registers, logic and mathematics units, modern CPUs and their architectural features are discussed along with the motivation for each design choice.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and ENGR 065
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 141: Introduction to Compiler Construction
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 141: Introduction to Compiler Construction
+Units: 4
+
+Explores basic concepts and techniques in compiler construction. Examines topics such as, lexical analysis, finite automata, parsing, context-sensitive analysis, intermediate representation, code shape analysis, code optimizations, code generation, and register allocation.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 150: Operating Systems
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 150: Operating Systems
+Units: 4
+
+Concepts of computer operating systems including concurrency, memory management, file systems, multitasking, performance analysis, and security.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 151: Advanced Operating Systems
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 151: Advanced Operating Systems
+Units: 4
+
+Introduces the concept of advanced Operating Systems, including distributed operating system, real-time operating systems, advanced computer networks and security. Covers both fundamental knowledge and top-flight research topics in Operating Systems.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Conjoined with: EECS 251
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 150
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 155: Introduction to Human-Computer Interaction
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 155: Introduction to Human-Computer Interaction
+Units: 4
+
+Introduces students to the basic concepts in the theory and practice of Human-Computer Interaction (HCI). Teaches how hardware and software design influence the interaction between human and computers to provide insights into the design and development of safe, effective, and accessible interactive systems.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Intellectual Experience: Ethics
+Intellectual Experience: Scientific Method
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 100 and CSE 031 and MATH 024
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+Strong skills in programming preferred.
+
+
+View course scheduling information
+
+
+
+  	
+CSE 157: Signal Processing for Internet of Things
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 157: Signal Processing for Internet of Things
+Units: 4
+
+Introduces methods for signal processing between digitization and inference algorithms, where time-series signals are pre-processed. Explores the applications of Internet of Things (IoT) systems, smart connected devices in people’s lives, and examples of converting physical world analog signals to digital ones. Includes topics both theoretical and practical.
+
+Course Details
+Repeats Allowed for Credit: 1
+
+Laboratory included
+Normal Letter Grade with Pass/No Pass option
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 160: Computer Networks
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 160: Computer Networks
+Units: 4
+
+Design concepts and implementation features of computer networks. Concepts of network robustness, scalability, addressing, routing, and security. Several contemporary networking protocols are analyzed.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade with Pass/No Pass option
+
+GE Requirements
+Intellectual Experience: Ethics
+Intellectual Experience: Sustainability
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 162: Mobile Computing
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 162: Mobile Computing
+Units: 4
+
+Introduces mobile cloud computing’s basic concepts, including different types of mobile computing devices and applications, the communication technologies used in modern smartphones, the context-aware computing technologies, and programming on mobile devices.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and MATH 024 and CSE 100 and CSE 165
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 165: Introduction to Object Orientated Programming
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 165: Introduction to Object Orientated Programming
+Units: 4
+
+Topics include object-oriented programming concepts, such as classes, objects, methods, interfaces, packages, inheritance, encapsulation, and polymorphism.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Crosslisted with: ENGR 140
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 168: Distributed Software Systems
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 168: Distributed Software Systems
+Units: 4
+
+Covers the foundations of distributed software systems and their practical designs. Includes concepts and principles of distributed systems (e.g., consistency, availability, scalability, etc.); programming models for distributed computing (e.g., batch/streaming processing, RPC, Key-Value, etc.); distributed storage systems (e.g., indexing, replication, partition, and erasure coding, etc.); and convergence of HPC, Big Data, AI, and Cloud Computing with modern distributed systems.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Intellectual Experience: Scientific Method
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 170: Computer Graphics
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 170: Computer Graphics
+Units: 4
+
+Basic algorithms in computer graphics enabling students to understand and experience the process of implementing modern computer graphics applications. Topics covered: programmable shaders, rasterization, hidden surface removal, transformations, rendering pipeline, scene graphs, curves and surfaces, boundary representation, spatial partition methods, keyframe animation, texture mapping, illumination and shading.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and (CSE 165 or ENGR 140) and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 171: Game Programming
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 171: Game Programming
+Units: 4
+
+Covers the main algorithms and techniques used in the implementation of interactive 3D Graphics, such as in Computer Games, Robotics Simulators and Virtual Reality. Topics covered are: keyframe animation, articulated figures, direct and inverse kinematics, physically-based simulation, path planning, behavior-based animation, scripting behaviors, and other advanced topics.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Conjoined with: EECS 287
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Approaches to Knowledge: Media and Visual Analysis
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE100 and CSE 165 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 173: Computational Cognitive Neuroscience
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 173: Computational Cognitive Neuroscience
+Units: 4
+
+Design and analysis of computational simulations of human behavior and brain function. Techniques for modeling active membranes, individual neurons, the dynamics produced by recurrent excitation and lateral inhibition, synaptic plasticity, and the computational role of neurotransmitters. Formal models of perception, attention, learning, memory, language, categorization, and cognitive control.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Crosslisted with: COGS 123
+Laboratory included
+Normal Letter Grade with Pass/No Pass option
+
+Requisites and Restrictions
+Prerequisite Courses: COGS 001 and any upper-division COGS course
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 175: Introduction to Artificial Intelligence
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 175: Introduction to Artificial Intelligence
+Units: 4
+
+Overview of the main concepts and methods underlying the construction and analysis of intelligent systems, including agent architectures, problem solving, heuristic search, knowledge representation, reasoning, planning, communication, perception, robotics, and machine learning. Includes a laboratory component in which intelligent systems are constructed and examined.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Crosslisted with: COGS 125
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 019 or CSE 021 or CSE 022 or equivalent exam  
+Instructor Permission Required: No
+COGS 001 recommended
+
+
+View course scheduling information
+
+
+
+  	
+CSE 176: Introduction to Machine Learning
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 176: Introduction to Machine Learning
+Units: 4
+
+Survey of techniques for development and analysis of software that learns from experience. Specific topics: supervised learning (classification, regression); unsupervised learning (density estimation, clustering, dimensionality reduction); reinforcement learning; and others. Specific techniques: linear classifiers, mixture models, nonparametric methods, decision trees, neural networks, kernel machines, ensembles, graphical models, Bayesian methods, etc.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Intellectual Experience: Scientific Method
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 141
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 177: Database Systems Implementation
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 177: Database Systems Implementation
+Units: 4
+
+Studies the internals of a database management system, with emphasis on query execution. The final goal of the class is to build a fully-functional database execution engine consisting of all the standard components: storage manager, buffer manager, query execution engine, query optimizer, and query compiler.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Conjoined with: EECS 277
+Laboratory included
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and CSE 111 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 178: Computers and Networks Security
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 178: Computers and Networks Security
+Units: 4
+
+Introduces fundamental concepts in the design and development of secure computer networks. Covers security threats, secret-key and public-key cryptography and algorithms, digital signatures, authentication, Electronic mail, Public-key infrastructure, viruses and worms.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and CSE 150 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 179: Introduction to Parallel Computing
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 179: Introduction to Parallel Computing
+Units: 4
+
+Parallel computing is pervasive. From embedded devices, laptops, to high-end supercomputer, and large-scale data centers, parallel computing is widely employed to achieve performance and efficiency targets. This course introduces the foundations of parallel computing, including parallel architectures, parallel programming methods and techniques, and parallel algorithm designs.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and CSE 140 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 180: Introduction to Robotics
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 180: Introduction to Robotics
+Units: 4
+
+Covers the basic of robotics focusing on the algorithmic side, rather than technology. Introduces basic computational techniques concerning spatial modeling, planning, and sensor processing. The course has a strong hands-on component. Implementation of different techniques in simulation will complement the theoretical lectures.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 185: Introduction to Computer Vision
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 185: Introduction to Computer Vision
+Units: 4
+
+Overview of fundamental image processing and pattern recognition techniques including image formation, edge detection, image segmentation, optical flow, recovery of three-dimensional structure from shading or stereo information, shape representations, and issues in object recognition.
+
+Course Details
+Repeats Allowed for Credit: 0
+
+Laboratory included
+Normal Letter Grade only
+
+GE Requirements
+Approaches to Knowledge: Media and Visual Analysis
+Upper Division: Crossroads
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Open only to the following class level(s):
+Junior
+Senior
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 190: Topics in Computer Science and Engineering
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 190: Topics in Computer Science and Engineering
+Lower Unit Limit: 1
+Upper Unit Limit: 4
+
+Covers special topics within Computer Science and Engineering that are not covered in the regularly scheduled courses. Each class will have a specific focus which will be defined by the instructor of the course on a semester-by-semester basis.
+
+Course Details
+Repeats Allowed for Credit: 3
+
+Normal Letter Grade only
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and MATH 024 and CSE 100
+Open only to following major/minor(s):
+Computer Science & Engineering (Undergraduate) - CSE
+
+Instructor Permission Required: No
+
+
+View course scheduling information
+
+
+
+  	
+CSE 195: Upper Division Undergraduate Research
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 195: Upper Division Undergraduate Research
+Lower Unit Limit: 1
+Upper Unit Limit: 5
+
+Supervised research.
+
+Course Details
+Repeats Allowed for Credit: 99
+
+Normal Letter Grade with Pass/No Pass option
+
+Requisites and Restrictions
+Instructor Permission Required: Yes
+
+
+View course scheduling information
+
+
+
+  	
+CSE 198: Upper Division Directed Group Study
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 198: Upper Division Directed Group Study
+Lower Unit Limit: 1
+Upper Unit Limit: 5
+
+Course Details
+Repeats Allowed for Credit: 99
+
+Pass/No Pass only
+
+Requisites and Restrictions
+Instructor Permission Required: Yes
+
+
+View course scheduling information
+
+
+
+  	
+CSE 199: Upper Division Individual Study
+Add to My Catalog (opens a new window)
+Add to My Favorites (opens a new window)
+Share this Page
+Print (opens a new window)
+CSE 199: Upper Division Individual Study
+Lower Unit Limit: 1
+Upper Unit Limit: 5
+
+Course Details
+Repeats Allowed for Credit: 99
+
+Pass/No Pass only
+
+Requisites and Restrictions
+Instructor Permission Required: Yes
+
+
+View course scheduling information
+

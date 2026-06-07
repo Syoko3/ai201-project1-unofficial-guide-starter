@@ -1,0 +1,96 @@
+will cse ever be impacted at ucm?
+Basically just the title considering cse is a pretty big major at ucm already and there's a lot of demand for it in terms of admissions could it be impacted in the future?
+
+8
+·
+11
+u/Michelob-ULTRA avatar
+Michelob-ULTRA
+•
+Promoted
+
+Stay in the game with Michelob ULTRA Zero. Official Beer Sponsor of The FIFA World Cup 26™
+Order Now
+doordash.com
+Clickable image which will reveal the video player: Stay in the game with Michelob ULTRA Zero. Official Beer Sponsor of The FIFA World Cup 26™
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+Comments Section
+u/Autobot1979 avatar
+Autobot1979
+•
+2y ago
+Cse is already impacted effectively. It's extremely difficult to graduate in 4 years as the math prereqs are difficult to get done due to low availability. Also the intro prog->adv prog->data structure->computer org progression and the fact that all electives need computer org means you can't take any electives before your 5th semester. A lot of electives are not taught every sem so if you want to graduate in 4 years you may have to take electives that don't interest you. UCM needs to hire more CS professors or move to a quarter system. Trying to be a Berkeley while having a fraction of the faculty means kids are ending up with a 5th year in college increasing student debt. Summer sems are not a solution either as most upper div courses are not taught in summer and in any case calgrant is not available for summer If nothing is done than CSE at UCM will become less attractive for those who want to graduate in 4 yrs.
+
+
+16
+internetbooker134
+OP
+•
+2y ago
+I agree more hiring needs to be done for the CSE department although from what I've heard it's hard to hire faculty and get them to move to Merced in general as it's not as attractive compared to other "college towns". Another issue is that financially there are probably constraints that restrict hiring and infrastructure missing that can handle more classes. The infrastructure part is being worked on though with COB 3 coming soon which will feature 3 huge lecture halls bigger than the ACS lecture hall right now.
+
+
+6
+u/Autobot1979 avatar
+Autobot1979
+•
+2y ago
+Agree UCM is difficult to recruit to but what prevents being on a quarter system. That way the same no of faculty could teach more courses.
+
+1
+
+2 more replies
+why_not_my_email
+•
+2y ago
+I'm a UCM faculty member, not in CSE.
+
+It's hard for computer science and software engineering programs to hire faculty because they can make much, much more money working in industry. I can imagine that this might be changing due to the tech industry layoffs that started a couple years ago. But, for all I know those might have mostly impacted folks with just a bachelor's degree or lower. Like, laying off the code monkeys rather than the people who can do innovative R&D work.
+
+Honestly, it seems like CS/SE is an oversaturated field at this point. I'm surprised it's still such an overwhelmingly popular major.
+
+
+5
+u/Autobot1979 avatar
+Autobot1979
+•
+2y ago
+I agree it's saturated but that's true for all engineering and science. In a globalized world science and engineering can be done remotely so you are competing with 2 billion Indian and Chinese. You just have to hope your expensive US education prepares you better.
+
+If you want to avoid competition choose fields that are not universal like law or which have to be done in person like medicine or which require security clearance
+
+Also Kids are still choosing CS as they feel AI is coming for all our jobs but CS jobs may be the last to go as someone needs to maintain the AI.
+
+4
+[deleted]
+•
+2y ago
+The UC application guide has the College of Engineering majors listed as Selective so these majors are already showing impaction.
+
+
+4
+internetbooker134
+OP
+•
+2y ago
+Do they list all the school of engineering majors as selective or only CSE? All of them are definitely not selective especially the new ones that have been added in the last 5 years or so
+
+
+1
+[deleted]
+•
+2y ago
+Just the College of Engineering as a whole.
+
+3
+u/Autobot1979 avatar
+Autobot1979
+•
+2y ago
+Just try getting into one of the Engr courses required as prereqs like Engr 65 and you will realize how impacted Engineering is. Its almost luck if the draw to get your courses and forget creating a nice schedule where you have some non campus days ir even non campus mornings/evenings. There are so few courses and sections taught you have to grab whatever you can and your classes will be spread all over the day all 5 days a week. Makes it extremely hard to have a part time job.
