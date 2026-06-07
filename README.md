@@ -7,6 +7,11 @@
 
 ---
 
+## Demo
+Video Link: 
+
+---
+
 ## Domain
 
 <!-- What topic or category of knowledge does your system cover?
@@ -99,10 +104,10 @@ Some sources, such as the contents from UC Merced website, were needed to transf
      the mechanism. -->
 
 **System prompt grounding instruction:**
-
+I stated first that this is an unofficial guide to UC Merced CSE courses and professors. Then I told answer the question using the numbered contexts only and cite the sources you use at that number. 
 
 **How source attribution is surfaced in the response:**
-
+The source attribution is surfaced in the response by using inline numbered context citations. These numbers map sequentially to a compiled reference list appended to the response, showing exactly which document source text was utilized to construct each specific part of the answer.
 
 ---
 
@@ -158,10 +163,10 @@ I would apply boilerplate filtering at the line level by dropping only the offen
      Answer both questions with at least 2–3 sentences each. -->
 
 **One way the spec helped you during implementation:**
-The spec helped me during implementation by 
+The spec helped me during implementation by referencing the sources and chunking strategy to break down the documents in bunch of chunks. It also helped me which AI model I used to implement so that I could reflect easier what goes right and what goes wrong at the end.
 
 **One way your implementation diverged from the spec, and why:**
-My implementation diverged from the spec by 
+My implementation diverged from the spec by loading the source files that were copied and pasted from the websites that I referenced, so the chunking size that I mentioned in the planning.md was different. This was because some of the questions used chunks that were off-target that I was expected. I fixed it by modifying the chunking size and overlap to have each chunk to include main content that could be useful for answering my questions.
 
 ---
 
