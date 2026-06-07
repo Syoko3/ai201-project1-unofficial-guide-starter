@@ -102,9 +102,9 @@ all-MiniLM-L6-v2 via sentence-transformers
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1. 
+1. The chunks that split key information across boundaries could go wrong because the vector embedding will have no idea to determine who is the professor or what class is discussed.
 
-2. 
+2. Ingestion of noisy or inconsistent documents with specified chunks will go wrong because sometimes it will end up with thousands of tokens of garbage text.
 
 ---
 
@@ -116,8 +116,20 @@ all-MiniLM-L6-v2 via sentence-transformers
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
-UML Mermaid Diagram Picture: 
-
+ASCII Art:
+Document Ingestion --> Chunking --> Embedding + Vector Store
+                                             |
+                                             |
+                                             v
+               Generation     <----      Retrieval     
+                    ^                        ^
+                    |                        |
+                    |                        |
+              Student Query   ---->      ----
+                    |
+                    |
+                    v
+            Answers + Citations
 ---
 
 ## AI Tool Plan
@@ -133,10 +145,10 @@ UML Mermaid Diagram Picture:
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
-I will use Copilot for my Chunking Strategy section and ask it to implement the chunking text function with my specified chunk size and overlap based on selected documents.
+I will use Copilot for my Chunking Strategy section and ask it to implement the chunking text function with my specified chunk size and overlap based on selected documents. I expect to produce the clear chunking text when the documents are loaded, and I will verify the output matches my spec by printing out the exact token/character count, character lengths, and boundary text snippets of your first few generated chunks.
 
 **Milestone 4 — Embedding and retrieval:**
-I will use Gemini for embedding and retrieval 
+I will use Gemini for my Retrieval Approach section and ask it to implement the embedding text function and retrieval text function with my specified top-k. I expect to produce a list of the top-k most semantically relevant text chunks alongside their metadata whenever a student query is executed. I will verify this output by checking that the retrieved snippets directly contain the answers to my test questions.
 
 **Milestone 5 — Generation and interface:**
-I will use Claude Code for generating and interface 
+I will use Claude Code for generation and interface section and ask it to implement the interactive chat UI components, API integration layers, and frontend UI layout. I expect with the user inputting in the chat UI, and the response should be structured and similar or exactly same as the expected answers I mentioned in the Evaluation Plan section, including the citations. I will verify by testing end-to-end data binding between user queries and the local-to-Groq pipeline.
