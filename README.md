@@ -76,6 +76,7 @@ My system covers about the student reviews of CSE courses and professors in UC M
      latency, and local vs. API-hosted. -->
 
 **Model used:**
+all-MiniLM-L6-v2 via sentence-transformers
 
 **Production tradeoff reflection:**
 
@@ -92,7 +93,9 @@ My system covers about the student reviews of CSE courses and professors in UC M
 
 **System prompt grounding instruction:**
 
+
 **How source attribution is surfaced in the response:**
+
 
 ---
 
@@ -130,11 +133,15 @@ My system covers about the student reviews of CSE courses and professors in UC M
 
 **Question that failed:**
 
+
 **What the system returned:**
+
 
 **Root cause (tied to a specific pipeline stage):**
 
+
 **What you would change to fix it:**
+
 
 ---
 
@@ -145,7 +152,9 @@ My system covers about the student reviews of CSE courses and professors in UC M
 
 **One way the spec helped you during implementation:**
 
+
 **One way your implementation diverged from the spec, and why:**
+
 
 ---
 
