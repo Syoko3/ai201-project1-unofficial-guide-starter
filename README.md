@@ -13,6 +13,7 @@
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+My system covers about the student reviews of CSE courses and professors in UC Merced. This is a valuable knowledge because CSE courses have heavy workload with some projects, and peer feedback can clarify either the professor is engaged actively on class or not. This is hard to find through official channels because the universities will share the peer feedback to the professor anonymously, and there are some algorithmic and demographic biases included that affects the universities to post the department and faculty rankings publicly.
 
 ---
 
@@ -22,18 +23,18 @@
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Description | URL or location |
+|---|--------|-------------|-----------------|
+| 1 | Rate My Courses | UC Merced CSE Courses Reviews | https://www.ratemycourses.io/uc-merced/department/cse |
+| 2 | Rate My Professors | UC Merced CSE Professors Ratings | https://www.ratemyprofessors.com/search/professors/4767?q=*&did=11 |
+| 3 | Reddit | UC Merced & Computer Science & Engineering Reviews | https://www.reddit.com/r/ucmerced/comments/m08y2s/uc_merced_and_computer_science_and_engineering/ |
+| 4 | Reddit | What CSE electives do you think are the hardest and easiest? | https://www.reddit.com/r/ucmerced/comments/1nu6w64/cse_majors_what_cse_electives_do_you_think_are/ |
+| 5 | Reddit | Will cse ever be impacted at ucm? | https://www.reddit.com/r/ucmerced/comments/1gvksls/will_cse_ever_be_impacted_at_ucm/ |
+| 6 | Reddit | CSE Major Advice | https://www.reddit.com/r/ucmerced/comments/1b6wttq/cse_major_advice/ |
+| 7 | UC Merced | CSE Courses Descriptions | https://catalog.ucmerced.edu/content.php?filter%5B27%5D=CSE&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=23&expand=&navoid=2517&search_database=Filter#acalog_template_course_filter |
+| 8 | UC Merced | CSE Faculty | https://engineering.ucmerced.edu/departments/computer-science-engineering-cse |
+| 9 | UC Merced | Computer Science & Engineering Advising | https://engr-advising.ucmerced.edu/majors/cse |
+| 10 | Quora | Should I consider CS at UC Merced? | https://www.quora.com/Should-I-consider-CS-at-UC-Merced |
 
 ---
 
@@ -47,12 +48,22 @@
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
+- Sources 1-2: 150-200 characters
+- Sources 3-6, 10: 200-300 characters
+- Sources 7-9: 400-500 characters
 
 **Overlap:**
+- Sources 1-2: 10 characters
+- Sources 3-6, 10: 50 characters
+- Sources 7-9: 100 characters
 
 **Why these choices fit your documents:**
+- Sources 1-2: They are the ratings and reviews of the CSE courses and professors with short comments.
+- Sources 3-6, 10: They are Reddit (sources 3-6) or Quora (source 10) posts with long comments, and some people will say at least 3 bullet points and explain them in detail.
+- Sources 7-9: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course. Source 9 also explains how the CSE in UC Merced works with the faculty members.
 
 **Final chunk count:**
+236 chunks total
 
 ---
 

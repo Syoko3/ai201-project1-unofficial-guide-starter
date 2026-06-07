@@ -115,21 +115,9 @@ all-MiniLM-L6-v2 via sentence-transformers
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+Sketch:
+![alt_text](RAG_Pipeline_Plan_Diagram.png)
 
-ASCII Art:
-Document Ingestion --> Chunking --> Embedding + Vector Store
-                                             |
-                                             |
-                                             v
-               Generation     <----      Retrieval     
-                    ^                        ^
-                    |                        |
-                    |                        |
-              Student Query   ---->      ----
-                    |
-                    |
-                    v
-            Answers + Citations
 ---
 
 ## AI Tool Plan
