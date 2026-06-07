@@ -74,7 +74,7 @@ all-MiniLM-L6-v2 via sentence-transformers
 
 **Production tradeoff reflection:**
 - Less context length
-- Much context and high latency
+- Much unorganized context and high latency
 - False negatives and biases
 
 ---
@@ -88,11 +88,11 @@ all-MiniLM-L6-v2 via sentence-transformers
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
-| 4 |  |  |
-| 5 |  |  |
+| 1 | How was the CSE 100 workload in Fall 2026? | CSE 100 had 4 midterms with 14% weight each (56% total), and the final had 24%. Students said there is no real incentive to learn besides surviving the 80% tank and gaining access to required classes. |
+| 2 | What is the hardest CSE course in the UC Merced? | The hardest CSE course is CSE 160 because one student said the projects are in very high level, so you need to completely understand the environment and implementation by your own time. |
+| 3 | Should CS in UC Merced has to be considered as a bad choice? | No, because CS isn’t taught or learned better as you get closer to the coast, and UC Merced students are bright, even if they don't have same academic track record as their peers at some other UCs. |
+| 4 | How was the professor Santosh Chandrasekhar's grading policy in CSE 31? | His grading policy was very balanced, with only 35% worth on exams. Presenting your lab coding assignments/project to the TA was very helpful. |
+| 5 | What do students say about the quality of CS classes in UC Merced? | Students said that many lectures used in some classes are outdated. Most professors focus on the theoretical parts of the clases instead of teaching us more technical skills used in the industry, but others also care about your technical growth. |
 
 ---
 
@@ -132,10 +132,11 @@ UML Mermaid Diagram Picture:
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-I will use Gemini for my Chunking Strategy section and ask it to implement the chunking text function with my specified chunk size and overlap based on selected documents.
-
 **Milestone 3 — Ingestion and chunking:**
+I will use Copilot for my Chunking Strategy section and ask it to implement the chunking text function with my specified chunk size and overlap based on selected documents.
 
 **Milestone 4 — Embedding and retrieval:**
+I will use Gemini for embedding and retrieval 
 
 **Milestone 5 — Generation and interface:**
+I will use Claude Code for generating and interface 
