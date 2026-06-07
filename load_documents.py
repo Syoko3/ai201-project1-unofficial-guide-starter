@@ -35,6 +35,16 @@ NOISE_PATTERNS = [
     r'^associate professor of computer science',
 ]
 
+# Common ad / promoted patterns to drop entire blocks matching these
+AD_PATTERNS = [
+    r'\bpromoted\b', r'\bsponsored\b', r'\bshop now\b', r'\border now\b', r'\bsign up\b',
+    r'\bthumbnail image\b', r'clickable image', r'\bthumbnail\b', r'\bsubscribe now\b',
+    r'\badvertisement\b', r'\bshop\b', r'\border\b', r'\bcta\b', r'\bpromoted by\b',
+    # short domain-like tokens often appear in ad blocks (e.g. "freestyle.abbott")
+    r'\b[a-z0-9-]+\.(com|org|net|io|co|us|edu|biz|info)\b',
+]
+
+
 CATEGORY_KEYWORDS = {
     'short': ['ratemycourses', 'ratemyprofessors', 'rate my courses', 'rate my professors'],
     'medium': ['reddit', 'quora'],
@@ -42,9 +52,9 @@ CATEGORY_KEYWORDS = {
 }
 
 CHUNK_PARAMS = {
-    'short': (175, 10),
-    'medium': (250, 50),
-    'long': (450, 100),
+    'short': (100, 0),
+    'medium': (250, 20),
+    'long': (400, 50),
 }
 
 
@@ -90,8 +100,26 @@ def load_source_files() -> list[Path]:
 
 def normalize_text(text: str) -> str:
     blocks = [b.strip() for b in re.split(r'\n\s*\n+', text) if b.strip()]
+    def is_ad_block(block: str) -> bool:
+        b = block.lower()
+        # If block contains any ad indicator, drop it
+        for pat in AD_PATTERNS:
+            if re.search(pat, b):
+                return True
+        # lines like "u/Name avatar" followed by short CTA lines are often ads
+        lines = [l.strip().lower() for l in block.splitlines() if l.strip()]
+        if len(lines) <= 6 and any(l in ('avatar', 'promoted', 'sponsored') for l in lines):
+            return True
+        # blocks that consist primarily of short lines with punctuation like "Sign Up" or a domain
+        short_lines = sum(1 for l in lines if len(l) < 40)
+        if lines and short_lines == len(lines) and len(lines) <= 6 and any(re.search(r"sign up|order now|shop now|promoted|thumbnail", l) for l in lines):
+            return True
+        return False
     paragraphs = []
     seen = set()
+    # remove ad/promoted blocks early
+    blocks = [b for b in blocks if not is_ad_block(b)]
+
     for block in blocks:
         cleaned = normalize_paragraph(block)
         if not cleaned or is_noise_paragraph(cleaned) or is_boilerplate_paragraph(cleaned):

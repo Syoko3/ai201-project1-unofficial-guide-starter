@@ -55,6 +55,10 @@ def ingest_chunks():
 def retrieve_relevant_chunks(query, k=5):
     """
     Given a user query, returns the top k most semantically similar chunks.
+
+    Tuning k is critical for RAG performance:
+    - Too few chunks: Risk missing the answer entirely.
+    - Too many chunks: Risk diluting context and distracting the LLM.
     """
     results = collection.query(
         query_texts=[query],
@@ -68,14 +72,27 @@ def retrieve_relevant_chunks(query, k=5):
         output.append({
             "text": results['documents'][0][i],
             "metadata": results['metadatas'][0][i],
-            "score": results['distances'][0][i]
+            "distance": results['distances'][0][i]  # Lower distance = higher similarity
         })
     return output
 
 if __name__ == "__main__":
     ingest_chunks()
-    test_query = "What is the workload for CSE 100?"
-    hits = retrieve_relevant_chunks(test_query)
-    for hit in hits:
-        print(f"\n[Score: {hit['score']:.4f}] Source: {hit['metadata']['source']}")
-        print(f"Content: {hit['text'][:100]}...")
+
+    # Test queries from planning.md Evaluation Plan
+    eval_queries = [
+        "How was the CSE 100 workload in Spring 2026?",
+        "What is the hardest CSE course in the UC Merced?",
+        "Should CS in UC Merced has to be considered as a bad choice?"
+    ]
+
+    for query in eval_queries:
+        print(f"\n{'='*20} TESTING EVALUATION QUERY {'='*20}")
+        print(f"Query: {query}")
+        
+        hits = retrieve_relevant_chunks(query, k=5)
+        for hit in hits:
+            print(f"\n[Distance: {hit['distance']:.4f}] Source: {hit['metadata']['source']}")
+            print(f"Content: {hit['text'][:250]}...")
+        
+        print(f"\nQUESTION: Are these results actually relevant to the query: '{query}'?")

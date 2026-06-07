@@ -48,14 +48,14 @@ My system covers about the student reviews of CSE courses and professors in UC M
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
-- Sources 1-2: 150-200 characters
-- Sources 3-6, 10: 200-300 characters
-- Sources 7-9: 400-500 characters
+- Sources 1-2: 100 characters
+- Sources 3-6, 10: 250 characters
+- Sources 7-9: 400 characters
 
 **Overlap:**
-- Sources 1-2: 10 characters
-- Sources 3-6, 10: 50 characters
-- Sources 7-9: 100 characters
+- Sources 1-2: 0 characters
+- Sources 3-6, 10: 20 characters
+- Sources 7-9: 50 characters
 
 **Why these choices fit your documents:**
 - Sources 1-2: They are the ratings and reviews of the CSE courses and professors with short comments.
@@ -63,7 +63,7 @@ My system covers about the student reviews of CSE courses and professors in UC M
 - Sources 7-9: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course. Source 9 also explains how the CSE in UC Merced works with the faculty members.
 
 **Final chunk count:**
-236 chunks total
+208 chunks total
 
 ---
 

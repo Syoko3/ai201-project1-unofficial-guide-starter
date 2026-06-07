@@ -42,14 +42,14 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-- Sources 1-2: 150-200 characters
-- Sources 3-6, 10: 200-300 characters
-- Sources 7-9: 400-500 characters
+- Sources 1-2: 100 characters
+- Sources 3-6, 10: 250 characters
+- Sources 7-9: 400 characters
 
 **Overlap:**
-- Sources 1-2: 10 characters
-- Sources 3-6, 10: 50 characters
-- Sources 7-9: 100 characters
+- Sources 1-2: 0 characters
+- Sources 3-6, 10: 20 characters
+- Sources 7-9: 50 characters
 
 **Reasoning:**
 - Sources 1-2: They are the ratings and reviews of the CSE courses and professors with short comments.
@@ -140,5 +140,3 @@ I will use Gemini for my Retrieval Approach section and ask it to implement the 
 
 **Milestone 5 — Generation and interface:**
 I will use Claude Code for generation and interface section and ask it to implement the interactive chat UI components, API integration layers, and frontend UI layout. I expect with the user inputting in the chat UI, and the response should be structured and similar or exactly same as the expected answers I mentioned in the Evaluation Plan section, including the citations. I will verify by testing end-to-end data binding between user queries and the local-to-Groq pipeline.
-
-236 chunks total

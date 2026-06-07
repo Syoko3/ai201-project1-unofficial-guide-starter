@@ -4,7 +4,7 @@
     "category": "medium",
     "chunk_index": 1,
     "chunk_size": 250,
-    "overlap": 50,
+    "overlap": 20,
     "chunk_text": "Shame on you, Nagesh K, Naresh Kumar, and Licensed Soft.\n\nSo a real answer.\n\nMerced gets a bad rap because:"
   },
   {
@@ -12,327 +12,335 @@
     "category": "medium",
     "chunk_index": 2,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "a real answer.\n\nMerced gets a bad rap because:\n\nIt’s the youngest of the UCs\nIt’s the least competitive of the UCs\nIt’s not located near... well, pretty much any urban place that Californians are eager to go to\nBut is it a bad choice? No."
+    "overlap": 20,
+    "chunk_text": "a bad rap because:\n\nIt’s the youngest of the UCs\nIt’s the least competitive of the UCs\nIt’s not located near... well, pretty much any urban place that Californians are eager to go to\nBut is it a bad choice? No."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_10_Quora.txt",
     "category": "medium",
     "chunk_index": 3,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "are eager to go to\nBut is it a bad choice? No.\n\nSecond, if you’re a standout, you’ll get special attention (if you want it), and it’s easier to be a standout at Merced than some other UC campuses."
+    "overlap": 20,
+    "chunk_text": "a bad choice? No.\n\nSecond, if you’re a standout, you’ll get special attention (if you want it), and it’s easier to be a standout at Merced than some other UC campuses."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_10_Quora.txt",
     "category": "medium",
     "chunk_index": 4,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "a standout at Merced than some other UC campuses.\n\nSo, should you consider UC Merced? Absolutely. Should you go there? Well, what are you other options and how to they compare?"
+    "overlap": 20,
+    "chunk_text": "other UC campuses.\n\nSo, should you consider UC Merced? Absolutely. Should you go there? Well, what are you other options and how to they compare?"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 1,
-    "chunk_size": 175,
-    "overlap": 10,
+    "chunk_size": 100,
+    "overlap": 0,
     "chunk_text": "=========================================\nCSE 100: Algorithm Design and Analysis\n=========================================\nProf: Ross Greer, Hua Huang / Spring 2026"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 2,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "2026\n\nApr 23, 2026"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "Apr 23, 2026"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 3,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "23, 2026\n\nCourse Content\nAs a result of the 80% weight of exams, the class is extremely lecture-heavy. Code is rarely to never discussed, displayed, or demonstrated in lecture"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "Course Content\nAs a result of the 80% weight of exams, the class is extremely lecture-heavy. Code is"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 4,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "in lecture, with the focus being on the concepts instead. Conversely, the labs are entirely code."
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "rarely to never discussed, displayed, or demonstrated in lecture, with the focus being on the concep"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 5,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "code.\n\nAdvice\nIf I had known this class was as demoralizing and demanding as it is, I would have dropped or withdrawn."
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "ts instead. Conversely, the labs are entirely code."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 6,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "withdrawn.\n\nDelivery: In personGrade: Not sure yetWorkload: HeavyTextbook Use: Optional\nExam Heavy"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "Advice\nIf I had known this class was as demoralizing and demanding as it is, I would have dropped or"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 7,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "Heavy\n\n=========================================\nCSE 107: Intro to Digital Image Process\n=========================================\nProf: Shawn Newsam / Spring 2022"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "withdrawn.\n\nDelivery: In personGrade: Not sure yetWorkload: HeavyTextbook Use: Optional\nExam Heavy"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 8,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "2022\n\nMay 26, 2022"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "=========================================\nCSE 107: Intro to Digital Image Process\n=================="
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 9,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "26, 2022\n\nCourse Content\nImage processing class. Went over how digital images are made and numerous ways to alter them with an algorithm. Not alot of things to turn in, so don"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "=======================\nProf: Shawn Newsam / Spring 2022\n\nMay 26, 2022"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 10,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "in, so don't get caught slacking for any of the 5 labs or homeworks\n\nAdvice\nMake sure that you double check which version of the book you have"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "Course Content\nImage processing class. Went over how digital images are made and numerous ways to al"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 11,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "you have\n\nDelivery: In personGrade: B+Workload: ModerateTextbook Use: Yes\nProject HeavyAssignment Heavy"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "ter them with an algorithm. Not alot of things to turn in, so don't get caught slacking for any of t"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 12,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "Heavy\n\n=========================================\nCSE 160: Computer Networks\n=========================================\nProf: Shijia Pan / Spring 2022"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "he 5 labs or homeworks\n\nAdvice\nMake sure that you double check which version of the book you have"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 13,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "2022\n\nCourse Content\nHella good, this was one of the most interesting classes I've taken of the upper divs.\n\nAdvice\nDon't take it, sit in on lectures"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "Delivery: In personGrade: B+Workload: ModerateTextbook Use: Yes\nProject HeavyAssignment Heavy"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
     "category": "short",
     "chunk_index": 14,
-    "chunk_size": 175,
-    "overlap": 10,
-    "chunk_text": "lectures\n\nDelivery: In personGrade: CWorkload: Very HeavyTextbook Use: Yes\nProject Heavy"
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "=========================================\nCSE 160: Computer Networks\n==============================="
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
+    "category": "short",
+    "chunk_index": 15,
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "==========\nProf: Shijia Pan / Spring 2022"
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
+    "category": "short",
+    "chunk_index": 16,
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "Course Content\nHella good, this was one of the most interesting classes I've taken of the upper divs"
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
+    "category": "short",
+    "chunk_index": 17,
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": ".\n\nAdvice\nDon't take it, sit in on lectures"
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_1_RateMyCourses.txt",
+    "category": "short",
+    "chunk_index": 18,
+    "chunk_size": 100,
+    "overlap": 0,
+    "chunk_text": "Delivery: In personGrade: CWorkload: Very HeavyTextbook Use: Yes\nProject Heavy"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 1,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "=========================================\nAngelo Kyrilov\n=========================================\nQuality\n3.0\nDifficulty\n3.0\nCSE024\nApr 10th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: Yes\nSTEAMplug kingpin"
+    "overlap": 20,
+    "chunk_text": "=========================================\nAngelo Kyrilov\n=========================================\nQuality 3.0 / Difficulty 3.0\nCSE024\nApr 10th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: Not sure yet\nTextbook: Yes\n\"STEAMplug kingpin\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 2,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Not sure yet\nTextbook: Yes\nSTEAMplug kingpin\n\nQuality\n4.0\nDifficulty\n3.0\nCSE022\nJan 13th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: C\nTextbook: N/A\nAt first, discussions tests were graded really harshly and topics that n"
+    "overlap": 20,
+    "chunk_text": "kingpin\"\n\nQuality 4.0 / Difficulty 3.0\nCSE022\nJan 13th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nWould Take Again: Yes\nGrade: C\nTextbook: N/A\n\"At first, discussions tests were graded really harshly and topics that needed to be studied weren't very"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 3,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "tests were graded really harshly and topics that needed to be studied weren't very clear, which took a toll on my overall grade. Near the end of the semester he did use the discussion time to give retakes and made it more clear what the tests were on"
+    "overlap": 20,
+    "chunk_text": "tudied weren't very clear, which took a toll on my overall grade. Near the end of the semester he did use the discussion time to give retakes and made it more clear what the tests were on. He also gave a curve which was very helpful. Overall i enjoye"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 4,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "akes and made it more clear what the tests were on. He also gave a curve which was very helpful. Overall i enjoyed his class!!"
+    "overlap": 20,
+    "chunk_text": "ul. Overall i enjoyed his class!!\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 5,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "was very helpful. Overall i enjoyed his class!!\n\nQuality\n5.0\nDifficulty\n3.0\nCSE030\nJun 4th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A-\nTextbook: N/A\nVery good professor, I liked his teaching style. If the class as"
+    "overlap": 20,
+    "chunk_text": "his class!!\"\n\nQuality 5.0 / Difficulty 3.0\nCSE030\nJun 4th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A-\nTextbook: N/A\n\"Very good professor, I liked his teaching style. If the class as a whole is failing he will adjus"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 6,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ssor, I liked his teaching style. If the class as a whole is failing he will adjust the content to be easier or remove some of it (which is kind of good bad at the same time). Willing to work with you on missed Labs. Exam aren't too bad and final pro"
+    "overlap": 20,
+    "chunk_text": "ailing he will adjust the content to be easier or remove some of it (which is kind of good bad at the same time). Willing to work with you on missed Labs. Exam aren't too bad and final projects are not graded hard.\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 7,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "on missed Labs. Exam aren't too bad and final projects are not graded hard."
+    "overlap": 20,
+    "chunk_text": "not graded hard.\"\n\n=========================================\nSantosh Chandrasekhar\n=========================================\nQuality 4.0 / Difficulty 3.0\nCSE031\nDec 18th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: B+"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 8,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "too bad and final projects are not graded hard.\n\n=========================================\nSantosh Chandrasekhar\n=========================================\nQuality\n4.0\nDifficulty\n3.0\nCSE031\nDec 18th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWoul"
+    "overlap": 20,
+    "chunk_text": "gain: Yes\nGrade: B+\nTextbook: Yes\n\"His grading policy is overall very balanced, with exams being worth only 35% of your grade. Given 2 projects in the semester which are interesting, and lot of time. Presenting your lab coding assignments/project to"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 9,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: B+\nTextbook: Yes\nHis grading policy is overall very balanced, with exams being worth only 35% of your grade. Given 2 projects in the semester which are interesting, and lot of"
+    "overlap": 20,
+    "chunk_text": "ignments/project to the TA was very helpful and insightful in being able to understand the topics. Lectures were helpful. Overall, not a hard class to pass\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 10,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "in the semester which are interesting, and lot of time. Presenting your lab coding assignments/project to the TA was very helpful and insightful in being able to understand the topics. Lectures were helpful. Overall, not a hard class to pass"
+    "overlap": 20,
+    "chunk_text": "hard class to pass\"\n\nQuality 3.0 / Difficulty 3.0\nCSE031\nAug 9th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\n\"Overall great professor, learned a lot from the labs and projects. There's usually zybooks"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 11,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "were helpful. Overall, not a hard class to pass\n\nQuality\n3.0\nDifficulty\n3.0\nCSE031\nAug 9th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nOverall great professor, learned a lot from the labs and projects."
+    "overlap": 20,
+    "chunk_text": "e's usually zybooks homework too that he makes you pay out of pocket for but it's honestly not too hard to finish. There was 2 midterms and 1 final and they were weighted quite heavily. Good class overall would highly recommend to take.\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 12,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ofessor, learned a lot from the labs and projects. There's usually zybooks homework too that he makes you pay out of pocket for but it's honestly not too hard to finish. There was 2 midterms and 1 final and they were weighted quite heavily. Good clas"
+    "overlap": 20,
+    "chunk_text": "recommend to take.\"\n\nQuality 5.0 / Difficulty 3.0\nCSE031\nJun 4th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\n\"Santosh is a really good professor and can explain his topics well. The exams can be hard b"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 13,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "al and they were weighted quite heavily. Good class overall would highly recommend to take."
+    "overlap": 20,
+    "chunk_text": "exams can be hard but you as long as you get 100 on the labs and homework (which is very doable) you can make up for bad exam grades. Also, sometimes he will curve the exam.\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 14,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "class overall would highly recommend to take.\n\nQuality\n5.0\nDifficulty\n3.0\nCSE031\nJun 4th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A\nTextbook: Yes\nSantosh is a really good professor and can explain his topics well."
+    "overlap": 20,
+    "chunk_text": "curve the exam.\"\n\n=========================================\nGiovanni Gonzalez Araujo\n=========================================\nQuality 2.0 / Difficulty 4.0\nCSE024\nMar 5th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nGrade: Incomplete\nTextbook: N/A\n\"Ar"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 15,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "y good professor and can explain his topics well. The exams can be hard but you as long as you get 100 on the labs and homework (which is very doable) you can make up for bad exam grades. Also, sometimes he will curve the exam."
+    "overlap": 20,
+    "chunk_text": "te\nTextbook: N/A\n\"Araujo doesn't structure his classes well. This current semester, he designed the course to be extremely lecture dependent. We have a quiz every friday and 2 lectures on Tuesday and Thursday. Meaning he gives us ONE day after our th"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 16,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "grades. Also, sometimes he will curve the exam.\n\n=========================================\nGiovanni Gonzalez Araujo\n=========================================\nQuality\n2.0\nDifficulty\n4.0\nCSE024\nMar 5th, 2026\nFor Credit: Yes\nAttendance: Mandatory\nGrade:"
+    "overlap": 20,
+    "chunk_text": "ONE day after our thursday lecture to learn what we will be tested on. No homework and doesn't provide good slides. HAVE to go to lecture.\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 17,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "2026\nFor Credit: Yes\nAttendance: Mandatory\nGrade: Incomplete\nTextbook: N/A\nAraujo doesn't structure his classes well. This current semester, he designed the course to be extremely lecture dependent. We have a quiz every friday and 2 lectures on Tuesd"
+    "overlap": 20,
+    "chunk_text": "to go to lecture.\"\n\nQuality 5.0 / Difficulty 3.0\nCSE022\nJun 4th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A-\nTextbook: N/A\n\"Good professor, teaches well. Willing to work with you if you miss a Lab attendance. Only t"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 18,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "e have a quiz every friday and 2 lectures on Tuesday and Thursday. Meaning he gives us ONE day after our thursday lecture to learn what we will be tested on. No homework and doesn't provide good slides. HAVE to go to lecture."
+    "overlap": 20,
+    "chunk_text": "b attendance. Only thing I'd say is he's not the best with replying to emails.\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 19,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "provide good slides. HAVE to go to lecture.\n\nQuality\n5.0\nDifficulty\n3.0\nCSE022\nJun 4th, 2025\nFor Credit: Yes\nAttendance: Not Mandatory\nWould Take Again: Yes\nGrade: A-\nTextbook: N/A\nGood professor, teaches well. Willing to work with you if you miss a"
+    "overlap": 20,
+    "chunk_text": "to emails.\"\n\nQuality 1.0 / Difficulty 5.0\nCSE022\nDec 19th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: F\nTextbook: Yes\n\"Exams are vital in the class. Puts out a lecture and hopes that we learn the lecture before every lab assignment and exa"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
     "category": "medium",
     "chunk_index": 20,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ches well. Willing to work with you if you miss a Lab attendance. Only thing I'd say is he's not the best with replying to emails."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
-    "category": "medium",
-    "chunk_index": 21,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "say is he's not the best with replying to emails.\n\nQuality\n1.0\nDifficulty\n5.0\nCSE022\nDec 19th, 2024\nFor Credit: Yes\nAttendance: Not Mandatory\nGrade: F\nTextbook: Yes\nExams are vital in the class. Puts out a lecture and hopes that we learn the lecture"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
-    "category": "medium",
-    "chunk_index": 22,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "out a lecture and hopes that we learn the lecture before every lab assignment and exam related to it. Provide little to none feedback for lab assignments. Practice exercises doesn't really help the students learn the concept besides asking for help m"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_2_RateMyProfessor.txt",
-    "category": "medium",
-    "chunk_index": 23,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "udents learn the concept besides asking for help most of the time."
+    "overlap": 20,
+    "chunk_text": "b assignment and exam related to it. Provide little to none feedback for lab assignments. Practice exercises doesn't really help the students learn the concept besides asking for help most of the time.\""
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 1,
     "chunk_size": 250,
-    "overlap": 50,
+    "overlap": 20,
     "chunk_text": "UC Merced and Computer Science and Engineering\nHello UC Merced students,\n\nAs students of the most recent UC campus, I'd like some responses for the following things:"
   },
   {
@@ -340,199 +348,175 @@
     "category": "medium",
     "chunk_index": 2,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "I'd like some responses for the following things:\n\nWhy'd you go all the way to UC Merced considering it's out in the middle of California?\n\nWhat's the best thing about the university? What's the worst thing about the university?"
+    "overlap": 20,
+    "chunk_text": "following things:\n\nWhy'd you go all the way to UC Merced considering it's out in the middle of California?\n\nWhat's the best thing about the university? What's the worst thing about the university?"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 3,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "What's the worst thing about the university?\n\nHow social is this university considering that there's 8,000 or so people attending it."
+    "overlap": 20,
+    "chunk_text": "the university?\n\nHow social is this university considering that there's 8,000 or so people attending it."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 4,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "that there's 8,000 or so people attending it.\n\nFor the CSE majors, I'd like to know what your opportunities are as a Computer Science and Engineering student. I'd like to know about your internship opportunities and employment opportunities after gra"
+    "overlap": 20,
+    "chunk_text": "attending it.\n\nFor the CSE majors, I'd like to know what your opportunities are as a Computer Science and Engineering student. I'd like to know about your internship opportunities and employment opportunities after graduating. I'd also like to know a"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 5,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "portunities and employment opportunities after graduating. I'd also like to know about the quality of your classes at UC Merced. Do you think that your instructors do a good job at teaching? Do you think that your classmates are good at helping each"
+    "overlap": 20,
+    "chunk_text": "also like to know about the quality of your classes at UC Merced. Do you think that your instructors do a good job at teaching? Do you think that your classmates are good at helping each other out?\n\nThanks!"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 6,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ink that your classmates are good at helping each other out?\n\nThanks!\n\n25\n·\n7\nu/Michelob-ULTRA avatar\nMichelob-ULTRA\n•\nPromoted"
+    "overlap": 20,
+    "chunk_text": "other out?\n\nThanks!\n\n8\nu/Valuable-Peace8307 avatar\nValuable-Peace8307\n•\n5y ago\nI chose UCM as it was a brand new university and the 10th UC. I got to be a part of that first graduation in 07 so that was really cool. I’m from Sac so it was also about"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 7,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "avatar\nMichelob-ULTRA\n•\nPromoted\n\nPlay for the ULTRAs? Official Beer Sponsor of The FIFA World Cup 26TM\nOrder Now\ndoordash.com\nClickable image which will reveal the video player: Play for the ULTRAs? Official Beer Sponsor of The FIFA World Cup 26TM\nC"
+    "overlap": 20,
+    "chunk_text": "o it was also about 2 hours from home which meant I could visit the parents in the weekend if I wanted to. I also really like rural and UCM was pretty rural."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 8,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Official Beer Sponsor of The FIFA World Cup 26TM\nCollapse video player\n\n0:00 / 0:00"
+    "overlap": 20,
+    "chunk_text": "was pretty rural.\n\nI can’t answer about the best and worse if UCM now. But back then, the best was how small it was. That first semester we had 1500 students so we all recognized each other. The worst was the lack of classes and majors."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 9,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "World Cup 26TM\nCollapse video player\n\n0:00 / 0:00\n\n8\nu/Valuable-Peace8307 avatar\nValuable-Peace8307\n•\n5y ago\nI chose UCM as it was a brand new university and the 10th UC. I got to be a part of that first graduation in 07 so that was really cool. I’m"
+    "overlap": 20,
+    "chunk_text": "classes and majors.\n\n5\nu/Sometimesialways avatar\nSometimesialways\n•\n5y ago\nI live nearby, so it just made financial sense to go here."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 10,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "rst graduation in 07 so that was really cool. I’m from Sac so it was also about 2 hours from home which meant I could visit the parents in the weekend if I wanted to. I also really like rural and UCM was pretty rural."
+    "overlap": 20,
+    "chunk_text": "sense to go here.\n\nthere’s enough social activity to feel stimulated but if you’re used to a bigger cities night life you will be disappointed. There’s always house parties nearby if you are into that but on campus, there’s lots of social clubs that"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 11,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "also really like rural and UCM was pretty rural.\n\nI can’t answer about the best and worse if UCM now. But back then, the best was how small it was. That first semester we had 1500 students so we all recognized each other. The worst was the lack of cl"
+    "overlap": 20,
+    "chunk_text": "f social clubs that run activities (smash club, bobcat gaming LANs, dance, sports)"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 12,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ecognized each other. The worst was the lack of classes and majors.\n\n5\nu/Sometimesialways avatar\nSometimesialways\n•\n5y ago\nI live nearby, so it just made financial sense to go here."
+    "overlap": 20,
+    "chunk_text": "dance, sports)\n\nAs for CompSci teachers. They’re solid! I’ve liked nearly all my professors. Daniel was fantastic. It’s hard to get upper division courses sometimes due to not having a ton of people to teach them."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 13,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "so it just made financial sense to go here.\n\nthere’s enough social activity to feel stimulated but if you’re used to a bigger cities night life you will be disappointed. There’s always house parties nearby if you are into that but on campus, there’s"
+    "overlap": 20,
+    "chunk_text": "to teach them.\n\n3\nExcaliber_0001\n•\n5y ago\nOnly option, regret 1000%\n\nFree UC schooling; everything (my options only, don’t base any decisions off me)\n\nI have a single friend :), again read 2 sub-note lol"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 14,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "earby if you are into that but on campus, there’s lots of social clubs that run activities (smash club, bobcat gaming LANs, dance, sports)"
+    "overlap": 20,
+    "chunk_text": "read 2 sub-note lol\n\nCSE 120 is a really cool class we have where we get partnered up into groups and work with real life entities, basically like a real life, actually might be used Project for some companies around the Central Valley and Bay Area I"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 15,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "(smash club, bobcat gaming LANs, dance, sports)\n\nAs for CompSci teachers. They’re solid! I’ve liked nearly all my professors. Daniel was fantastic. It’s hard to get upper division courses sometimes due to not having a ton of people to teach them."
+    "overlap": 20,
+    "chunk_text": "alley and Bay Area Instructors are A1, love them and appreciate them, they put in good work so that we can benefit immensely And no info on the classmates portion 🤠"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 16,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "due to not having a ton of people to teach them.\n\n3\nExcaliber_0001\n•\n5y ago\nOnly option, regret 1000%\n\nFree UC schooling; everything (my options only, don’t base any decisions off me)\n\nI have a single friend :), again read 2 sub-note lol"
+    "overlap": 20,
+    "chunk_text": "portion 🤠\n\n3\nu/ilianaasadee avatar\nilianaasadee\n•\n5y ago\nWas it really bad ? Would you have rather gone to a community college instead?"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 17,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "a single friend :), again read 2 sub-note lol\n\nCSE 120 is a really cool class we have where we get partnered up into groups and work with real life entities, basically like a real life, actually might be used Project for some companies around the Cen"
+    "overlap": 20,
+    "chunk_text": "college instead?\n\n1\nExcaliber_0001\n•\n5y ago\nWell due to personal troubles before going here, they influenced me to get stuck with the wrong crowd, which happens not just here anywhere else you go, but looking back now, I say they are learning experie"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 18,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "be used Project for some companies around the Central Valley and Bay Area Instructors are A1, love them and appreciate them, they put in good work so that we can benefit immensely And no info on the classmates portion 🤠"
+    "overlap": 20,
+    "chunk_text": "are learning experiences, and I would have gone to community college simply because I have a heavy active role in my home life so it would have been best to stay near my home"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 19,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "immensely And no info on the classmates portion 🤠\n\n3\nu/ilianaasadee avatar\nilianaasadee\n•\n5y ago\nWas it really bad ? Would you have rather gone to a community college instead?"
+    "overlap": 20,
+    "chunk_text": "stay near my home\n\n1\nlilspookyhuff\n•\n5y ago\nThe financial aid package is amazing. Free college at a UC? Pretty good deal."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 20,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "have rather gone to a community college instead?\n\n1\nExcaliber_0001\n•\n5y ago\nWell due to personal troubles before going here, they influenced me to get stuck with the wrong crowd, which happens not just here anywhere else you go, but looking back now,"
+    "overlap": 20,
+    "chunk_text": "Pretty good deal.\n\nThe people are very diverse and it’s so much fun to hear different stories from al different kinds of people. Worst thing is the location. Absolutely the location."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 21,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "t here anywhere else you go, but looking back now, I say they are learning experiences, and I would have gone to community college simply because I have a heavy active role in my home life so it would have been best to stay near my home"
+    "overlap": 20,
+    "chunk_text": "the location.\n\nRight now in coronavirus times, it’s very hard to make friends because everyone tends to stay in their dorms and there aren’t many people in the first place. But if you happen to be the outgoing type, it’ll be easy to talk to anyone. I"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "medium",
     "chunk_index": 22,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "so it would have been best to stay near my home\n\n1\nlilspookyhuff\n•\n5y ago\nThe financial aid package is amazing. Free college at a UC? Pretty good deal."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 23,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "amazing. Free college at a UC? Pretty good deal.\n\nThe people are very diverse and it’s so much fun to hear different stories from al different kinds of people. Worst thing is the location. Absolutely the location."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 24,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "thing is the location. Absolutely the location.\n\nRight now in coronavirus times, it’s very hard to make friends because everyone tends to stay in their dorms and there aren’t many people in the first place. But if you happen to be the outgoing type,"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 25,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "place. But if you happen to be the outgoing type, it’ll be easy to talk to anyone. I’ve heard that when the school is fully open there are people everywhere and people are typically friendly."
+    "overlap": 20,
+    "chunk_text": "to talk to anyone. I’ve heard that when the school is fully open there are people everywhere and people are typically friendly."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
     "category": "medium",
     "chunk_index": 1,
     "chunk_size": 250,
-    "overlap": 50,
+    "overlap": 20,
     "chunk_text": "CSE majors: what CSE electives do you think are the hardest and easiest?\nWas talking with my friends about the cse electives at UC Merced and we came to conclusion that the easiest ones are cse 108, 107, and 111. On the harder side ive heard cse 160 is pretty tough. What do you guys think?"
   },
   {
@@ -540,79 +524,47 @@
     "category": "medium",
     "chunk_index": 2,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "cse 160 is pretty tough. What do you guys think?\n\n9\n·\n2\nu/maybellinenewyork avatar\nmaybellinenewyork\n•\nPromoted"
+    "overlap": 20,
+    "chunk_text": "do you guys think?\n\n1\ndantheman898\n•\n8mo ago\nI’m in 160 and 176 right now."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
     "category": "medium",
     "chunk_index": 3,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "avatar\nmaybellinenewyork\n•\nPromoted\n\nTHE #1 MASCARA BRAND WANTS YOU TO TAKE YOUR MASCARA OFF\nShop Now\namazon.com\nClickable image which will reveal the video player: THE #1 MASCARA BRAND WANTS YOU TO TAKE YOUR MASCARA OFF\nCollapse video player"
+    "overlap": 20,
+    "chunk_text": "and 176 right now.\n\n160 with Cerpa is pretty hardcore; the reading and homework’s aren’t too too bad in terms of concepts, understanding them, doing basic computations and calculations with network related stuff. That class is hard because of the pro"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
     "category": "medium",
     "chunk_index": 4,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "TO TAKE YOUR MASCARA OFF\nCollapse video player\n\n0:00 / 0:00\n\n1\ndantheman898\n•\n8mo ago\nI’m in 160 and 176 right now."
+    "overlap": 20,
+    "chunk_text": "d because of the projects. Everything that the class teaches you about the projects is at a very high level, so you have to completely understand the environment and implementation on your own time, and it’s not easy at all."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
     "category": "medium",
     "chunk_index": 5,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ago\nI’m in 160 and 176 right now.\n\n160 with Cerpa is pretty hardcore; the reading and homework’s aren’t too too bad in terms of concepts, understanding them, doing basic computations and calculations with network related stuff. That class is hard bec"
+    "overlap": 20,
+    "chunk_text": "not easy at all.\n\n176 right now is also looking to be pretty difficult. The annoying thing about 176 is that there’s not a lot of coding, and not a lot of homework. Everything is math and conceptual understanding, also Miguel is kind of a dinosaur..."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
     "category": "medium",
     "chunk_index": 6,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "with network related stuff. That class is hard because of the projects. Everything that the class teaches you about the projects is at a very high level, so you have to completely understand the environment and implementation on your own time, and it"
+    "overlap": 20,
+    "chunk_text": "ind of a dinosaur... he refuses to use canvas and instead uses his own course webpage (which mind you didn’t work on school WiFi for like the first two and a half weeks of class). All in all though he knows his shit, and it seems like he does actuall"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
     "category": "medium",
     "chunk_index": 7,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "onment and implementation on your own time, and it’s not easy at all."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 8,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "on your own time, and it’s not easy at all.\n\n176 right now is also looking to be pretty difficult. The annoying thing about 176 is that there’s not a lot of coding, and not a lot of homework. Everything is math and conceptual understanding, also Migu"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 9,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ng is math and conceptual understanding, also Miguel is kind of a dinosaur... he refuses to use canvas and instead uses his own course webpage (which mind you didn’t work on school WiFi for like the first two and a half weeks of class). All in all th"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 10,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "irst two and a half weeks of class). All in all though he knows his shit, and it seems like he does actually care about his students."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 11,
-    "chunk_size": 250,
-    "overlap": 50,
+    "overlap": 20,
     "chunk_text": "like he does actually care about his students.\n\nI took 108. Wasn’t too bad. Mostly tedious, I had 0 experience with js, html and css, so learning js from the ground up was probably the most annoying thing about it.\n\nHope this helps."
   },
   {
@@ -620,7 +572,7 @@
     "category": "medium",
     "chunk_index": 1,
     "chunk_size": 250,
-    "overlap": 50,
+    "overlap": 20,
     "chunk_text": "will cse ever be impacted at ucm?\nBasically just the title considering cse is a pretty big major at ucm already and there's a lot of demand for it in terms of admissions could it be impacted in the future?"
   },
   {
@@ -628,175 +580,151 @@
     "category": "medium",
     "chunk_index": 2,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "of admissions could it be impacted in the future?\n\n8\n·\n11\nu/Michelob-ULTRA avatar\nMichelob-ULTRA\n•\nPromoted"
+    "overlap": 20,
+    "chunk_text": "in the future?\n\n16\ninternetbooker134\nOP\n•\n2y ago\nI agree more hiring needs to be done for the CSE department although from what I've heard it's hard to hire faculty and get them to move to Merced in general as it's not as attractive compared to other"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 3,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "avatar\nMichelob-ULTRA\n•\nPromoted\n\nStay in the game with Michelob ULTRA Zero. Official Beer Sponsor of The FIFA World Cup 26TM\nOrder Now\ndoordash.com\nClickable image which will reveal the video player: Stay in the game with Michelob ULTRA Zero. Offici"
+    "overlap": 20,
+    "chunk_text": "ve compared to other \"college towns\". Another issue is that financially there are probably constraints that restrict hiring and infrastructure missing that can handle more classes. The infrastructure part is being worked on though with COB 3 coming s"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 4,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Stay in the game with Michelob ULTRA Zero. Official Beer Sponsor of The FIFA World Cup 26TM\nCollapse video player\n\n0:00 / 0:00"
+    "overlap": 20,
+    "chunk_text": "with COB 3 coming soon which will feature 3 huge lecture halls bigger than the ACS lecture hall right now."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 5,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "World Cup 26TM\nCollapse video player\n\n0:00 / 0:00\n\n16\ninternetbooker134\nOP\n•\n2y ago\nI agree more hiring needs to be done for the CSE department although from what I've heard it's hard to hire faculty and get them to move to Merced in general as it's"
+    "overlap": 20,
+    "chunk_text": "hall right now.\n\n6\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nAgree UCM is difficult to recruit to but what prevents being on a quarter system. That way the same no of faculty could teach more courses."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 6,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "and get them to move to Merced in general as it's not as attractive compared to other \"college towns\". Another issue is that financially there are probably constraints that restrict hiring and infrastructure missing that can handle more classes. The"
+    "overlap": 20,
+    "chunk_text": "teach more courses.\n\n2 more replies\nwhy_not_my_email\n•\n2y ago\nI'm a UCM faculty member, not in CSE."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 7,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ructure missing that can handle more classes. The infrastructure part is being worked on though with COB 3 coming soon which will feature 3 huge lecture halls bigger than the ACS lecture hall right now."
+    "overlap": 20,
+    "chunk_text": "member, not in CSE.\n\nIt's hard for computer science and software engineering programs to hire faculty because they can make much, much more money working in industry. I can imagine that this might be changing due to the tech industry layoffs that sta"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 8,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "halls bigger than the ACS lecture hall right now.\n\n6\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nAgree UCM is difficult to recruit to but what prevents being on a quarter system. That way the same no of faculty could teach more courses."
+    "overlap": 20,
+    "chunk_text": "try layoffs that started a couple years ago. But, for all I know those might have mostly impacted folks with just a bachelor's degree or lower. Like, laying off the code monkeys rather than the people who can do innovative R&D work."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 9,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "the same no of faculty could teach more courses.\n\n2 more replies\nwhy_not_my_email\n•\n2y ago\nI'm a UCM faculty member, not in CSE."
+    "overlap": 20,
+    "chunk_text": "R&D work.\n\nHonestly, it seems like CS/SE is an oversaturated field at this point. I'm surprised it's still such an overwhelmingly popular major."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 10,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ago\nI'm a UCM faculty member, not in CSE.\n\nIt's hard for computer science and software engineering programs to hire faculty because they can make much, much more money working in industry. I can imagine that this might be changing due to the tech ind"
+    "overlap": 20,
+    "chunk_text": "popular major.\n\n5\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nI agree it's saturated but that's true for all engineering and science. In a globalized world science and engineering can be done remotely so you are competing with 2 billion Indian and Chin"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 11,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ne that this might be changing due to the tech industry layoffs that started a couple years ago. But, for all I know those might have mostly impacted folks with just a bachelor's degree or lower. Like, laying off the code monkeys rather than the peop"
+    "overlap": 20,
+    "chunk_text": "lion Indian and Chinese. You just have to hope your expensive US education prepares you better."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 12,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": ", laying off the code monkeys rather than the people who can do innovative R&D work.\n\nHonestly, it seems like CS/SE is an oversaturated field at this point. I'm surprised it's still such an overwhelmingly popular major."
+    "overlap": 20,
+    "chunk_text": "you better.\n\nIf you want to avoid competition choose fields that are not universal like law or which have to be done in person like medicine or which require security clearance"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 13,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "it's still such an overwhelmingly popular major.\n\n5\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nI agree it's saturated but that's true for all engineering and science. In a globalized world science and engineering can be done remotely so you are compet"
+    "overlap": 20,
+    "chunk_text": "security clearance\n\nAlso Kids are still choosing CS as they feel AI is coming for all our jobs but CS jobs may be the last to go as someone needs to maintain the AI."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 14,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "engineering can be done remotely so you are competing with 2 billion Indian and Chinese. You just have to hope your expensive US education prepares you better."
+    "overlap": 20,
+    "chunk_text": "to maintain the AI.\n\n4\n[deleted]\n•\n2y ago\nThe UC application guide has the College of Engineering majors listed as Selective so these majors are already showing impaction."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 15,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "your expensive US education prepares you better.\n\nIf you want to avoid competition choose fields that are not universal like law or which have to be done in person like medicine or which require security clearance"
+    "overlap": 20,
+    "chunk_text": "showing impaction.\n\n4\ninternetbooker134\nOP\n•\n2y ago\nDo they list all the school of engineering majors as selective or only CSE? All of them are definitely not selective especially the new ones that have been added in the last 5 years or so"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 16,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "like medicine or which require security clearance\n\nAlso Kids are still choosing CS as they feel AI is coming for all our jobs but CS jobs may be the last to go as someone needs to maintain the AI."
+    "overlap": 20,
+    "chunk_text": "last 5 years or so\n\n1\n[deleted]\n•\n2y ago\nJust the College of Engineering as a whole."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 17,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "last to go as someone needs to maintain the AI.\n\n4\n[deleted]\n•\n2y ago\nThe UC application guide has the College of Engineering majors listed as Selective so these majors are already showing impaction."
+    "overlap": 20,
+    "chunk_text": "as a whole.\n\n3\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nJust try getting into one of the Engr courses required as prereqs like Engr 65 and you will realize how impacted Engineering is. Its almost luck if the draw to get your courses and forget creat"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 18,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "so these majors are already showing impaction.\n\n4\ninternetbooker134\nOP\n•\n2y ago\nDo they list all the school of engineering majors as selective or only CSE? All of them are definitely not selective especially the new ones that have been added in the l"
+    "overlap": 20,
+    "chunk_text": "ses and forget creating a nice schedule where you have some non campus days ir even non campus mornings/evenings. There are so few courses and sections taught you have to grab whatever you can and your classes will be spread all over the day all 5 da"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
     "category": "medium",
     "chunk_index": 19,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ecially the new ones that have been added in the last 5 years or so\n\n1\n[deleted]\n•\n2y ago\nJust the College of Engineering as a whole."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 20,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ago\nJust the College of Engineering as a whole.\n\n3\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nJust try getting into one of the Engr courses required as prereqs like Engr 65 and you will realize how impacted Engineering is. Its almost luck if the draw"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 21,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "acted Engineering is. Its almost luck if the draw to get your courses and forget creating a nice schedule where you have some non campus days ir even non campus mornings/evenings. There are so few courses and sections taught you have to grab whatever"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 22,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "rses and sections taught you have to grab whatever you can and your classes will be spread all over the day all 5 days a week. Makes it extremely hard to have a part time job."
+    "overlap": 20,
+    "chunk_text": "ver the day all 5 days a week. Makes it extremely hard to have a part time job."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 1,
     "chunk_size": 250,
-    "overlap": 50,
+    "overlap": 20,
     "chunk_text": "CSE major advice\nI am currently in cse30 I had failed this class f23 and now am retaking the class I barely understanding the material and am only getting the labs done and because the code is the same from last semesters. We just had a midterm and I got a very very low score. I feel like the other kids are so far ahead and are doing these labs on there own with little to no struggle. I am a commuter student and am not often on campus other than going to classes and am unaware of the type of resources and ways that can help me understand the course and its material. I feel like I am barely getting into the advanced courses and I am barely holding on. Any advice ??"
   },
   {
@@ -804,183 +732,159 @@
     "category": "medium",
     "chunk_index": 2,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "courses and I am barely holding on. Any advice ??\n\n10\n·\n11\nu/AmericanExpress avatar\nAmericanExpress\n•\nPromoted"
+    "overlap": 20,
+    "chunk_text": "on. Any advice ??\n\n0:00 / 0:00"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 3,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "avatar\nAmericanExpress\n•\nPromoted\n\nTalk to the professor. You might also talk to the folks at the Bright Success Center for help with things like time management or finding a tutor. But definitely talk to the professor! Just go to their office hours"
+    "overlap": 20,
+    "chunk_text": "??\n\n0:00 / 0:00\n\nTalk to the professor. You might also talk to the folks at the Bright Success Center for help with things like time management or finding a tutor. But definitely talk to the professor! Just go to their office hours and say you need h"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 4,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "k to the professor! Just go to their office hours and say you need help."
+    "overlap": 20,
+    "chunk_text": "s and say you need help."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 5,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "go to their office hours and say you need help.\n\n8\nu/incognito209 avatar\nincognito209\n•\n2y ago\nI graduated in December 2021 with my BS in CSE. I wasn’t the smartest student by any means but I slowly figured out how I learn best. I watched YouTube vid"
+    "overlap": 20,
+    "chunk_text": "say you need help.\n\n8\nu/incognito209 avatar\nincognito209\n•\n2y ago\nI graduated in December 2021 with my BS in CSE. I wasn’t the smartest student by any means but I slowly figured out how I learn best. I watched YouTube videos, read short content onlin"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 6,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "igured out how I learn best. I watched YouTube videos, read short content online (blogs/documentation), traced through the code with pencil/paper, used print statements when running my code in my IDE, and wrote extensive notes."
+    "overlap": 20,
+    "chunk_text": "short content online (blogs/documentation), traced through the code with pencil/paper, used print statements when running my code in my IDE, and wrote extensive notes."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 7,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "my code in my IDE, and wrote extensive notes.\n\nSitting in lectures was not my thing. I liked finding a quiet place to do my work. I also commuted for 2 semesters. Don’t let your mind psych you out. You have plenty of time to bounce back!"
+    "overlap": 20,
+    "chunk_text": "extensive notes.\n\nSitting in lectures was not my thing. I liked finding a quiet place to do my work. I also commuted for 2 semesters. Don’t let your mind psych you out. You have plenty of time to bounce back!"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 8,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "you out. You have plenty of time to bounce back!\n\n6\nu/Free_Row6202 avatar\nFree_Row6202\nOP\n•\n2y ago\nAny online sources that you remember that helped out? Any tips on note taking? I do feel like I have time to bounce back but I feel like it’s a long sh"
+    "overlap": 20,
+    "chunk_text": "to bounce back!\n\n6\nu/Free_Row6202 avatar\nFree_Row6202\nOP\n•\n2y ago\nAny online sources that you remember that helped out? Any tips on note taking? I do feel like I have time to bounce back but I feel like it’s a long shot now that I depends on the fina"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 9,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "time to bounce back but I feel like it’s a long shot now that I depends on the final grade\n\n2\nu/incognito209 avatar\nincognito209\n•\n2y ago\nI found this cool visualization tool: https://pythontutor.com/visualize.html#mode=edit"
+    "overlap": 20,
+    "chunk_text": "depends on the final grade\n\nIt’s set to Python by default but you can change it to Java or C++. You can run your code and it’ll visually show you what’s going on."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 10,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "https://pythontutor.com/visualize.html#mode=edit\n\nIt’s set to Python by default but you can change it to Java or C++. You can run your code and it’ll visually show you what’s going on."
+    "overlap": 20,
+    "chunk_text": "what’s going on.\n\nWhen you are programming, do you understand what is going on in the code line by line or are you just copy/pasting bits of code? It’s crucial that you understand the logic and flow of the code you are writing."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 11,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "code and it’ll visually show you what’s going on.\n\nWhen you are programming, do you understand what is going on in the code line by line or are you just copy/pasting bits of code? It’s crucial that you understand the logic and flow of the code you ar"
+    "overlap": 20,
+    "chunk_text": "you are writing.\n\nRead the textbook, watch YouTube videos, read blogs/documentation, go to office hours, and connect with a tutor on campus."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 12,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "u understand the logic and flow of the code you are writing.\n\nRead the textbook, watch YouTube videos, read blogs/documentation, go to office hours, and connect with a tutor on campus."
+    "overlap": 20,
+    "chunk_text": "a tutor on campus.\n\nLabs\nThe labs arent easy and I dont believe you will ever feel that they are. They are designed to make you bash your head against the wall until you get a solution, like the many other CS classes that came before this. However, I"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 13,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "office hours, and connect with a tutor on campus.\n\nLabs\nThe labs arent easy and I dont believe you will ever feel that they are. They are designed to make you bash your head against the wall until you get a solution, like the many other CS classes th"
+    "overlap": 20,
+    "chunk_text": "ore this. However, I do think that you should try to identify what youre lacking in for the labs. For example, are you failing to understand the algorithms and structures you are trying to implement, or are you failing to implement it?"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 14,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "get a solution, like the many other CS classes that came before this. However, I do think that you should try to identify what youre lacking in for the labs. For example, are you failing to understand the algorithms and structures you are trying to i"
+    "overlap": 20,
+    "chunk_text": "to implement it?\n\nIf its the implementation, I would suggest you take a few steps back and try to truly understand pointers, classes (structs), and the other things that come with object oriented programming (inheritance and polymorphism comes to min"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 15,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "the algorithms and structures you are trying to implement, or are you failing to implement it?"
+    "overlap": 20,
+    "chunk_text": "orphism comes to mind)."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 16,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to implement, or are you failing to implement it?\n\nIf its the implementation, I would suggest you take a few steps back and try to truly understand pointers, classes (structs), and the other things that come with object oriented programming (inherita"
+    "overlap": 20,
+    "chunk_text": "comes to mind).\n\nIf its both... then start with understanding the algos/structs as it’s quicker and then slowly build your C++ knowledge so you can implement them (this is what the labs are trying to do in the first place). I know its tempting to jus"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 17,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "at come with object oriented programming (inheritance and polymorphism comes to mind)."
+    "overlap": 20,
+    "chunk_text": "its tempting to just copy and paste from somewhere but it wont help you in the long run."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 18,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "(inheritance and polymorphism comes to mind).\n\nIf its both... then start with understanding the algos/structs as it’s quicker and then slowly build your C++ knowledge so you can implement them (this is what the labs are trying to do in the first plac"
+    "overlap": 20,
+    "chunk_text": "in the long run.\n\nDSA In General\nIf you want to practice programming/analyzing these DSA concepts, use websites like Leetcode or Neetcode that kind of game-ify it for you. Again, if its just the concepts that youre struggling with, use a different la"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 19,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "s what the labs are trying to do in the first place). I know its tempting to just copy and paste from somewhere but it wont help you in the long run."
+    "overlap": 20,
+    "chunk_text": ", use a different language youre familiar with (Python/Java) as it takes out all the weird C++ quirks."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
     "category": "medium",
     "chunk_index": 20,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "somewhere but it wont help you in the long run.\n\nDSA In General\nIf you want to practice programming/analyzing these DSA concepts, use websites like Leetcode or Neetcode that kind of game-ify it for you. Again, if its just the concepts that youre stru"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 21,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "u. Again, if its just the concepts that youre struggling with, use a different language youre familiar with (Python/Java) as it takes out all the weird C++ quirks."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 22,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "as it takes out all the weird C++ quirks.\n\n1\nnavy63\n•\n2y ago\nIf you’re struggling communicate that with your professor/TA they’re meant to help you (show you resource’s available) :) (if they don’t it says more about them than you)"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
-    "category": "medium",
-    "chunk_index": 23,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "(if they don’t it says more about them than you)\n\n2\nHot_Knowledge8513\n•\n2y ago\ndm 🙏"
+    "overlap": 20,
+    "chunk_text": "weird C++ quirks.\n\n1\nnavy63\n•\n2y ago\nIf you’re struggling communicate that with your professor/TA they’re meant to help you (show you resource’s available) :) (if they don’t it says more about them than you)\n\n2\nHot_Knowledge8513\n•\n2y ago\ndm 🙏"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 1,
     "chunk_size": 250,
-    "overlap": 50,
+    "overlap": 20,
     "chunk_text": "Computer Science and Engineering"
   },
   {
@@ -988,903 +892,775 @@
     "category": "medium",
     "chunk_index": 2,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Science and Engineering\n\nPresents the use of computers to control information flow including data collection, management, analysis, and presentation. Basic programming skills, selection of appropriate computer-based tools and languages, and data secu"
+    "overlap": 20,
+    "chunk_text": "and Engineering\n\nPresents the use of computers to control information flow including data collection, management, analysis, and presentation. Basic programming skills, selection of appropriate computer-based tools and languages, and data security are"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 3,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "computer-based tools and languages, and data security are covered. Emphasis is placed on computer knowledge necessary to successfully use and manage data and information.\n\nCourse Details\nRepeats Allowed for Credit: 0"
+    "overlap": 20,
+    "chunk_text": "nd data security are covered. Emphasis is placed on computer knowledge necessary to successfully use and manage data and information.\n\nCourse Details\nRepeats Allowed for Credit: 0\n\nLaboratory included\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 4,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Details\nRepeats Allowed for Credit: 0\n\nLaboratory included\nNormal Letter Grade only\n\nGE Requirements\nIntellectual Experience: Ethics\n\nRequisites and Restrictions\nInstructor Permission Required: No\n\nView course scheduling information"
+    "overlap": 20,
+    "chunk_text": "Letter Grade only\n\nGE Requirements\nIntellectual Experience: Ethics\n\nRequisites and Restrictions\nInstructor Permission Required: No\n\nView course scheduling information"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 5,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Required: No\n\nView course scheduling information\n\nExplores basic concepts of discrete mathematics used in computer science and other disciplines that involve formal reasoning. Topics include logic, proof, counting, discrete probability, relations, gr"
+    "overlap": 20,
+    "chunk_text": "information\n\nExplores basic concepts of discrete mathematics used in computer science and other disciplines that involve formal reasoning. Topics include logic, proof, counting, discrete probability, relations, graphs, trees, and Boolean algebra."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 6,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "oof, counting, discrete probability, relations, graphs, trees, and Boolean algebra."
+    "overlap": 20,
+    "chunk_text": "Boolean algebra.\n\nPresents the basics of programming to a student with no prior experience. Concepts of Input/Output, Data Types, Variables and Arrays will be introduced in the context of solving problems. Elementary programming skills such as condit"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 7,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "relations, graphs, trees, and Boolean algebra.\n\nPresents the basics of programming to a student with no prior experience. Concepts of Input/Output, Data Types, Variables and Arrays will be introduced in the context of solving problems. Elementary pro"
+    "overlap": 20,
+    "chunk_text": "kills such as conditional and loops execution will be emphasized. Object-oriented Programming, recursion and data manipulation will also be introduced. Students are expected to solve problems using different programming paradigms."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 8,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "in the context of solving problems. Elementary programming skills such as conditional and loops execution will be emphasized. Object-oriented Programming, recursion and data manipulation will also be introduced. Students are expected to solve problem"
+    "overlap": 20,
+    "chunk_text": "paradigms.\n\nGE Requirements\nLower Division: Language\n\nLaboratory included\nNormal Letter Grade with Pass/No Pass option"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 9,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "introduced. Students are expected to solve problems using different programming paradigms.\n\nGE Requirements\nLower Division: Language\n\nLaboratory included\nNormal Letter Grade with Pass/No Pass option"
+    "overlap": 20,
+    "chunk_text": "Pass/No Pass option\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 005 or equivalent exam\nOpen only to following major/minor(s):\nApplied Mathematical Sciences (Undergraduate) - MATH\nComputer Science & Engineering (Undergraduate) - CSE"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 10,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Letter Grade with Pass/No Pass option\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 005 or equivalent exam\nOpen only to following major/minor(s):\nApplied Mathematical Sciences (Undergraduate) - MATH\nComputer Science & Engineering (Undergradu"
+    "overlap": 20,
+    "chunk_text": "- CSE\n\nInstructor Permission Required: No"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 11,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "- MATH\nComputer Science & Engineering (Undergraduate) - CSE\n\nInstructor Permission Required: No"
+    "overlap": 20,
+    "chunk_text": "Required: No\n\nIntended for students with basic to intermediate programming skills, and introduces them to advanced programming techniques such as pointers and memory management, exception handling, multi-threading, object oriented programming, and ge"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 12,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "- CSE\n\nInstructor Permission Required: No\n\nIntended for students with basic to intermediate programming skills, and introduces them to advanced programming techniques such as pointers and memory management, exception handling, multi-threading, object"
+    "overlap": 20,
+    "chunk_text": "programming, and generic programming. The C++ language is used throughout the course."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 13,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ement, exception handling, multi-threading, object oriented programming, and generic programming. The C++ language is used throughout the course."
+    "overlap": 20,
+    "chunk_text": "the course.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 022\nOpen only to following major/minor(s):\nApplied Mathematical Sciences (Undergraduate) - MATH\nComputer Science & Engineering (Undergraduate) - CSE"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 14,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "The C++ language is used throughout the course.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 022\nOpen only to following major/minor(s):\nApplied Mathematical Sciences (Undergraduate) - MATH\nComputer Science & Engineering (Undergraduate) - CS"
+    "overlap": 20,
+    "chunk_text": "- CSE\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 024\nInstructor Permission Required: No"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 15,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "omputer Science & Engineering (Undergraduate) - CSE\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 024\nInstructor Permission Required: No"
+    "overlap": 20,
+    "chunk_text": "Required: No\n\nExposes students to the underlying structure of machines. Starting from C programming, pointers, data representation, MIPS instruction-set, Compilation process and down to Hardware implementation."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 16,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "CSE 024\nInstructor Permission Required: No\n\nExposes students to the underlying structure of machines. Starting from C programming, pointers, data representation, MIPS instruction-set, Compilation process and down to Hardware implementation."
+    "overlap": 20,
+    "chunk_text": "implementation.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 024 and CSE 030\nInstructor Permission Required: No\n\nCourse Details\nRepeats Allowed for Credit: 99\n\nNormal Letter Grade with Pass/No Pass option"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 17,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "process and down to Hardware implementation.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 024 and CSE 030\nInstructor Permission Required: No\n\nCourse Details\nRepeats Allowed for Credit: 99\n\nNormal Letter Grade with Pass/No Pass option"
+    "overlap": 20,
+    "chunk_text": "Pass/No Pass option\n\nRequisites and Restrictions\nInstructor Permission Required: Yes\n\nPass/No Pass only\n\nGE Requirements\nUpper Division: Crossroads"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 18,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "99\n\nNormal Letter Grade with Pass/No Pass option\n\nRequisites and Restrictions\nInstructor Permission Required: Yes\n\nPass/No Pass only\n\nGE Requirements\nUpper Division: Crossroads"
+    "overlap": 20,
+    "chunk_text": "Crossroads\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 024 and CSE 030 and (MATH 023 or MATH 023H) and (MATH 032 or ENGR 080)\nPrerequisite Courses with Concurrent Option: CSE 031 and MATH 024\nInstructor Permission Required: No"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 19,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "only\n\nGE Requirements\nUpper Division: Crossroads\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 024 and CSE 030 and (MATH 023 or MATH 023H) and (MATH 032 or ENGR 080)\nPrerequisite Courses with Concurrent Option: CSE 031 and MATH 024\nInstructo"
+    "overlap": 20,
+    "chunk_text": "Required: No\n\nOur ability to manipulate data depends on and is limited by our familiarity with computing technologies. We study tools for exploratory computing, emphasizing programming and scripting languages over point-and-click interfaces. We cover"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 20,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Concurrent Option: CSE 031 and MATH 024\nInstructor Permission Required: No"
+    "overlap": 20,
+    "chunk_text": "interfaces. We cover the Unix basics and common utilities, regular expressions, Perl and R languages. Development of a problem solving ability to learn languages independently and cull online documentation."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 21,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "and MATH 024\nInstructor Permission Required: No\n\nOur ability to manipulate data depends on and is limited by our familiarity with computing technologies. We study tools for exploratory computing, emphasizing programming and scripting languages over p"
+    "overlap": 20,
+    "chunk_text": "documentation.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 22,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "asizing programming and scripting languages over point-and-click interfaces. We cover the Unix basics and common utilities, regular expressions, Perl and R languages. Development of a problem solving ability to learn languages independently and cull"
+    "overlap": 20,
+    "chunk_text": "el(s):\nJunior\nSenior\n\nOverview of digital image processing including visual perception, image formation, spatial transformations, image enhancement, color image representations and processing, edge detection, image segmentation, and morphological ima"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 23,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ability to learn languages independently and cull online documentation.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
+    "overlap": 20,
+    "chunk_text": "nd morphological image processing.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nOpen only to the following class level(s):\nSophomore\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 24,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nOverview of digital image processing including visual perception, image formation, spatial transformations, image enhancement, color image representations and processing, edge detection, image segmentat"
+    "overlap": 20,
+    "chunk_text": "homore\nJunior\nSenior\n\nExplores topics related to both front end and backend web development including web security, scalable architecture, web frameworks, databases, and object relational mappers."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 25,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ns and processing, edge detection, image segmentation, and morphological image processing.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nOpen only to the following class level(s):\nSophomore\nJunior\nSenior"
+    "overlap": 20,
+    "chunk_text": "relational mappers.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and MATH 024\nPrerequisite Courses with Concurrent Option: CSE 100\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 26,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "following class level(s):\nSophomore\nJunior\nSenior\n\nExplores topics related to both front end and backend web development including web security, scalable architecture, web frameworks, databases, and object relational mappers."
+    "overlap": 20,
+    "chunk_text": "- CSE\n\nPrinciples of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting database"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 27,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "databases, and object relational mappers.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and MATH 024\nPrerequisite Courses with Concurrent Option: CSE 100\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduat"
+    "overlap": 20,
+    "chunk_text": "Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data warehousing."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 28,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "r(s):\nComputer Science & Engineering (Undergraduate) - CSE"
+    "overlap": 20,
+    "chunk_text": "data warehousing.\n\nTeams work on approved design projects or on software teams. Through these projects, students will practice design methodology and learn modern software engineering techniques to create reliable, efficient, reusable, and maintainab"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 29,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Science & Engineering (Undergraduate) - CSE\n\nPrinciples of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with"
+    "overlap": 20,
+    "chunk_text": "able, and maintainable software systems using various design process models. Good standard project practices topics will be covered.\n\nGE Requirements\nUpper Division: Culminating Experience\nIntellectual Experience: Scientific Method"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 30,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "constraints and triggers. Query optimization with views and indexes. Exploiting database servers within programming languages for web application development. Other topics include transaction processing and recovery, user-defined functions, and data"
+    "overlap": 20,
+    "chunk_text": "Scientific Method\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nCannot also be taken due to similarity of content: ENGR 190, ENGR 193, ENGR 194\nOpen only to the following class level(s):\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 31,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ng and recovery, user-defined functions, and data warehousing."
+    "overlap": 20,
+    "chunk_text": "level(s):\nSenior\n\nCrosslisted with: MGMT 126\nDiscussion included\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 32,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "user-defined functions, and data warehousing.\n\nTeams work on approved design projects or on software teams. Through these projects, students will practice design methodology and learn modern software engineering techniques to create reliable, efficie"
+    "overlap": 20,
+    "chunk_text": "Letter Grade only\n\nRequisites and Restrictions\nOpen only to following major/minor(s):\nManagement & Business Economics (Undergraduate) - MBE\nComputer Science & Engineering (Undergraduate) - CSE"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 33,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "engineering techniques to create reliable, efficient, reusable, and maintainable software systems using various design process models. Good standard project practices topics will be covered."
+    "overlap": 20,
+    "chunk_text": "- CSE\n\nIntroduces the basic theory and practice of cryptographic techniques used in computer security by exploring the inner workings, mathematical assumptions and foundations of cryptographic primitives and how to use them correctly. Topics include"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 34,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "project practices topics will be covered.\n\nGE Requirements\nUpper Division: Culminating Experience\nIntellectual Experience: Scientific Method"
+    "overlap": 20,
+    "chunk_text": "tly. Topics include pseudorandom functions, one-way functions, cryptographic hashing, encryption (symmetric and public-key), message integrity, message authentication codes, digital signatures, key management, security protocols and more. Covers the"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 35,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Experience: Scientific Method\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nCannot also be taken due to similarity of content: ENGR 190, ENGR 193, ENGR 194\nOpen only to the following class level(s):\nSenior"
+    "overlap": 20,
+    "chunk_text": "nd more. Covers the necessary mathematical background, formal definitions of security and proofs of security based on precise definitions and assumptions."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 36,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "only to the following class level(s):\nSenior\n\nCrosslisted with: MGMT 126\nDiscussion included\nNormal Letter Grade only"
+    "overlap": 20,
+    "chunk_text": "and assumptions.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nInstructor Permission Required: No\nA strong mathematical background in probability and statistics is preferred."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 37,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "126\nDiscussion included\nNormal Letter Grade only\n\nRequisites and Restrictions\nOpen only to following major/minor(s):\nManagement & Business Economics (Undergraduate) - MBE\nComputer Science & Engineering (Undergraduate) - CSE"
+    "overlap": 20,
+    "chunk_text": "is preferred.\n\nUnderstanding the inherent capabilities and limitations of computers is a fundamental question in computer science. To answer this question, we will define formal mathematical models of computation, and study their relationships with f"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 38,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Science & Engineering (Undergraduate) - CSE\n\nIntroduces the basic theory and practice of cryptographic techniques used in computer security by exploring the inner workings, mathematical assumptions and foundations of cryptographic primitives and how"
+    "overlap": 20,
+    "chunk_text": "relationships with formal languages. Topics will consist of three central areas of the theory of computation: automata, computability, and complexity."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 39,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "d foundations of cryptographic primitives and how to use them correctly. Topics include pseudorandom functions, one-way functions, cryptographic hashing, encryption (symmetric and public-key), message integrity, message authentication codes, digital"
+    "overlap": 20,
+    "chunk_text": "and complexity.\n\nFundamental concepts of digital computer design, including instruction sets, memory systems and registers, logic and mathematics units, modern CPUs and their architectural features are discussed along with the motivation for each des"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 40,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "integrity, message authentication codes, digital signatures, key management, security protocols and more. Covers the necessary mathematical background, formal definitions of security and proofs of security based on precise definitions and assumptions"
+    "overlap": 20,
+    "chunk_text": "ivation for each design choice.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and ENGR 065\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 41,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "urity based on precise definitions and assumptions.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nInstructor Permission Required: No\nA strong mathematical background in probability and statistics is preferred."
+    "overlap": 20,
+    "chunk_text": "el(s):\nJunior\nSenior\n\nExplores basic concepts and techniques in compiler construction. Examines topics such as, lexical analysis, finite automata, parsing, context-sensitive analysis, intermediate representation, code shape analysis, code optimizatio"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 42,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "in probability and statistics is preferred.\n\nUnderstanding the inherent capabilities and limitations of computers is a fundamental question in computer science. To answer this question, we will define formal mathematical models of computation, and st"
+    "overlap": 20,
+    "chunk_text": "is, code optimizations, code generation, and register allocation.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 43,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "formal mathematical models of computation, and study their relationships with formal languages. Topics will consist of three central areas of the theory of computation: automata, computability, and complexity."
+    "overlap": 20,
+    "chunk_text": "- CSE\n\nConcepts of computer operating systems including concurrency, memory management, file systems, multitasking, performance analysis, and security.\n\nConjoined with: EECS 251\nLaboratory included\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 44,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "automata, computability, and complexity.\n\nFundamental concepts of digital computer design, including instruction sets, memory systems and registers, logic and mathematics units, modern CPUs and their architectural features are discussed along with th"
+    "overlap": 20,
+    "chunk_text": "Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 150\nOpen only to the following class level(s):\nJunior\nSenior\n\nGE Requirements\nIntellectual Experience: Ethics\nIntellectual Experience: Scientific Method"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 45,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "architectural features are discussed along with the motivation for each design choice.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and ENGR 065\nOpen only to the following class level(s):\nJunior\nSenior"
+    "overlap": 20,
+    "chunk_text": "Scientific Method\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 100 and CSE 031 and MATH 024\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 46,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nExplores basic concepts and techniques in compiler construction. Examines topics such as, lexical analysis, finite automata, parsing, context-sensitive analysis, intermediate representation, code shape"
+    "overlap": 20,
+    "chunk_text": "- CSE\n\nOpen only to the following class level(s):\nJunior\nSenior\n\nInstructor Permission Required: No\nStrong skills in programming preferred."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 47,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "analysis, intermediate representation, code shape analysis, code optimizations, code generation, and register allocation."
+    "overlap": 20,
+    "chunk_text": "preferred.\n\nIntroduces methods for signal processing between digitization and inference algorithms, where time-series signals are pre-processed. Explores the applications of Internet of Things (IoT) systems, smart connected devices in people’s lives,"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 48,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "code generation, and register allocation.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
+    "overlap": 20,
+    "chunk_text": "s in people’s lives, and examples of converting physical world analog signals to digital ones. Includes topics both theoretical and practical.\n\nCourse Details\nRepeats Allowed for Credit: 1"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 49,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Science & Engineering (Undergraduate) - CSE\n\nConcepts of computer operating systems including concurrency, memory management, file systems, multitasking, performance analysis, and security."
+    "overlap": 20,
+    "chunk_text": "for Credit: 1\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nInstructor Permission Required: No"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 50,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "multitasking, performance analysis, and security.\n\nConjoined with: EECS 251\nLaboratory included\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 150\nOpen only to the following class level(s):\nJunior\nSenior"
+    "overlap": 20,
+    "chunk_text": "Required: No\n\nDesign concepts and implementation features of computer networks. Concepts of network robustness, scalability, addressing, routing, and security. Several contemporary networking protocols are analyzed."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 51,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nGE Requirements\nIntellectual Experience: Ethics\nIntellectual Experience: Scientific Method"
+    "overlap": 20,
+    "chunk_text": "are analyzed.\n\nGE Requirements\nIntellectual Experience: Ethics\nIntellectual Experience: Sustainability\nUpper Division: Crossroads"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 52,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Ethics\nIntellectual Experience: Scientific Method\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 100 and CSE 031 and MATH 024\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
+    "overlap": 20,
+    "chunk_text": "Crossroads\n\nIntroduces mobile cloud computing’s basic concepts, including different types of mobile computing devices and applications, the communication technologies used in modern smartphones, the context-aware computing technologies, and programmi"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 53,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Science & Engineering (Undergraduate) - CSE\n\nOpen only to the following class level(s):\nJunior\nSenior\n\nInstructor Permission Required: No\nStrong skills in programming preferred."
+    "overlap": 20,
+    "chunk_text": "ogies, and programming on mobile devices.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and MATH 024 and CSE 100 and CSE 165\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 54,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "No\nStrong skills in programming preferred.\n\nIntroduces methods for signal processing between digitization and inference algorithms, where time-series signals are pre-processed. Explores the applications of Internet of Things (IoT) systems, smart conn"
+    "overlap": 20,
+    "chunk_text": "- CSE\n\nTopics include object-oriented programming concepts, such as classes, objects, methods, interfaces, packages, inheritance, encapsulation, and polymorphism.\n\nCrosslisted with: ENGR 140\nLaboratory included\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 55,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ns of Internet of Things (IoT) systems, smart connected devices in people’s lives, and examples of converting physical world analog signals to digital ones. Includes topics both theoretical and practical.\n\nCourse Details\nRepeats Allowed for Credit: 1"
+    "overlap": 20,
+    "chunk_text": "Letter Grade only\n\nCovers the foundations of distributed software systems and their practical designs. Includes concepts and principles of distributed systems (e.g., consistency, availability, scalability, etc.); programming models for distributed co"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 56,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Details\nRepeats Allowed for Credit: 1\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 024\nInstructor Permission Required: No"
+    "overlap": 20,
+    "chunk_text": "s for distributed computing (e.g., batch/streaming processing, RPC, Key-Value, etc.); distributed storage systems (e.g., indexing, replication, partition, and erasure coding, etc.); and convergence of HPC, Big Data, AI, and Cloud Computing with moder"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 57,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "and MATH 024\nInstructor Permission Required: No\n\nDesign concepts and implementation features of computer networks. Concepts of network robustness, scalability, addressing, routing, and security. Several contemporary networking protocols are analyzed."
+    "overlap": 20,
+    "chunk_text": "Computing with modern distributed systems.\n\nGE Requirements\nIntellectual Experience: Scientific Method"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 58,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "contemporary networking protocols are analyzed.\n\nGE Requirements\nIntellectual Experience: Ethics\nIntellectual Experience: Sustainability\nUpper Division: Crossroads"
+    "overlap": 20,
+    "chunk_text": "Scientific Method\n\nBasic algorithms in computer graphics enabling students to understand and experience the process of implementing modern computer graphics applications. Topics covered: programmable shaders, rasterization, hidden surface removal, tr"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 59,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Sustainability\nUpper Division: Crossroads\n\nIntroduces mobile cloud computing’s basic concepts, including different types of mobile computing devices and applications, the communication technologies used in modern smartphones, the context-aware comput"
+    "overlap": 20,
+    "chunk_text": "surface removal, transformations, rendering pipeline, scene graphs, curves and surfaces, boundary representation, spatial partition methods, keyframe animation, texture mapping, illumination and shading."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 60,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ed in modern smartphones, the context-aware computing technologies, and programming on mobile devices."
+    "overlap": 20,
+    "chunk_text": "and shading.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and (CSE 165 or ENGR 140) and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 61,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "technologies, and programming on mobile devices.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and MATH 024 and CSE 100 and CSE 165\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
+    "overlap": 20,
+    "chunk_text": "el(s):\nJunior\nSenior\n\nCovers the main algorithms and techniques used in the implementation of interactive 3D Graphics, such as in Computer Games, Robotics Simulators and Virtual Reality. Topics covered are: keyframe animation, articulated figures, di"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 62,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Science & Engineering (Undergraduate) - CSE\n\nTopics include object-oriented programming concepts, such as classes, objects, methods, interfaces, packages, inheritance, encapsulation, and polymorphism."
+    "overlap": 20,
+    "chunk_text": "iculated figures, direct and inverse kinematics, physically-based simulation, path planning, behavior-based animation, scripting behaviors, and other advanced topics.\n\nConjoined with: EECS 287\nLaboratory included\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 63,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "inheritance, encapsulation, and polymorphism.\n\nCrosslisted with: ENGR 140\nLaboratory included\nNormal Letter Grade only"
+    "overlap": 20,
+    "chunk_text": "Letter Grade only\n\nGE Requirements\nApproaches to Knowledge: Media and Visual Analysis\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE100 and CSE 165 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 64,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "140\nLaboratory included\nNormal Letter Grade only\n\nCovers the foundations of distributed software systems and their practical designs. Includes concepts and principles of distributed systems (e.g., consistency, availability, scalability, etc.); progra"
+    "overlap": 20,
+    "chunk_text": "el(s):\nJunior\nSenior\n\nDesign and analysis of computational simulations of human behavior and brain function. Techniques for modeling active membranes, individual neurons, the dynamics produced by recurrent excitation and lateral inhibition, synaptic"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 65,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "sistency, availability, scalability, etc.); programming models for distributed computing (e.g., batch/streaming processing, RPC, Key-Value, etc.); distributed storage systems (e.g., indexing, replication, partition, and erasure coding, etc.); and con"
+    "overlap": 20,
+    "chunk_text": "nhibition, synaptic plasticity, and the computational role of neurotransmitters. Formal models of perception, attention, learning, memory, language, categorization, and cognitive control."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 66,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ion, partition, and erasure coding, etc.); and convergence of HPC, Big Data, AI, and Cloud Computing with modern distributed systems.\n\nGE Requirements\nIntellectual Experience: Scientific Method"
+    "overlap": 20,
+    "chunk_text": "cognitive control.\n\nCrosslisted with: COGS 123\nLaboratory included\nNormal Letter Grade with Pass/No Pass option\n\nRequisites and Restrictions\nPrerequisite Courses: COGS 001 and any upper-division COGS course\nInstructor Permission Required: No"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 67,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Experience: Scientific Method\n\nBasic algorithms in computer graphics enabling students to understand and experience the process of implementing modern computer graphics applications. Topics covered: programmable shaders, rasterization, hidden surface"
+    "overlap": 20,
+    "chunk_text": "Required: No\n\nCrosslisted with: COGS 125\nLaboratory included\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 019 or CSE 021 or CSE 022 or equivalent exam \nInstructor Permission Required: No\nCOGS 001 recommended"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 68,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "rogrammable shaders, rasterization, hidden surface removal, transformations, rendering pipeline, scene graphs, curves and surfaces, boundary representation, spatial partition methods, keyframe animation, texture mapping, illumination and shading."
+    "overlap": 20,
+    "chunk_text": "001 recommended\n\nSurvey of techniques for development and analysis of software that learns from experience. Specific topics: supervised learning (classification, regression); unsupervised learning (density estimation, clustering, dimensionality reduc"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 69,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "texture mapping, illumination and shading.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and (CSE 165 or ENGR 140) and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
+    "overlap": 20,
+    "chunk_text": "dimensionality reduction); reinforcement learning; and others. Specific techniques: linear classifiers, mixture models, nonparametric methods, decision trees, neural networks, kernel machines, ensembles, graphical models, Bayesian methods, etc."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 70,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nCovers the main algorithms and techniques used in the implementation of interactive 3D Graphics, such as in Computer Games, Robotics Simulators and Virtual Reality. Topics covered are: keyframe animatio"
+    "overlap": 20,
+    "chunk_text": "methods, etc.\n\nGE Requirements\nIntellectual Experience: Scientific Method\nUpper Division: Crossroads\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 141\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 71,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ual Reality. Topics covered are: keyframe animation, articulated figures, direct and inverse kinematics, physically-based simulation, path planning, behavior-based animation, scripting behaviors, and other advanced topics."
+    "overlap": 20,
+    "chunk_text": "el(s):\nJunior\nSenior\n\nStudies the internals of a database management system, with emphasis on query execution. The final goal of the class is to build a fully-functional database execution engine consisting of all the standard components: storage man"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 72,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "scripting behaviors, and other advanced topics.\n\nConjoined with: EECS 287\nLaboratory included\nNormal Letter Grade only\n\nGE Requirements\nApproaches to Knowledge: Media and Visual Analysis"
+    "overlap": 20,
+    "chunk_text": "ponents: storage manager, buffer manager, query execution engine, query optimizer, and query compiler.\n\nConjoined with: EECS 277\nLaboratory included\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 73,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to Knowledge: Media and Visual Analysis\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE100 and CSE 165 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
+    "overlap": 20,
+    "chunk_text": "Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 111 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 74,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nDesign and analysis of computational simulations of human behavior and brain function. Techniques for modeling active membranes, individual neurons, the dynamics produced by recurrent excitation and lat"
+    "overlap": 20,
+    "chunk_text": "el(s):\nJunior\nSenior\n\nIntroduces fundamental concepts in the design and development of secure computer networks. Covers security threats, secret-key and public-key cryptography and algorithms, digital signatures, authentication, Electronic mail, Publ"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 75,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "dynamics produced by recurrent excitation and lateral inhibition, synaptic plasticity, and the computational role of neurotransmitters. Formal models of perception, attention, learning, memory, language, categorization, and cognitive control."
+    "overlap": 20,
+    "chunk_text": "lectronic mail, Public-key infrastructure, viruses and worms.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 150 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 76,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "language, categorization, and cognitive control.\n\nCrosslisted with: COGS 123\nLaboratory included\nNormal Letter Grade with Pass/No Pass option"
+    "overlap": 20,
+    "chunk_text": "el(s):\nJunior\nSenior\n\nParallel computing is pervasive. From embedded devices, laptops, to high-end supercomputer, and large-scale data centers, parallel computing is widely employed to achieve performance and efficiency targets. This course introduce"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 77,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Letter Grade with Pass/No Pass option\n\nRequisites and Restrictions\nPrerequisite Courses: COGS 001 and any upper-division COGS course\nInstructor Permission Required: No\n\nCrosslisted with: COGS 125\nLaboratory included\nNormal Letter Grade only"
+    "overlap": 20,
+    "chunk_text": "his course introduces the foundations of parallel computing, including parallel architectures, parallel programming methods and techniques, and parallel algorithm designs."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 78,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "125\nLaboratory included\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 019 or CSE 021 or CSE 022 or equivalent exam \nInstructor Permission Required: No\nCOGS 001 recommended"
+    "overlap": 20,
+    "chunk_text": "algorithm designs.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 140 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 79,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Permission Required: No\nCOGS 001 recommended\n\nSurvey of techniques for development and analysis of software that learns from experience. Specific topics: supervised learning (classification, regression); unsupervised learning (density estimation, clu"
+    "overlap": 20,
+    "chunk_text": "el(s):\nJunior\nSenior\n\nCovers the basic of robotics focusing on the algorithmic side, rather than technology. Introduces basic computational techniques concerning spatial modeling, planning, and sensor processing. The course has a strong hands-on comp"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 80,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "n); unsupervised learning (density estimation, clustering, dimensionality reduction); reinforcement learning; and others. Specific techniques: linear classifiers, mixture models, nonparametric methods, decision trees, neural networks, kernel machines"
+    "overlap": 20,
+    "chunk_text": "strong hands-on component. Implementation of different techniques in simulation will complement the theoretical lectures."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 81,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": ", decision trees, neural networks, kernel machines, ensembles, graphical models, Bayesian methods, etc.\n\nGE Requirements\nIntellectual Experience: Scientific Method\nUpper Division: Crossroads"
+    "overlap": 20,
+    "chunk_text": "lectures.\n\nOverview of fundamental image processing and pattern recognition techniques including image formation, edge detection, image segmentation, optical flow, recovery of three-dimensional structure from shading or stereo information, shape repr"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 82,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Scientific Method\nUpper Division: Crossroads\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 141\nOpen only to the following class level(s):\nJunior\nSenior"
+    "overlap": 20,
+    "chunk_text": "ormation, shape representations, and issues in object recognition.\n\nGE Requirements\nApproaches to Knowledge: Media and Visual Analysis\nUpper Division: Crossroads"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 83,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nStudies the internals of a database management system, with emphasis on query execution. The final goal of the class is to build a fully-functional database execution engine consisting of all the standa"
+    "overlap": 20,
+    "chunk_text": "Crossroads\n\nCovers special topics within Computer Science and Engineering that are not covered in the regularly scheduled courses. Each class will have a specific focus which will be defined by the instructor of the course on a semester-by-semester b"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 84,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "base execution engine consisting of all the standard components: storage manager, buffer manager, query execution engine, query optimizer, and query compiler.\n\nConjoined with: EECS 277\nLaboratory included\nNormal Letter Grade only"
+    "overlap": 20,
+    "chunk_text": "mester-by-semester basis.\n\nCourse Details\nRepeats Allowed for Credit: 3\n\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
     "chunk_index": 85,
     "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "277\nLaboratory included\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 111 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 86,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nIntroduces fundamental concepts in the design and development of secure computer networks. Covers security threats, secret-key and public-key cryptography and algorithms, digital signatures, authenticat"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 87,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "hy and algorithms, digital signatures, authentication, Electronic mail, Public-key infrastructure, viruses and worms."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 88,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Public-key infrastructure, viruses and worms.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 150 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 89,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nParallel computing is pervasive. From embedded devices, laptops, to high-end supercomputer, and large-scale data centers, parallel computing is widely employed to achieve performance and efficiency targ"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 90,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "mployed to achieve performance and efficiency targets. This course introduces the foundations of parallel computing, including parallel architectures, parallel programming methods and techniques, and parallel algorithm designs."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 91,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "and techniques, and parallel algorithm designs.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 140 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 92,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nCovers the basic of robotics focusing on the algorithmic side, rather than technology. Introduces basic computational techniques concerning spatial modeling, planning, and sensor processing. The course"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 93,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ling, planning, and sensor processing. The course has a strong hands-on component. Implementation of different techniques in simulation will complement the theoretical lectures."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 94,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "will complement the theoretical lectures.\n\nOverview of fundamental image processing and pattern recognition techniques including image formation, edge detection, image segmentation, optical flow, recovery of three-dimensional structure from shading o"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 95,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "very of three-dimensional structure from shading or stereo information, shape representations, and issues in object recognition.\n\nGE Requirements\nApproaches to Knowledge: Media and Visual Analysis\nUpper Division: Crossroads"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 96,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "and Visual Analysis\nUpper Division: Crossroads\n\nCovers special topics within Computer Science and Engineering that are not covered in the regularly scheduled courses. Each class will have a specific focus which will be defined by the instructor of th"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 97,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "ocus which will be defined by the instructor of the course on a semester-by-semester basis.\n\nCourse Details\nRepeats Allowed for Credit: 3\n\nNormal Letter Grade only"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 98,
-    "chunk_size": 250,
-    "overlap": 50,
-    "chunk_text": "Allowed for Credit: 3\n\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and MATH 024 and CSE 100\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
+    "overlap": 20,
+    "chunk_text": "Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and MATH 024 and CSE 100\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 1,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "Computer Science & Engineering (CSE)\nAhmed Arif heashot\nAhmed Arif\nAssistant Professor\n\nasarif@ucmerced.edu\n\nSE2 212\n\nSmarter solutions for text entry, error correction, and editing on various devices\nMobile interaction, tangible user interfaces, child-computer interaction, usable security, and scientific data visualization\nLab Websites:\n\nscarpin@ucmerced.edu\n\nmcarreira-perpinan@ucmerced.edu"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "Computer Science & Engineering (CSE)\nAhmed Arif heashot\nAhmed Arif\nAssistant Professor\n\nSE2 212\n\nSmarter solutions for text entry, error correction, and editing on various devices\nMobile interaction, tangible user interfaces, child-computer interaction, usable security, and scientific data visualization\nLab Websites:\n\nAlberto Cerpa headshot\nAlberto Cerpa\nAssociate Professor\n\nSE2 221"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 2,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "scientific data visualization\nLab Websites:\n\nscarpin@ucmerced.edu\n\nmcarreira-perpinan@ucmerced.edu\n\nAlberto Cerpa headshot\nAlberto Cerpa\nAssociate Professor\n\nacerpa@ucmerced.edu\n\nSE2 221\n\nSantosh Chandrasekhar headshot\nSantosh Chandrasekhar\nAssistant Teaching Professor\n\nschandrasekhar@ucmerced.edu\n\nSE2 273"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "Cerpa\nAssociate Professor\n\nSE2 221\n\nSantosh Chandrasekhar headshot\nSantosh Chandrasekhar\nAssistant Teaching Professor\n\nSE2 273\n\nDevelopment of effective teaching strategies for undergraduate computer science courses\nDevelopment of a security education program for undergraduate students\nWan Du Portrait\nWan Du\nAssistant Professor"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 3,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "headshot\nSantosh Chandrasekhar\nAssistant Teaching Professor\n\nschandrasekhar@ucmerced.edu\n\nSE2 273\n\nDevelopment of effective teaching strategies for undergraduate computer science courses\nDevelopment of a security education program for undergraduate students\nWan Du Portrait\nWan Du\nAssistant Professor\n\nwdu3@ucmerced.edu\n\nInternet of Things (IoT)\nWireless Networking and Sensing\nEdge Computing\nReinforcement Learning\nData Analytics"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "Du Portrait\nWan Du\nAssistant Professor\n\nInternet of Things (IoT)\nWireless Networking and Sensing\nEdge Computing\nReinforcement Learning\nData Analytics\n\nGiovanni Gonzalez Araujo\nAssistant Teaching Professor\n\nDevelopment of educational software tools for effective teaching and learning in computer science.\nDevelopment of interactive curriculum for introductory programming courses."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 4,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "Things (IoT)\nWireless Networking and Sensing\nEdge Computing\nReinforcement Learning\nData Analytics\n\nGiovanni Gonzalez Araujo\nAssistant Teaching Professor\n\nggonzalezaraujo@ucmerced.edu\n\nDevelopment of educational software tools for effective teaching and learning in computer science.\nDevelopment of interactive curriculum for introductory programming courses.\n\nRoss Greer\nAssistant Professor\n\nrossgreer@ucmerced.edu"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "curriculum for introductory programming courses.\n\nRoss Greer\nAssistant Professor\n\nAutonomous Driving\nComputer Vision\nHuman-Robot Interaction\nMultimodal Machine Learning\nNovelty Detection\nHua Huang\nHua Huang\nAssistant Professor\n\nSensor Systems\nWireless Networks\nUbiquitous Computing\nSmart Healthcare\nHyeran Jeon\nHyeran Jeon\nAssociate Professor"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 5,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "for introductory programming courses.\n\nRoss Greer\nAssistant Professor\n\nrossgreer@ucmerced.edu\n\nAutonomous Driving\nComputer Vision\nHuman-Robot Interaction\nMultimodal Machine Learning\nNovelty Detection\nHua Huang\nHua Huang\nAssistant Professor\n\nhhuang80@ucmerced.edu\n\nSensor Systems\nWireless Networks\nUbiquitous Computing\nSmart Healthcare\nHyeran Jeon\nHyeran Jeon\nAssociate Professor\n\nhjeon7@ucmerced.edu"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "Jeon\nHyeran Jeon\nAssociate Professor\n\nComputer Architecture\nHW/SW Interaction\nEnergy Efficient System\nReliable and Secure System \nAngelo Kyrilov\nAngelo Kyrilov\nAssistant Teaching Professor\n\nCO1 370\n\nDong Li\nDong Li\nAssociate Professor\n\nHigh performance computing\nFault tolerance/resilience in large-scale parallel and distributed systems\nPower-aware computing\nPerformance modeling and optimization"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 6,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "Computing\nSmart Healthcare\nHyeran Jeon\nHyeran Jeon\nAssociate Professor\n\nhjeon7@ucmerced.edu\n\nComputer Architecture\nHW/SW Interaction\nEnergy Efficient System\nReliable and Secure System \nAngelo Kyrilov\nAngelo Kyrilov\nAssistant Teaching Professor\n\nakyrilov@ucmerced.edu\n\nCO1 370\n\nDong Li\nDong Li\nAssociate Professor\n\ndli35@ucmerced.edu"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "computing\nPerformance modeling and optimization\n\nXiaoyi Lu\nAssistant Professor\n\nParallel and Distributed Computing\nSystems for HPC, Big Data, AI, and others\nVirtualization and Cloud Computing\nHigh-Performance Communication and I/O\nPerformance, Scalability, Fault tolerance, QoS, and others\nShawn Newsam\nShawn Newsam\nProfessor"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 7,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "Professor\n\nakyrilov@ucmerced.edu\n\nCO1 370\n\nDong Li\nDong Li\nAssociate Professor\n\ndli35@ucmerced.edu\n\nHigh performance computing\nFault tolerance/resilience in large-scale parallel and distributed systems\nPower-aware computing\nPerformance modeling and optimization\n\nXiaoyi Lu\nAssistant Professor\n\nxiaoyi.lu@ucmerced.edu"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "and others\nShawn Newsam\nShawn Newsam\nProfessor\n\nImage processing\nComputer vision\nPattern recognition\nMachine learning\nContent-based information retrieval\nDigital libraries, data mining and knowledge discovery in spatio-temporal, multimedia and scientific datasets\nShijia Pan\nShijia Pan\nAssistant Professor"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 8,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "modeling and optimization\n\nXiaoyi Lu\nAssistant Professor\n\nxiaoyi.lu@ucmerced.edu\n\nParallel and Distributed Computing\nSystems for HPC, Big Data, AI, and others\nVirtualization and Cloud Computing\nHigh-Performance Communication and I/O\nPerformance, Scalability, Fault tolerance, QoS, and others\nShawn Newsam\nShawn Newsam\nProfessor\n\nsnewsam@ucmerced.edu"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "Pan\nShijia Pan\nAssistant Professor\n\nCyber-Physical Systems\nInternet-of-Things\nUbiquitous Computing\nMultimodal signal processing for IoT applications\nVibration/acoustic signal processing\nFlorin\nFlorin Rusu\nProfessor and Department Chair (CSE)\n\nLarge scale data management\nDatabase systems design and implementation\nData aggregation methods\nApproximation and randomized algorithms"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 9,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "Fault tolerance, QoS, and others\nShawn Newsam\nShawn Newsam\nProfessor\n\nsnewsam@ucmerced.edu\n\nImage processing\nComputer vision\nPattern recognition\nMachine learning\nContent-based information retrieval\nDigital libraries, data mining and knowledge discovery in spatio-temporal, multimedia and scientific datasets\nShijia Pan\nShijia Pan\nAssistant Professor\n\nspan24@ucmerced.edu"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "methods\nApproximation and randomized algorithms\n\nPengfei Su\nAssistant Professor\n\nProgramming Languages\nStatic and Dynamic Program Analysis\nHigh-performance/Parallel Computing\nSoftware Engineering\n\nMeng Tang\nAssistant Professor\n\ncomputer vision\nmachine learning\ndiscrete optimization\naugmented and virtual reality\n\nYiwei Wang\nAssistant Professor"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
     "category": "long",
     "chunk_index": 10,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "multimedia and scientific datasets\nShijia Pan\nShijia Pan\nAssistant Professor\n\nspan24@ucmerced.edu\n\nCyber-Physical Systems\nInternet-of-Things\nUbiquitous Computing\nMultimodal signal processing for IoT applications\nVibration/acoustic signal processing\nFlorin\nFlorin Rusu\nProfessor and Department Chair (CSE)\n\nfrusu@ucmerced.edu"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
-    "category": "long",
-    "chunk_index": 11,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "signal processing\nFlorin\nFlorin Rusu\nProfessor and Department Chair (CSE)\n\nfrusu@ucmerced.edu\n\nLarge scale data management\nDatabase systems design and implementation\nData aggregation methods\nApproximation and randomized algorithms\n\nPengfei Su\nAssistant Professor\n\npsu9@ucmerced.edu\n\nProgramming Languages\nStatic and Dynamic Program Analysis\nHigh-performance/Parallel Computing\nSoftware Engineering\n\nMeng Tang\nAssistant Professor\n\nmtang4@ucmerced.edu"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
-    "category": "long",
-    "chunk_index": 12,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "Computing\nSoftware Engineering\n\nMeng Tang\nAssistant Professor\n\nmtang4@ucmerced.edu\n\ncomputer vision\nmachine learning\ndiscrete optimization\naugmented and virtual reality\n\nYiwei Wang\nAssistant Professor\n\nyiweiwang2@ucmerced.edu\n\nNatural Language Processing\nLarge Language Models\nGraph Machine Learning\nSocial Media\n\nTwitter/X: https://twitter.com/wangyiw33973985\nMing-Hsuan Yang\nMing-Hsuan Yang\nProfessor and Graduate Chair, EECS\n\nmhyang@ucmerced.edu"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
-    "category": "long",
-    "chunk_index": 13,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "Yang\nMing-Hsuan Yang\nProfessor and Graduate Chair, EECS\n\nmhyang@ucmerced.edu\n\nComputer vision\nPattern recognition\nMachine learning"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "virtual reality\n\nYiwei Wang\nAssistant Professor\n\nNatural Language Processing\nLarge Language Models\nGraph Machine Learning\nSocial Media\n\nComputer vision\nPattern recognition\nMachine learning"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_9_UCM_CSE_Advising.txt",
     "category": "long",
     "chunk_index": 1,
-    "chunk_size": 450,
-    "overlap": 100,
+    "chunk_size": 400,
+    "overlap": 50,
     "chunk_text": "Computer Science and Engineering\nComputer science and engineering students at UC Merced work with the world's top computer scientists and engineers. Our faculty members have developed a program of study that combines practical exposure to the most modern technologies available with a theoretical foundation that empowers students to master future changes and innovations as technologies continue to evolve at an astonishing pace."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_9_UCM_CSE_Advising.txt",
     "category": "long",
     "chunk_index": 2,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "to master future changes and innovations as technologies continue to evolve at an astonishing pace.\n\nOur graduates will have the tools and the insights to propel them into positions of responsibility and leadership across virtually any occupation.\n\nMajor Requirements\nCatalog Year 2024-2025\nFlow Chart - Computer Science and Engineering, B.S.\n\nCatalog Year 2023-2024\nFlow Chat - Computer Science and Engineering, B.S."
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "continue to evolve at an astonishing pace.\n\nOur graduates will have the tools and the insights to propel them into positions of responsibility and leadership across virtually any occupation.\n\nMajor Requirements\nCatalog Year 2024-2025\nFlow Chart - Computer Science and Engineering, B.S.\n\nCatalog Year 2023-2024\nFlow Chat - Computer Science and Engineering, B.S."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_9_UCM_CSE_Advising.txt",
     "category": "long",
     "chunk_index": 3,
-    "chunk_size": 450,
-    "overlap": 100,
-    "chunk_text": "and Engineering, B.S.\n\nCatalog Year 2023-2024\nFlow Chat - Computer Science and Engineering, B.S.\n\nCatalog Year 2022-2023\nSee 2021 flow chart\n\nCatalog Year 2021-2022\nFlow Chart - Beginning with Math 021\n\nFlow Chart - Beginning with Math 005\n\nCatalog Year 2020-2021\nFlow Chart\n\nCatalog Year 2019-2020\nFlow Chart"
+    "chunk_size": 400,
+    "overlap": 50,
+    "chunk_text": "Chat - Computer Science and Engineering, B.S.\n\nCatalog Year 2022-2023\nSee 2021 flow chart\n\nCatalog Year 2021-2022\nFlow Chart - Beginning with Math 021\n\nFlow Chart - Beginning with Math 005\n\nCatalog Year 2020-2021\nFlow Chart\n\nCatalog Year 2019-2020\nFlow Chart"
   }
 ]

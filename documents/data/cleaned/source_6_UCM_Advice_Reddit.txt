@@ -1,13 +1,7 @@
 CSE major advice
 I am currently in cse30 I had failed this class f23 and now am retaking the class I barely understanding the material and am only getting the labs done and because the code is the same from last semesters. We just had a midterm and I got a very very low score. I feel like the other kids are so far ahead and are doing these labs on there own with little to no struggle. I am a commuter student and am not often on campus other than going to classes and am unaware of the type of resources and ways that can help me understand the course and its material. I feel like I am barely getting into the advanced courses and I am barely holding on. Any advice ??
 
-10
-·
-11
-u/AmericanExpress avatar
-AmericanExpress
-•
-Promoted
+0:00 / 0:00
 
 Talk to the professor. You might also talk to the folks at the Bright Success Center for help with things like time management or finding a tutor. But definitely talk to the professor! Just go to their office hours and say you need help.
 
@@ -27,13 +21,6 @@ OP
 •
 2y ago
 Any online sources that you remember that helped out? Any tips on note taking? I do feel like I have time to bounce back but I feel like it’s a long shot now that I depends on the final grade
-
-2
-u/incognito209 avatar
-incognito209
-•
-2y ago
-I found this cool visualization tool: https://pythontutor.com/visualize.html#mode=edit
 
 It’s set to Python by default but you can change it to Java or C++. You can run your code and it’ll visually show you what’s going on.
 
