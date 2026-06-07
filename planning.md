@@ -45,10 +45,12 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
 - Sources 1, 2, 3: 150-200 characters
 - Sources 3, 4, 5, 8, 10: 200-300 characters
 - Sources 6, 7, 9: 400-500 characters
+
 **Overlap:**
 - Sources 1, 2, 3: 0 characters
 - Sources 4, 5, 8, 10: 20 characters
 - Sources 6, 7, 9: 50 characters
+
 **Reasoning:**
 - Sources 1, 2, 3: They are the ratings and reviews of the CSE courses and professors with short comments.
 - Sources 4, 5, 8, 10: They are Reddit and Facebook comments, and some people will say at least like 3 bullet points and explain them in detail.
@@ -66,10 +68,12 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
 
 **Embedding model:**
 all-MiniLM-L6-v2 via sentence-transformers
+
 **Top-k:**
 - Sources 1, 2, 3: 
 - Sources 4, 5, 8, 10: 
 - Sources 6, 7, 9: 
+
 **Production tradeoff reflection:**
 
 
