@@ -48,19 +48,19 @@ My system covers about the student reviews of CSE courses and professors in UC M
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
-- Sources 1-2: 100 characters
-- Sources 3-6, 10: 250 characters
-- Sources 7-9: 400 characters
+- Sources 1-2: 500 characters
+- Sources 3-6, 10: 300 characters
+- Sources 7-9: 200 characters
 
 **Overlap:**
-- Sources 1-2: 0 characters
-- Sources 3-6, 10: 20 characters
-- Sources 7-9: 50 characters
+- Sources 1-2: 50 characters
+- Sources 3-6, 10: 30 characters
+- Sources 7-9: 10 characters
 
 **Why these choices fit your documents:**
-- Sources 1-2: They are the ratings and reviews of the CSE courses and professors with short comments.
-- Sources 3-6, 10: They are Reddit (sources 3-6) or Quora (source 10) posts with long comments, and some people will say at least 3 bullet points and explain them in detail.
-- Sources 7-9: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course. Source 9 also explains how the CSE in UC Merced works with the faculty members.
+- Sources 1-2: They are the review platforms for showing the student ratings and reviews of the CSE courses and professors with short comments.
+- Sources 3-6, 10: They are Social Media platforms and it includes a forum style text. Some people will say at least 3 bullet points and explain them in detail.
+- Sources 7-9: They are from the UC Merced website. Course catalogs and faculty lists (Sources 7 & 8) of the CSE courses includes structional institutional data. Source 9 explains how the CSE in UC Merced works with the faculty members.
 
 **Final chunk count:**
 149 chunks total
@@ -78,7 +78,14 @@ My system covers about the student reviews of CSE courses and professors in UC M
 **Model used:**
 all-MiniLM-L6-v2 via sentence-transformers
 
+**Why this choice:**
+Some sources, such as the contents from UC Merced website, were needed to transform the sentences with many small chunks.
+
 **Production tradeoff reflection:**
+- Less context length due to small chunk size
+- Structural search targets are ignored from the retrieval
+- Much unorganized context and high latency
+- False negatives and biases
 
 ---
 
@@ -107,11 +114,11 @@ all-MiniLM-L6-v2 via sentence-transformers
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | How was the CSE 100 workload in Spring 2026? | CSE 100 had 4 midterms with 14% weight each (56% total), and the final had 24%. Students said there is no real incentive to learn besides surviving the 80% tank and gaining access to required classes. | The CSE 100 workload in Spring 2026 was "extremely lecture-heavy" with an 80% weight of exams, and the class focused on concepts rather than code, while the labs were entirely code-based. | Off-target | Inaccurate |
+| 2 | What is the hardest CSE course in the UC Merced? | The hardest CSE course is CSE 160 because one student said the projects are in very high level, so you need to completely understand the environment and implementation by your own time. |  CSE 160 is considered a hard course because the class is hard because of the projects. However, it is not explicitly stated as the hardest CSE course. The context does not provide a definitive answer to what the hardest CSE course is, only that CSE 160 is considered challenging. | Relevant | Accurate |
+| 3 | Should CS in UC Merced has to be considered as a bad choice? | No, because CS isn’t taught or learned better as you get closer to the coast, and UC Merced students are bright, even if they don't have same academic track record as their peers at some other UCs. | No, CS at UC Merced should not be considered a bad choice. In fact, Source 9 states that "Should you consider UC Merced? Absolutely." It also says that "But is it a bad choice? No." | Relevant | Partially accurate |
+| 4 | How was the professor Santosh Chandrasekhar's grading policy in CSE 31? | His grading policy was very balanced, with only 35% worth on exams. Presenting your lab coding assignments/project to the TA was very helpful. | Professor Santosh Chandrasekhar's grading policy in CSE 031 was "overall very balanced, with exams being worth only 35% of your grade." | Relevant | Accurate |
+| 5 | What do students say about the quality of CS classes in UC Merced? | Students said that many lectures used in some classes are outdated. Most professors focus on the theoretical parts of the clases instead of teaching us more technical skills used in the industry, but others also care about your technical growth. | A student states that the CS program "is not the best" because many lectures are outdated and most professors focus on theoretical parts instead of teaching technical skills used in the industry. However, there may be some variability in the quality of CS classes at UC Merced, with some classes being more effective than others. | Relevant | Partially accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -132,16 +139,16 @@ all-MiniLM-L6-v2 via sentence-transformers
      results from an unrelated review" is an explanation. -->
 
 **Question that failed:**
-
+How was the CSE 100 workload in Spring 2026?
 
 **What the system returned:**
-
+A summary of the CSE 100 workload to specify that it was "extremely lecture-heavy" with an 80% weight of exams, and the class focused on concepts rather than code, while the labs were entirely code-based.
 
 **Root cause (tied to a specific pipeline stage):**
-
+The relevant paragraph was specified in the source_1_RateMyCourses.txt, but it only matched the substring pattern "comments?", and dropped the entire text block. The details under that substring was never reached the vector store.
 
 **What you would change to fix it:**
-
+I would apply boilerplate filtering at the line level by dropping only the offending label line to keep the review, instead of discarding the whole block, and anchor the comments pattern to avoid matching any other mid-sentences.
 
 ---
 
@@ -151,10 +158,10 @@ all-MiniLM-L6-v2 via sentence-transformers
      Answer both questions with at least 2–3 sentences each. -->
 
 **One way the spec helped you during implementation:**
-
+The spec helped me during implementation by 
 
 **One way your implementation diverged from the spec, and why:**
-
+My implementation diverged from the spec by 
 
 ---
 
@@ -171,12 +178,12 @@ all-MiniLM-L6-v2 via sentence-transformers
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I gave Copilot my documents and my Chunking Strategy section from planning.md and asked it to implement chunk_text() with my specified chunk size and overlap based on selected documents.
+- *What it produced:* It produced a downloaded documents folder with extracted text from each sources. However, some sources, such as Reddit and Quora, did not produce any output after loading them because of JavaScript rendering and blocking requests.
+- *What I changed or overrode:* I made a transition to copying the texts from all sources that I would need to use for my evaluation, pasting them in a plain text for each source, and saving them in a data folder, which was created in the documents folder. I also changed the logic of loading the documents by implementing the functions to load the source files and normalize the texts and paragraphs.
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I gave Gemini for my Retrieval Approach section and asked it to implement the embedding text function and retrieval text function with my specified top-k, which was 5.
+- *What it produced:* It produced a list of the top-k most semantically relevant text chunks alongside their metadata whenever a student query is executed. I verified this output by checking that the retrieved snippets directly contain the answers to my test questions. All chunks had the distance score of less than 0.6.
+- *What I changed or overrode:* I changed the chunking size of each source to the current one specified in the Chunking Strategy section, and changed the top-k to 8 instead of 5. It was because when I tested the first question, there were some irrelevant chunks are produced as an output, which were very different from my expected answer. I also added the extraction of structural search targets, such as "CSE 100" and "CSE 31". This helped the retrieval to produce relevant chunks for each question, using all of the available sources I included.
