@@ -63,7 +63,7 @@ My system covers about the student reviews of CSE courses and professors in UC M
 - Sources 7-9: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course. Source 9 also explains how the CSE in UC Merced works with the faculty members.
 
 **Final chunk count:**
-208 chunks total
+149 chunks total
 
 ---
 

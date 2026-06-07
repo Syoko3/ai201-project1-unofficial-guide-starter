@@ -88,7 +88,7 @@ def retrieve_relevant_chunks(query, k=5, threshold=0.65):
     if course_match:
         dept, num = course_match.groups()
         target_pattern = f"{dept}{num}"
-        print(f"🔎 Course pattern detected: '{dept} {num}'. Applying soft-boost scoring.")
+        print(f"[search] Course pattern detected: '{dept} {num}'. Applying soft-boost scoring.")
 
     for i in range(len(results['documents'][0])):
         text = results['documents'][0][i]

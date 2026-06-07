@@ -120,7 +120,17 @@ def normalize_text(text: str) -> str:
     # remove ad/promoted blocks early
     blocks = [b for b in blocks if not is_ad_block(b)]
 
+    def strip_chrome_lines(block: str) -> str:
+        # Scrapers often glue UI chrome ("Comments Section", "5y ago", usernames,
+        # vote counts) onto the comment body with no blank line, making them one
+        # block. Drop those lines individually so a one-line artifact can't take
+        # a substantive review down with it via whole-block boilerplate matching.
+        kept = [l.strip() for l in block.splitlines()
+                if l.strip() and not is_noise_paragraph(l.strip())]
+        return '\n'.join(kept)
+
     for block in blocks:
+        block = strip_chrome_lines(block)
         cleaned = normalize_paragraph(block)
         if not cleaned or is_noise_paragraph(cleaned) or is_boilerplate_paragraph(cleaned):
             continue

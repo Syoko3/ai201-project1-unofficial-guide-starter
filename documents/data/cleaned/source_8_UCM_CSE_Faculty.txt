@@ -62,7 +62,7 @@ Associate Professor
 Computer Architecture
 HW/SW Interaction
 Energy Efficient System
-Reliable and Secure System 
+Reliable and Secure System
 Angelo Kyrilov
 Angelo Kyrilov
 Assistant Teaching Professor

@@ -3,23 +3,20 @@ I am currently in cse30 I had failed this class f23 and now am retaking the clas
 
 0:00 / 0:00
 
+why_not_my_email
+I'm a UCM professor, not in CS.
+
 Talk to the professor. You might also talk to the folks at the Bright Success Center for help with things like time management or finding a tutor. But definitely talk to the professor! Just go to their office hours and say you need help.
 
-8
 u/incognito209 avatar
 incognito209
-•
-2y ago
 I graduated in December 2021 with my BS in CSE. I wasn’t the smartest student by any means but I slowly figured out how I learn best. I watched YouTube videos, read short content online (blogs/documentation), traced through the code with pencil/paper, used print statements when running my code in my IDE, and wrote extensive notes.
 
 Sitting in lectures was not my thing. I liked finding a quiet place to do my work. I also commuted for 2 semesters. Don’t let your mind psych you out. You have plenty of time to bounce back!
 
-6
 u/Free_Row6202 avatar
 Free_Row6202
 OP
-•
-2y ago
 Any online sources that you remember that helped out? Any tips on note taking? I do feel like I have time to bounce back but I feel like it’s a long shot now that I depends on the final grade
 
 It’s set to Python by default but you can change it to Java or C++. You can run your code and it’ll visually show you what’s going on.
@@ -38,14 +35,8 @@ If its both... then start with understanding the algos/structs as it’s quicker
 DSA In General
 If you want to practice programming/analyzing these DSA concepts, use websites like Leetcode or Neetcode that kind of game-ify it for you. Again, if its just the concepts that youre struggling with, use a different language youre familiar with (Python/Java) as it takes out all the weird C++ quirks.
 
-1
 navy63
-•
-2y ago
 If you’re struggling communicate that with your professor/TA they’re meant to help you (show you resource’s available) :) (if they don’t it says more about them than you)
 
-2
 Hot_Knowledge8513
-•
-2y ago
 dm 🙏

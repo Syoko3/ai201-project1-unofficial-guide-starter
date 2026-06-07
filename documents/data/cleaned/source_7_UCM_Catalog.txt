@@ -242,7 +242,7 @@ Laboratory included
 Normal Letter Grade only
 
 Requisites and Restrictions
-Prerequisite Courses: CSE 019 or CSE 021 or CSE 022 or equivalent exam 
+Prerequisite Courses: CSE 019 or CSE 021 or CSE 022 or equivalent exam
 Instructor Permission Required: No
 COGS 001 recommended
 

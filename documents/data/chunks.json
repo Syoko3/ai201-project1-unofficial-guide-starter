@@ -5,12 +5,20 @@
     "chunk_index": 1,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "Shame on you, Nagesh K, Naresh Kumar, and Licensed Soft.\n\nSo a real answer.\n\nMerced gets a bad rap because:\n\nIt’s the youngest of the UCs\nIt’s the least competitive of the UCs\nIt’s not located near... well, pretty much any urban place that Californians are eager to go to\nBut is it a bad choice? No."
+    "chunk_text": "Should I consider CS at UC Merced?\nJoshua Gross\nNaTa Chou\n, master Computer Science & Shopping, Belgorod State Technological University (2017) and\nJack O'Quin\njfc, three nearly identical ChatGPT answers.\n\nShame on you, Nagesh K, Naresh Kumar, and Licensed Soft.\n\nSo a real answer."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_10_Quora.txt",
     "category": "short",
     "chunk_index": 2,
+    "chunk_size": 300,
+    "overlap": 30,
+    "chunk_text": "Soft.\n\nSo a real answer.\n\nMerced gets a bad rap because:\n\nIt’s the youngest of the UCs\nIt’s the least competitive of the UCs\nIt’s not located near... well, pretty much any urban place that Californians are eager to go to\nBut is it a bad choice? No."
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_10_Quora.txt",
+    "category": "short",
+    "chunk_index": 3,
     "chunk_size": 300,
     "overlap": 30,
     "chunk_text": "is it a bad choice? No.\n\nSecond, if you’re a standout, you’ll get special attention (if you want it), and it’s easier to be a standout at Merced than some other UC campuses.\n\nSo, should you consider UC Merced? Absolutely. Should you go there? Well, what are you other options and how to they compare?"
@@ -141,7 +149,7 @@
     "chunk_index": 1,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "UC Merced and Computer Science and Engineering\nHello UC Merced students,\n\nAs students of the most recent UC campus, I'd like some responses for the following things:\n\nWhy'd you go all the way to UC Merced considering it's out in the middle of California?"
+    "chunk_text": "UC Merced and Computer Science and Engineering\n\nAs students of the most recent UC campus, I'd like some responses for the following things:\n\nWhy'd you go all the way to UC Merced considering it's out in the middle of California?"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -173,7 +181,7 @@
     "chunk_index": 5,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "each other out?\n\nThanks!\n\n8\nu/Valuable-Peace8307 avatar\nValuable-Peace8307\n•\n5y ago\nI chose UCM as it was a brand new university and the 10th UC. I got to be a part of that first graduation in 07 so that was really cool. I’m from Sac so it was also about 2 hours from home which meant I could visit t"
+    "chunk_text": "each other out?\n\nThanks!\n\nHola_hola-Hola\nHello! I just wanted to talk about the CS program. Tbh, it is not the best. Many lectures used in some classes are outdated, and most professors focus on the theoretical parts of the clases instead of teaching us more technical skills used in the industry. Ho"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -181,7 +189,7 @@
     "chunk_index": 6,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "me which meant I could visit the parents in the weekend if I wanted to. I also really like rural and UCM was pretty rural."
+    "chunk_text": "kills used in the industry. However, there are also a few great professors that actually care about your technical growth. UC Merced is still a great school. It's small to find a mentor (professors, TAs, upperclassmen), and at the end it's up to the person to seek for career opportunities. I had the"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -189,7 +197,7 @@
     "chunk_index": 7,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "and UCM was pretty rural.\n\nI can’t answer about the best and worse if UCM now. But back then, the best was how small it was. That first semester we had 1500 students so we all recognized each other. The worst was the lack of classes and majors."
+    "chunk_text": "areer opportunities. I had the chance to intern at some places over the summer, and now a full-time opportunity once I graduate. At the end, it's up to the person I would say. I am pretty sure going to a school with a higher reputation makes it easier to attract recruiters. It will just be a little"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -197,7 +205,7 @@
     "chunk_index": 8,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "lack of classes and majors.\n\n5\nu/Sometimesialways avatar\nSometimesialways\n•\n5y ago\nI live nearby, so it just made financial sense to go here."
+    "chunk_text": "ers. It will just be a little bit more difficult if you go to UCM."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -205,7 +213,7 @@
     "chunk_index": 9,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "financial sense to go here.\n\nthere’s enough social activity to feel stimulated but if you’re used to a bigger cities night life you will be disappointed. There’s always house parties nearby if you are into that but on campus, there’s lots of social clubs that run activities (smash club, bobcat gamin"
+    "chunk_text": "difficult if you go to UCM.\n\nu/Valuable-Peace8307 avatar\nValuable-Peace8307\nI chose UCM as it was a brand new university and the 10th UC. I got to be a part of that first graduation in 07 so that was really cool. I’m from Sac so it was also about 2 hours from home which meant I could visit the paren"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -213,7 +221,7 @@
     "chunk_index": 10,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "ties (smash club, bobcat gaming LANs, dance, sports)\n\nAs for CompSci teachers. They’re solid! I’ve liked nearly all my professors. Daniel was fantastic. It’s hard to get upper division courses sometimes due to not having a ton of people to teach them."
+    "chunk_text": "meant I could visit the parents in the weekend if I wanted to. I also really like rural and UCM was pretty rural."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -221,7 +229,7 @@
     "chunk_index": 11,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "ton of people to teach them.\n\n3\nExcaliber_0001\n•\n5y ago\nOnly option, regret 1000%\n\nFree UC schooling; everything (my options only, don’t base any decisions off me)\n\nI have a single friend :), again read 2 sub-note lol"
+    "chunk_text": "and UCM was pretty rural.\n\nI can’t answer about the best and worse if UCM now. But back then, the best was how small it was. That first semester we had 1500 students so we all recognized each other. The worst was the lack of classes and majors."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -229,7 +237,7 @@
     "chunk_index": 12,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": ":), again read 2 sub-note lol\n\nCSE 120 is a really cool class we have where we get partnered up into groups and work with real life entities, basically like a real life, actually might be used Project for some companies around the Central Valley and Bay Area Instructors are A1, love them and appreci"
+    "chunk_text": "lack of classes and majors.\n\nu/Sometimesialways avatar\nSometimesialways\nI live nearby, so it just made financial sense to go here."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -237,7 +245,7 @@
     "chunk_index": 13,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "are A1, love them and appreciate them, they put in good work so that we can benefit immensely And no info on the classmates portion 🤠\n\n3\nu/ilianaasadee avatar\nilianaasadee\n•\n5y ago\nWas it really bad ? Would you have rather gone to a community college instead?"
+    "chunk_text": "financial sense to go here.\n\nthere’s enough social activity to feel stimulated but if you’re used to a bigger cities night life you will be disappointed. There’s always house parties nearby if you are into that but on campus, there’s lots of social clubs that run activities (smash club, bobcat gamin"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -245,7 +253,7 @@
     "chunk_index": 14,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "a community college instead?\n\n1\nExcaliber_0001\n•\n5y ago\nWell due to personal troubles before going here, they influenced me to get stuck with the wrong crowd, which happens not just here anywhere else you go, but looking back now, I say they are learning experiences, and I would have gone to communi"
+    "chunk_text": "ties (smash club, bobcat gaming LANs, dance, sports)\n\nAs for CompSci teachers. They’re solid! I’ve liked nearly all my professors. Daniel was fantastic. It’s hard to get upper division courses sometimes due to not having a ton of people to teach them.\n\nExcaliber_0001\nOnly option, regret 1000%"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -253,7 +261,7 @@
     "chunk_index": 15,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "d I would have gone to community college simply because I have a heavy active role in my home life so it would have been best to stay near my home\n\n1\nlilspookyhuff\n•\n5y ago\nThe financial aid package is amazing. Free college at a UC? Pretty good deal."
+    "chunk_text": "option, regret 1000%\n\nFree UC schooling; everything (my options only, don’t base any decisions off me)\n\nI have a single friend :), again read 2 sub-note lol"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -261,7 +269,7 @@
     "chunk_index": 16,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "at a UC? Pretty good deal.\n\nThe people are very diverse and it’s so much fun to hear different stories from al different kinds of people. Worst thing is the location. Absolutely the location."
+    "chunk_text": ":), again read 2 sub-note lol\n\nCSE 120 is a really cool class we have where we get partnered up into groups and work with real life entities, basically like a real life, actually might be used Project for some companies around the Central Valley and Bay Area Instructors are A1, love them and appreci"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
@@ -269,12 +277,44 @@
     "chunk_index": 17,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "Absolutely the location.\n\nRight now in coronavirus times, it’s very hard to make friends because everyone tends to stay in their dorms and there aren’t many people in the first place. But if you happen to be the outgoing type, it’ll be easy to talk to anyone. I’ve heard that when the school is fully"
+    "chunk_text": "are A1, love them and appreciate them, they put in good work so that we can benefit immensely And no info on the classmates portion 🤠\n\nu/ilianaasadee avatar\nilianaasadee\nWas it really bad ? Would you have rather gone to a community college instead?"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
     "category": "short",
     "chunk_index": 18,
+    "chunk_size": 300,
+    "overlap": 30,
+    "chunk_text": "a community college instead?\n\nExcaliber_0001\nWell due to personal troubles before going here, they influenced me to get stuck with the wrong crowd, which happens not just here anywhere else you go, but looking back now, I say they are learning experiences, and I would have gone to community college"
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
+    "category": "short",
+    "chunk_index": 19,
+    "chunk_size": 300,
+    "overlap": 30,
+    "chunk_text": "ave gone to community college simply because I have a heavy active role in my home life so it would have been best to stay near my home\n\nlilspookyhuff\nThe financial aid package is amazing. Free college at a UC? Pretty good deal."
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
+    "category": "short",
+    "chunk_index": 20,
+    "chunk_size": 300,
+    "overlap": 30,
+    "chunk_text": "at a UC? Pretty good deal.\n\nThe people are very diverse and it’s so much fun to hear different stories from al different kinds of people. Worst thing is the location. Absolutely the location."
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
+    "category": "short",
+    "chunk_index": 21,
+    "chunk_size": 300,
+    "overlap": 30,
+    "chunk_text": "Absolutely the location.\n\nRight now in coronavirus times, it’s very hard to make friends because everyone tends to stay in their dorms and there aren’t many people in the first place. But if you happen to be the outgoing type, it’ll be easy to talk to anyone. I’ve heard that when the school is fully"
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_3_UCM_Review_Reddit.txt",
+    "category": "short",
+    "chunk_index": 22,
     "chunk_size": 300,
     "overlap": 30,
     "chunk_text": "that when the school is fully open there are people everywhere and people are typically friendly."
@@ -293,7 +333,7 @@
     "chunk_index": 2,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "What do you guys think?\n\n1\ndantheman898\n•\n8mo ago\nI’m in 160 and 176 right now."
+    "chunk_text": "What do you guys think?\n\ndantheman898\n8mo ago\nI’m in 160 and 176 right now."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_4_UCM_Electives_Reddit.txt",
@@ -349,7 +389,7 @@
     "chunk_index": 2,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "it be impacted in the future?\n\n16\ninternetbooker134\nOP\n•\n2y ago\nI agree more hiring needs to be done for the CSE department although from what I've heard it's hard to hire faculty and get them to move to Merced in general as it's not as attractive compared to other \"college towns\". Another issue is"
+    "chunk_text": "it be impacted in the future?\n\ninternetbooker134\nOP\nI agree more hiring needs to be done for the CSE department although from what I've heard it's hard to hire faculty and get them to move to Merced in general as it's not as attractive compared to other \"college towns\". Another issue is that financi"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -357,7 +397,7 @@
     "chunk_index": 3,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "lege towns\". Another issue is that financially there are probably constraints that restrict hiring and infrastructure missing that can handle more classes. The infrastructure part is being worked on though with COB 3 coming soon which will feature 3 huge lecture halls bigger than the ACS lecture hal"
+    "chunk_text": "Another issue is that financially there are probably constraints that restrict hiring and infrastructure missing that can handle more classes. The infrastructure part is being worked on though with COB 3 coming soon which will feature 3 huge lecture halls bigger than the ACS lecture hall right now."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -365,7 +405,7 @@
     "chunk_index": 4,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "igger than the ACS lecture hall right now.\n\n6\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nAgree UCM is difficult to recruit to but what prevents being on a quarter system. That way the same no of faculty could teach more courses."
+    "chunk_text": "ACS lecture hall right now.\n\nu/Autobot1979 avatar\nAutobot1979\nAgree UCM is difficult to recruit to but what prevents being on a quarter system. That way the same no of faculty could teach more courses.\n\n2 more replies\nwhy_not_my_email\nI'm a UCM faculty member, not in CSE."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -373,7 +413,7 @@
     "chunk_index": 5,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "could teach more courses.\n\n2 more replies\nwhy_not_my_email\n•\n2y ago\nI'm a UCM faculty member, not in CSE."
+    "chunk_text": "faculty member, not in CSE.\n\nIt's hard for computer science and software engineering programs to hire faculty because they can make much, much more money working in industry. I can imagine that this might be changing due to the tech industry layoffs that started a couple years ago. But, for all I kn"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -381,7 +421,7 @@
     "chunk_index": 6,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "faculty member, not in CSE.\n\nIt's hard for computer science and software engineering programs to hire faculty because they can make much, much more money working in industry. I can imagine that this might be changing due to the tech industry layoffs that started a couple years ago. But, for all I kn"
+    "chunk_text": "e years ago. But, for all I know those might have mostly impacted folks with just a bachelor's degree or lower. Like, laying off the code monkeys rather than the people who can do innovative R&D work."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -389,7 +429,7 @@
     "chunk_index": 7,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "e years ago. But, for all I know those might have mostly impacted folks with just a bachelor's degree or lower. Like, laying off the code monkeys rather than the people who can do innovative R&D work."
+    "chunk_text": "can do innovative R&D work.\n\nHonestly, it seems like CS/SE is an oversaturated field at this point. I'm surprised it's still such an overwhelmingly popular major."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -397,7 +437,7 @@
     "chunk_index": 8,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "can do innovative R&D work.\n\nHonestly, it seems like CS/SE is an oversaturated field at this point. I'm surprised it's still such an overwhelmingly popular major."
+    "chunk_text": "overwhelmingly popular major.\n\nu/Autobot1979 avatar\nAutobot1979\nI agree it's saturated but that's true for all engineering and science. In a globalized world science and engineering can be done remotely so you are competing with 2 billion Indian and Chinese. You just have to hope your expensive US e"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -405,7 +445,7 @@
     "chunk_index": 9,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "overwhelmingly popular major.\n\n5\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nI agree it's saturated but that's true for all engineering and science. In a globalized world science and engineering can be done remotely so you are competing with 2 billion Indian and Chinese. You just have to hope your exp"
+    "chunk_text": "ve to hope your expensive US education prepares you better.\n\nIf you want to avoid competition choose fields that are not universal like law or which have to be done in person like medicine or which require security clearance"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -413,7 +453,7 @@
     "chunk_index": 10,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "You just have to hope your expensive US education prepares you better.\n\nIf you want to avoid competition choose fields that are not universal like law or which have to be done in person like medicine or which require security clearance"
+    "chunk_text": "require security clearance\n\nAlso Kids are still choosing CS as they feel AI is coming for all our jobs but CS jobs may be the last to go as someone needs to maintain the AI."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -421,7 +461,7 @@
     "chunk_index": 11,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "require security clearance\n\nAlso Kids are still choosing CS as they feel AI is coming for all our jobs but CS jobs may be the last to go as someone needs to maintain the AI."
+    "chunk_text": "needs to maintain the AI.\n\n[deleted]\nThe UC application guide has the College of Engineering majors listed as Selective so these majors are already showing impaction."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -429,7 +469,7 @@
     "chunk_index": 12,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "needs to maintain the AI.\n\n4\n[deleted]\n•\n2y ago\nThe UC application guide has the College of Engineering majors listed as Selective so these majors are already showing impaction."
+    "chunk_text": "already showing impaction.\n\ninternetbooker134\nOP\nDo they list all the school of engineering majors as selective or only CSE? All of them are definitely not selective especially the new ones that have been added in the last 5 years or so\n\n[deleted]\nJust the College of Engineering as a whole."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -437,7 +477,7 @@
     "chunk_index": 13,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "already showing impaction.\n\n4\ninternetbooker134\nOP\n•\n2y ago\nDo they list all the school of engineering majors as selective or only CSE? All of them are definitely not selective especially the new ones that have been added in the last 5 years or so"
+    "chunk_text": "of Engineering as a whole.\n\nu/Autobot1979 avatar\nAutobot1979\nJust try getting into one of the Engr courses required as prereqs like Engr 65 and you will realize how impacted Engineering is. Its almost luck if the draw to get your courses and forget creating a nice schedule where you have some non ca"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
@@ -445,23 +485,7 @@
     "chunk_index": 14,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "in the last 5 years or so\n\n1\n[deleted]\n•\n2y ago\nJust the College of Engineering as a whole."
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
-    "category": "short",
-    "chunk_index": 15,
-    "chunk_size": 300,
-    "overlap": 30,
-    "chunk_text": "of Engineering as a whole.\n\n3\nu/Autobot1979 avatar\nAutobot1979\n•\n2y ago\nJust try getting into one of the Engr courses required as prereqs like Engr 65 and you will realize how impacted Engineering is. Its almost luck if the draw to get your courses and forget creating a nice schedule where you have"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_5_UCM_CSE_Impact_Reddit.txt",
-    "category": "short",
-    "chunk_index": 16,
-    "chunk_size": 300,
-    "overlap": 30,
-    "chunk_text": "nice schedule where you have some non campus days ir even non campus mornings/evenings. There are so few courses and sections taught you have to grab whatever you can and your classes will be spread all over the day all 5 days a week. Makes it extremely hard to have a part time job."
+    "chunk_text": "ule where you have some non campus days ir even non campus mornings/evenings. There are so few courses and sections taught you have to grab whatever you can and your classes will be spread all over the day all 5 days a week. Makes it extremely hard to have a part time job."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -477,7 +501,7 @@
     "chunk_index": 2,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "holding on. Any advice ??\n\n0:00 / 0:00\n\nTalk to the professor. You might also talk to the folks at the Bright Success Center for help with things like time management or finding a tutor. But definitely talk to the professor! Just go to their office hours and say you need help."
+    "chunk_text": "holding on. Any advice ??\n\n0:00 / 0:00\n\nwhy_not_my_email\nI'm a UCM professor, not in CS."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -485,7 +509,7 @@
     "chunk_index": 3,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "hours and say you need help.\n\n8\nu/incognito209 avatar\nincognito209\n•\n2y ago\nI graduated in December 2021 with my BS in CSE. I wasn’t the smartest student by any means but I slowly figured out how I learn best. I watched YouTube videos, read short content online (blogs/documentation), traced through"
+    "chunk_text": "a UCM professor, not in CS.\n\nTalk to the professor. You might also talk to the folks at the Bright Success Center for help with things like time management or finding a tutor. But definitely talk to the professor! Just go to their office hours and say you need help."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -493,7 +517,7 @@
     "chunk_index": 4,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "ocumentation), traced through the code with pencil/paper, used print statements when running my code in my IDE, and wrote extensive notes."
+    "chunk_text": "hours and say you need help.\n\nu/incognito209 avatar\nincognito209\nI graduated in December 2021 with my BS in CSE. I wasn’t the smartest student by any means but I slowly figured out how I learn best. I watched YouTube videos, read short content online (blogs/documentation), traced through the code wi"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -501,7 +525,7 @@
     "chunk_index": 5,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "and wrote extensive notes.\n\nSitting in lectures was not my thing. I liked finding a quiet place to do my work. I also commuted for 2 semesters. Don’t let your mind psych you out. You have plenty of time to bounce back!"
+    "chunk_text": "n), traced through the code with pencil/paper, used print statements when running my code in my IDE, and wrote extensive notes."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -509,7 +533,7 @@
     "chunk_index": 6,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "of time to bounce back!\n\n6\nu/Free_Row6202 avatar\nFree_Row6202\nOP\n•\n2y ago\nAny online sources that you remember that helped out? Any tips on note taking? I do feel like I have time to bounce back but I feel like it’s a long shot now that I depends on the final grade"
+    "chunk_text": "and wrote extensive notes.\n\nSitting in lectures was not my thing. I liked finding a quiet place to do my work. I also commuted for 2 semesters. Don’t let your mind psych you out. You have plenty of time to bounce back!"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -517,7 +541,7 @@
     "chunk_index": 7,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "I depends on the final grade\n\nIt’s set to Python by default but you can change it to Java or C++. You can run your code and it’ll visually show you what’s going on."
+    "chunk_text": "of time to bounce back!\n\nu/Free_Row6202 avatar\nFree_Row6202\nOP\nAny online sources that you remember that helped out? Any tips on note taking? I do feel like I have time to bounce back but I feel like it’s a long shot now that I depends on the final grade"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -525,7 +549,7 @@
     "chunk_index": 8,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "show you what’s going on.\n\nWhen you are programming, do you understand what is going on in the code line by line or are you just copy/pasting bits of code? It’s crucial that you understand the logic and flow of the code you are writing."
+    "chunk_text": "I depends on the final grade\n\nIt’s set to Python by default but you can change it to Java or C++. You can run your code and it’ll visually show you what’s going on."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -533,7 +557,7 @@
     "chunk_index": 9,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "of the code you are writing.\n\nRead the textbook, watch YouTube videos, read blogs/documentation, go to office hours, and connect with a tutor on campus."
+    "chunk_text": "show you what’s going on.\n\nWhen you are programming, do you understand what is going on in the code line by line or are you just copy/pasting bits of code? It’s crucial that you understand the logic and flow of the code you are writing."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -541,7 +565,7 @@
     "chunk_index": 10,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "with a tutor on campus.\n\nLabs\nThe labs arent easy and I dont believe you will ever feel that they are. They are designed to make you bash your head against the wall until you get a solution, like the many other CS classes that came before this. However, I do think that you should try to identify wha"
+    "chunk_text": "of the code you are writing.\n\nRead the textbook, watch YouTube videos, read blogs/documentation, go to office hours, and connect with a tutor on campus."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -549,7 +573,7 @@
     "chunk_index": 11,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "you should try to identify what youre lacking in for the labs. For example, are you failing to understand the algorithms and structures you are trying to implement, or are you failing to implement it?"
+    "chunk_text": "with a tutor on campus.\n\nLabs\nThe labs arent easy and I dont believe you will ever feel that they are. They are designed to make you bash your head against the wall until you get a solution, like the many other CS classes that came before this. However, I do think that you should try to identify wha"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -557,7 +581,7 @@
     "chunk_index": 12,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "you failing to implement it?\n\nIf its the implementation, I would suggest you take a few steps back and try to truly understand pointers, classes (structs), and the other things that come with object oriented programming (inheritance and polymorphism comes to mind)."
+    "chunk_text": "you should try to identify what youre lacking in for the labs. For example, are you failing to understand the algorithms and structures you are trying to implement, or are you failing to implement it?"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -565,7 +589,7 @@
     "chunk_index": 13,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "polymorphism comes to mind).\n\nIf its both... then start with understanding the algos/structs as it’s quicker and then slowly build your C++ knowledge so you can implement them (this is what the labs are trying to do in the first place). I know its tempting to just copy and paste from somewhere but i"
+    "chunk_text": "you failing to implement it?\n\nIf its the implementation, I would suggest you take a few steps back and try to truly understand pointers, classes (structs), and the other things that come with object oriented programming (inheritance and polymorphism comes to mind)."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -573,7 +597,7 @@
     "chunk_index": 14,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "and paste from somewhere but it wont help you in the long run."
+    "chunk_text": "polymorphism comes to mind).\n\nIf its both... then start with understanding the algos/structs as it’s quicker and then slowly build your C++ knowledge so you can implement them (this is what the labs are trying to do in the first place). I know its tempting to just copy and paste from somewhere but i"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -581,7 +605,7 @@
     "chunk_index": 15,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "help you in the long run.\n\nDSA In General\nIf you want to practice programming/analyzing these DSA concepts, use websites like Leetcode or Neetcode that kind of game-ify it for you. Again, if its just the concepts that youre struggling with, use a different language youre familiar with (Python/Java)"
+    "chunk_text": "and paste from somewhere but it wont help you in the long run."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
@@ -589,7 +613,15 @@
     "chunk_index": 16,
     "chunk_size": 300,
     "overlap": 30,
-    "chunk_text": "e familiar with (Python/Java) as it takes out all the weird C++ quirks.\n\n1\nnavy63\n•\n2y ago\nIf you’re struggling communicate that with your professor/TA they’re meant to help you (show you resource’s available) :) (if they don’t it says more about them than you)\n\n2\nHot_Knowledge8513\n•\n2y ago\ndm 🙏"
+    "chunk_text": "help you in the long run.\n\nDSA In General\nIf you want to practice programming/analyzing these DSA concepts, use websites like Leetcode or Neetcode that kind of game-ify it for you. Again, if its just the concepts that youre struggling with, use a different language youre familiar with (Python/Java)"
+  },
+  {
+    "source_path": "documents\\data\\cleaned\\source_6_UCM_Advice_Reddit.txt",
+    "category": "short",
+    "chunk_index": 17,
+    "chunk_size": 300,
+    "overlap": 30,
+    "chunk_text": "e familiar with (Python/Java) as it takes out all the weird C++ quirks.\n\nnavy63\nIf you’re struggling communicate that with your professor/TA they’re meant to help you (show you resource’s available) :) (if they don’t it says more about them than you)\n\nHot_Knowledge8513\ndm 🙏"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -861,7 +893,7 @@
     "chunk_index": 34,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "language, categorization, and cognitive control.\n\nCrosslisted with: COGS 123\nLaboratory included\nNormal Letter Grade with Pass/No Pass option\n\nRequisites and Restrictions\nPrerequisite Courses: COGS 001 and any upper-division COGS course\nInstructor Permission Required: No\n\nCrosslisted with: COGS 125\nLaboratory included\nNormal Letter Grade only"
+    "chunk_text": "language, categorization, and cognitive control.\n\nCrosslisted with: COGS 123\nLaboratory included\nNormal Letter Grade with Pass/No Pass option\n\nRequisites and Restrictions\nPrerequisite Courses: COGS 001 and any upper-division COGS course\nInstructor Permission Required: No\n\nCrosslisted with: COGS 125\nLaboratory included\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 019 or CSE 021 or CSE 022 or equivalent exam\nInstructor Permission Required: No\nCOGS 001 recommended"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -869,7 +901,7 @@
     "chunk_index": 35,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "125\nLaboratory included\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 019 or CSE 021 or CSE 022 or equivalent exam \nInstructor Permission Required: No\nCOGS 001 recommended"
+    "chunk_text": "Permission Required: No\nCOGS 001 recommended\n\nSurvey of techniques for development and analysis of software that learns from experience. Specific topics: supervised learning (classification, regression); unsupervised learning (density estimation, clustering, dimensionality reduction); reinforcement learning; and others. Specific techniques: linear classifiers, mixture models, nonparametric methods, decision trees, neural networks, kernel machines, ensembles, graphical models, Bayesian methods, e"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -877,7 +909,7 @@
     "chunk_index": 36,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "Permission Required: No\nCOGS 001 recommended\n\nSurvey of techniques for development and analysis of software that learns from experience. Specific topics: supervised learning (classification, regression); unsupervised learning (density estimation, clustering, dimensionality reduction); reinforcement learning; and others. Specific techniques: linear classifiers, mixture models, nonparametric methods, decision trees, neural networks, kernel machines, ensembles, graphical models, Bayesian methods, e"
+    "chunk_text": ", ensembles, graphical models, Bayesian methods, etc.\n\nGE Requirements\nIntellectual Experience: Scientific Method\nUpper Division: Crossroads\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 141\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -885,7 +917,7 @@
     "chunk_index": 37,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": ", ensembles, graphical models, Bayesian methods, etc.\n\nGE Requirements\nIntellectual Experience: Scientific Method\nUpper Division: Crossroads\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and MATH 141\nOpen only to the following class level(s):\nJunior\nSenior"
+    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nStudies the internals of a database management system, with emphasis on query execution. The final goal of the class is to build a fully-functional database execution engine consisting of all the standard components: storage manager, buffer manager, query execution engine, query optimizer, and query compiler.\n\nConjoined with: EECS 277\nLaboratory included\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -893,7 +925,7 @@
     "chunk_index": 38,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nStudies the internals of a database management system, with emphasis on query execution. The final goal of the class is to build a fully-functional database execution engine consisting of all the standard components: storage manager, buffer manager, query execution engine, query optimizer, and query compiler.\n\nConjoined with: EECS 277\nLaboratory included\nNormal Letter Grade only"
+    "chunk_text": "277\nLaboratory included\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 111 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior\n\nIntroduces fundamental concepts in the design and development of secure computer networks. Covers security threats, secret-key and public-key cryptography and algorithms, digital signatures, authentication, Electronic mail, Public-key infrastructure, viruses and worms."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -901,7 +933,7 @@
     "chunk_index": 39,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "277\nLaboratory included\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 111 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior\n\nIntroduces fundamental concepts in the design and development of secure computer networks. Covers security threats, secret-key and public-key cryptography and algorithms, digital signatures, authentication, Electronic mail, Public-key infrastructure, viruses and worms."
+    "chunk_text": "Public-key infrastructure, viruses and worms.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 150 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -909,7 +941,7 @@
     "chunk_index": 40,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "Public-key infrastructure, viruses and worms.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 150 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
+    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nParallel computing is pervasive. From embedded devices, laptops, to high-end supercomputer, and large-scale data centers, parallel computing is widely employed to achieve performance and efficiency targets. This course introduces the foundations of parallel computing, including parallel architectures, parallel programming methods and techniques, and parallel algorithm designs."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -917,7 +949,7 @@
     "chunk_index": 41,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nParallel computing is pervasive. From embedded devices, laptops, to high-end supercomputer, and large-scale data centers, parallel computing is widely employed to achieve performance and efficiency targets. This course introduces the foundations of parallel computing, including parallel architectures, parallel programming methods and techniques, and parallel algorithm designs."
+    "chunk_text": "and techniques, and parallel algorithm designs.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 140 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -925,7 +957,7 @@
     "chunk_index": 42,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "and techniques, and parallel algorithm designs.\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and CSE 100 and CSE 140 and MATH 024\nOpen only to the following class level(s):\nJunior\nSenior"
+    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nCovers the basic of robotics focusing on the algorithmic side, rather than technology. Introduces basic computational techniques concerning spatial modeling, planning, and sensor processing. The course has a strong hands-on component. Implementation of different techniques in simulation will complement the theoretical lectures."
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -933,7 +965,7 @@
     "chunk_index": 43,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "to the following class level(s):\nJunior\nSenior\n\nCovers the basic of robotics focusing on the algorithmic side, rather than technology. Introduces basic computational techniques concerning spatial modeling, planning, and sensor processing. The course has a strong hands-on component. Implementation of different techniques in simulation will complement the theoretical lectures."
+    "chunk_text": "will complement the theoretical lectures.\n\nOverview of fundamental image processing and pattern recognition techniques including image formation, edge detection, image segmentation, optical flow, recovery of three-dimensional structure from shading or stereo information, shape representations, and issues in object recognition.\n\nGE Requirements\nApproaches to Knowledge: Media and Visual Analysis\nUpper Division: Crossroads"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
@@ -941,20 +973,12 @@
     "chunk_index": 44,
     "chunk_size": 500,
     "overlap": 50,
-    "chunk_text": "will complement the theoretical lectures.\n\nOverview of fundamental image processing and pattern recognition techniques including image formation, edge detection, image segmentation, optical flow, recovery of three-dimensional structure from shading or stereo information, shape representations, and issues in object recognition.\n\nGE Requirements\nApproaches to Knowledge: Media and Visual Analysis\nUpper Division: Crossroads"
-  },
-  {
-    "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
-    "category": "medium",
-    "chunk_index": 45,
-    "chunk_size": 500,
-    "overlap": 50,
     "chunk_text": "and Visual Analysis\nUpper Division: Crossroads\n\nCovers special topics within Computer Science and Engineering that are not covered in the regularly scheduled courses. Each class will have a specific focus which will be defined by the instructor of the course on a semester-by-semester basis.\n\nCourse Details\nRepeats Allowed for Credit: 3\n\nNormal Letter Grade only"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_7_UCM_Catalog.txt",
     "category": "medium",
-    "chunk_index": 46,
+    "chunk_index": 45,
     "chunk_size": 500,
     "overlap": 50,
     "chunk_text": "Allowed for Credit: 3\n\nNormal Letter Grade only\n\nRequisites and Restrictions\nPrerequisite Courses: CSE 031 and MATH 024 and CSE 100\nOpen only to following major/minor(s):\nComputer Science & Engineering (Undergraduate) - CSE"
@@ -1029,7 +1053,7 @@
     "chunk_index": 9,
     "chunk_size": 200,
     "overlap": 10,
-    "chunk_text": "Professor\n\nComputer Architecture\nHW/SW Interaction\nEnergy Efficient System\nReliable and Secure System \nAngelo Kyrilov\nAngelo Kyrilov\nAssistant Teaching Professor\n\nCO1 370"
+    "chunk_text": "Professor\n\nComputer Architecture\nHW/SW Interaction\nEnergy Efficient System\nReliable and Secure System\nAngelo Kyrilov\nAngelo Kyrilov\nAssistant Teaching Professor\n\nCO1 370"
   },
   {
     "source_path": "documents\\data\\cleaned\\source_8_UCM_CSE_Faculty.txt",
