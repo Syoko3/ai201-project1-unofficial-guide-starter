@@ -46,15 +46,15 @@ AD_PATTERNS = [
 
 
 CATEGORY_KEYWORDS = {
-    'short': ['ratemycourses', 'ratemyprofessors', 'rate my courses', 'rate my professors'],
-    'medium': ['reddit', 'quora'],
+    'short': ['reddit', 'quora'],
+    'medium': ['ratemycourses', 'ratemyprofessors', 'rate my courses', 'rate my professors'],
     'long': ['catalog.ucmerced', 'engineering.ucmerced', 'engr-advising', 'course descriptions', 'faculty', 'advising'],
 }
 
 CHUNK_PARAMS = {
-    'short': (100, 0),
-    'medium': (250, 20),
-    'long': (400, 50),
+    'short': (300, 30),
+    'medium': (500, 50),
+    'long': (200, 10)
 }
 
 
