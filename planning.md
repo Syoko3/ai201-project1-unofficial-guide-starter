@@ -42,10 +42,17 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-
+- Sources 1, 2, 3: 150-200 characters
+- Sources 3, 4, 5, 8, 10: 200-300 characters
+- Sources 6, 7, 9: 400-500 characters
 **Overlap:**
-
+- Sources 1, 2, 3: 0 characters
+- Sources 4, 5, 8, 10: 20 characters
+- Sources 6, 7, 9: 50 characters
 **Reasoning:**
+- Sources 1, 2, 3: They are the ratings and reviews of the CSE courses and professors with short comments.
+- Sources 4, 5, 8, 10: They are Reddit and Facebook comments, and some people will say at least like 3 bullet points and explain them in detail.
+- Sources 6, 7, 9: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course.
 
 ---
 
@@ -58,10 +65,13 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+all-MiniLM-L6-v2 via sentence-transformers
 **Top-k:**
-
+- Sources 1, 2, 3: 
+- Sources 4, 5, 8, 10: 
+- Sources 6, 7, 9: 
 **Production tradeoff reflection:**
+
 
 ---
 
@@ -74,11 +84,11 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+| 5 |  |  |
 
 ---
 
@@ -88,9 +98,9 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. 
 
-2.
+2. 
 
 ---
 
@@ -101,6 +111,8 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+UML Mermaid Diagram Picture: 
 
 ---
 
@@ -115,6 +127,8 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+
+I will use Gemini for my Chunking Strategy section and ask it to implement the chunking text function with my specified chunk size and overlap based on selected documents.
 
 **Milestone 3 — Ingestion and chunking:**
 
