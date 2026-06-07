@@ -29,7 +29,7 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
 | 6 | UC Merced | CSE Courses Descriptions | https://catalog.ucmerced.edu/content.php?filter%5B27%5D=CSE&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=23&expand=&navoid=2517&search_database=Filter#acalog_template_course_filter |
 | 7 | UC Merced | CSE Faculty | https://engineering.ucmerced.edu/departments/computer-science-engineering-cse |
 | 8 | Facebook | Computer Science at UC Merced vs SJSU | https://www.facebook.com/groups/collegeadmissionscorner/posts/1464265537775004/ |
-| 9 | GitHub | UC Merced CSE Courses Repository | https://github.com/hajin-park/ucmerced-cse |
+| 9 | Quora | Should I consider CS at UC Merced? | https://www.quora.com/Should-I-consider-CS-at-UC-Merced |
 | 10 | Reddit | Will cse ever be impacted at ucm? | https://www.reddit.com/r/ucmerced/comments/1gvksls/will_cse_ever_be_impacted_at_ucm/ |
 
 ---
@@ -43,18 +43,18 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
 
 **Chunk size:**
 - Sources 1, 2, 3: 150-200 characters
-- Sources 3, 4, 5, 8, 10: 200-300 characters
-- Sources 6, 7, 9: 400-500 characters
+- Sources 3, 4, 5, 8, 9, 10: 200-300 characters
+- Sources 6, 7: 400-500 characters
 
 **Overlap:**
 - Sources 1, 2, 3: 0 characters
-- Sources 4, 5, 8, 10: 20 characters
-- Sources 6, 7, 9: 50 characters
+- Sources 4, 5, 8, 9, 10: 20 characters
+- Sources 6, 7: 50 characters
 
 **Reasoning:**
 - Sources 1, 2, 3: They are the ratings and reviews of the CSE courses and professors with short comments.
-- Sources 4, 5, 8, 10: They are Reddit and Facebook comments, and some people will say at least like 3 bullet points and explain them in detail.
-- Sources 6, 7, 9: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course.
+- Sources 4, 5, 8, 9, 10: They are Reddit, Facebook, or Quora posts with long comments, and some people will say at least 3 bullet points and explain them in detail.
+- Sources 6, 7: It includes course catalogs and faculty lists, and includes GitHub repo for the contents of each CSE course.
 
 ---
 
@@ -70,12 +70,12 @@ I chose the UC Merced students ratings and reviews of CSE courses and professors
 all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
-- Sources 1, 2, 3: 
-- Sources 4, 5, 8, 10: 
-- Sources 6, 7, 9: 
+5
 
 **Production tradeoff reflection:**
-
+- Less context length
+- Much context and high latency
+- False negatives and biases
 
 ---
 
