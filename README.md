@@ -70,6 +70,95 @@ My system covers about the student reviews of CSE courses and professors in UC M
 **Final chunk count:**
 149 chunks total
 
+5 representative chunks:
+- {'source_path': 'documents\\data\\cleaned\\source_10_Quora.txt',
+ 'category': 'short',
+ 'chunk_index': 1,
+ 'chunk_size': 300,
+ 'overlap': 30,
+ 'chunk_text': 'Should I consider CS at UC Merced?\n'
+               'Joshua Gross\n'
+               'NaTa Chou\n'
+               ', master Computer Science & Shopping, Belgorod State '
+               'Technological University (2017) and\n'
+               "Jack O'Quin\n"
+               'jfc, three nearly identical ChatGPT answers.\n'
+               '\n'
+               'Shame on you, Nagesh K, Naresh Kumar, and Licensed Soft.\n'
+               '\n'
+               'So a real answer.'}
+- {'source_path': 'documents\\data\\cleaned\\source_10_Quora.txt',
+ 'category': 'short',
+ 'chunk_index': 2,
+ 'chunk_size': 300,
+ 'overlap': 30,
+ 'chunk_text': 'Soft.\n'
+               '\n'
+               'So a real answer.\n'
+               '\n'
+               'Merced gets a bad rap because:\n'
+               '\n'
+               'It’s the youngest of the UCs\n'
+               'It’s the least competitive of the UCs\n'
+               'It’s not located near... well, pretty much any urban place '
+               'that Californians are eager to go to\n'
+               'But is it a bad choice? No.'}
+- {'source_path': 'documents\\data\\cleaned\\source_1_RateMyCourses.txt',
+ 'category': 'medium',
+ 'chunk_index': 1,
+ 'chunk_size': 500,
+ 'overlap': 50,
+ 'chunk_text': '=========================================\n'
+               'CSE 100: Algorithm Design and Analysis\n'
+               '=========================================\n'
+               'Prof: Ross Greer, Hua Huang / Spring 2026\n'
+               '\n'
+               'Apr 23, 2026\n'
+               '\n'
+               'Course Content\n'
+               'As a result of the 80% weight of exams, the class is extremely '
+               'lecture-heavy. Code is rarely to never discussed, displayed, '
+               'or demonstrated in lecture, with the focus being on the '
+               'concepts instead. Conversely, the labs are entirely code.'}
+- {'source_path': 'documents\\data\\cleaned\\source_2_RateMyProfessors.txt',
+ 'category': 'medium',
+ 'chunk_index': 1,
+ 'chunk_size': 500,
+ 'overlap': 50,
+ 'chunk_text': '=========================================\n'
+               'Angelo Kyrilov\n'
+               '=========================================\n'
+               'Quality 3.0 / Difficulty 3.0\n'
+               'CSE024\n'
+               'Apr 10th, 2026\n'
+               'For Credit: Yes\n'
+               'Attendance: Mandatory\n'
+               'Would Take Again: Yes\n'
+               'Grade: Not sure yet\n'
+               'Textbook: Yes\n'
+               '"STEAMplug kingpin"'}
+- {'source_path': 'documents\\data\\cleaned\\source_2_RateMyProfessors.txt',
+ 'category': 'medium',
+ 'chunk_index': 9,
+ 'chunk_size': 500,
+ 'overlap': 50,
+ 'chunk_text': 'grades. Also, sometimes he will curve the exam."\n'
+               '\n'
+               '=========================================\n'
+               'Giovanni Gonzalez Araujo\n'
+               '=========================================\n'
+               'Quality 2.0 / Difficulty 4.0\n'
+               'CSE024\n'
+               'Mar 5th, 2026\n'
+               'For Credit: Yes\n'
+               'Attendance: Mandatory\n'
+               'Grade: Incomplete\n'
+               'Textbook: N/A\n'
+               '"Araujo doesn\'t structure his classes well. This current '
+               'semester, he designed the course to be extremely lecture '
+               'dependent. We have a quiz every friday and 2 lectures on '
+               'Tuesday and Thursday. Meaning he gives us ONE day'}
+
 ---
 
 ## Embedding Model
@@ -91,6 +180,136 @@ Some sources, such as the contents from UC Merced website, were needed to transf
 - Structural search targets are ignored from the retrieval
 - Much unorganized context and high latency
 - False negatives and biases
+
+3 Retrieval Tests:
+==================== TESTING EVALUATION QUERY ====================
+Query: How was the CSE 100 workload in Spring 2026?
+[search] Course pattern detected: 'CSE 100'. Applying soft-boost scoring.
+
+[Distance: 0.378] Source: documents\data\cleaned\source_1_RateMyCourses.txt
+Content: =========================================
+CSE 100: Algorithm Design and Analysis
+=========================================
+Prof: Ross Greer, Hua Huang / Spring 2026
+
+Apr 23, 2026
+
+Course Content
+As a result of the 80% weight of exams, the class is ex...
+
+[Distance: 0.532] Source: documents\data\cleaned\source_4_UCM_Electives_Reddit.txt
+Content: in 160 and 176 right now.
+
+160 with Cerpa is pretty hardcore; the reading and homework’s aren’t too too bad in terms of concepts, understanding them, doing basic computations and calculations with network related stuff. That class is hard because of ...
+
+[Distance: 0.575] Source: documents\data\cleaned\source_5_UCM_CSE_Impact_Reddit.txt
+Content: it be impacted in the future?
+
+internetbooker134
+OP
+I agree more hiring needs to be done for the CSE department although from what I've heard it's hard to hire faculty and get them to move to Merced in general as it's not as attractive compared to ot...
+
+[Distance: 0.592] Source: documents\data\cleaned\source_7_UCM_Catalog.txt
+Content: Science & Engineering (Undergraduate) - CSE
+
+Concepts of computer operating systems including concurrency, memory management, file systems, multitasking, performance analysis, and security.
+
+Conjoined with: EECS 251
+Laboratory included
+Normal Letter ...
+
+[Distance: 0.593] Source: documents\data\cleaned\source_5_UCM_CSE_Impact_Reddit.txt
+Content: faculty member, not in CSE.
+
+It's hard for computer science and software engineering programs to hire faculty because they can make much, much more money working in industry. I can imagine that this might be changing due to the tech industry layoffs ...
+
+==================== TESTING EVALUATION QUERY ====================
+Query: What is the hardest CSE course in the UC Merced?
+
+[Distance: 0.286] Source: documents\data\cleaned\source_4_UCM_Electives_Reddit.txt
+Content: CSE majors: what CSE electives do you think are the hardest and easiest?
+Was talking with my friends about the cse electives at UC Merced and we came to conclusion that the easiest ones are cse 108, 107, and 111. On the harder side ive heard cse 160 ...
+
+[Distance: 0.404] Source: documents\data\cleaned\source_10_Quora.txt
+Content: Should I consider CS at UC Merced?
+Joshua Gross
+NaTa Chou
+, master Computer Science & Shopping, Belgorod State Technological University (2017) and
+Jack O'Quin
+jfc, three nearly identical ChatGPT answers.
+
+Shame on you, Nagesh K, Naresh Kumar, and Lic...
+
+[Distance: 0.404] Source: documents\data\cleaned\source_3_UCM_Review_Reddit.txt
+Content: ers. It will just be a little bit more difficult if you go to UCM....
+
+[Distance: 0.425] Source: documents\data\cleaned\source_3_UCM_Review_Reddit.txt
+Content: UC Merced and Computer Science and Engineering
+
+As students of the most recent UC campus, I'd like some responses for the following things:
+
+Why'd you go all the way to UC Merced considering it's out in the middle of California?...
+
+[Distance: 0.431] Source: documents\data\cleaned\source_7_UCM_Catalog.txt
+Content: Experience: Scientific Method
+
+Requisites and Restrictions
+Prerequisite Courses: CSE 031 and CSE 100 and MATH 024
+Cannot also be taken due to similarity of content: ENGR 190, ENGR 193, ENGR 194
+Open only to the following class level(s):
+Senior
+
+Cross...
+
+==================== TESTING EVALUATION QUERY ====================
+Query: Should CS in UC Merced has to be considered as a bad choice?
+
+[Distance: 0.237] Source: documents\data\cleaned\source_10_Quora.txt
+Content: is it a bad choice? No.
+
+Second, if you’re a standout, you’ll get special attention (if you want it), and it’s easier to be a standout at Merced than someother UC campuses.
+
+So, should you consider UC Merced? Absolutely. Should you go there? Well, w...
+
+[Distance: 0.251] Source: documents\data\cleaned\source_10_Quora.txt
+Content: Soft.
+
+So a real answer.
+
+Merced gets a bad rap because:
+
+It’s the youngest of the UCs
+It’s the least competitive of the UCs
+It’s not located near... well, pretty much any urban place that Californians are eager to go to
+But is it a bad choice? No....
+
+[Distance: 0.255] Source: documents\data\cleaned\source_10_Quora.txt
+Content: Should I consider CS at UC Merced?
+Joshua Gross
+NaTa Chou
+, master Computer Science & Shopping, Belgorod State Technological University (2017) and
+Jack O'Quin
+jfc, three nearly identical ChatGPT answers.
+
+Shame on you, Nagesh K, Naresh Kumar, and Lic...
+
+[Distance: 0.316] Source: documents\data\cleaned\source_3_UCM_Review_Reddit.txt
+Content: UC Merced and Computer Science and Engineering
+
+As students of the most recent UC campus, I'd like some responses for the following things:
+
+Why'd you go all the way to UC Merced considering it's out in the middle of California?...
+
+[Distance: 0.393] Source: documents\data\cleaned\source_5_UCM_CSE_Impact_Reddit.txt
+Content: it be impacted in the future?
+
+internetbooker134
+OP
+I agree more hiring needs to be done for the CSE department although from what I've heard it's hard to hire faculty and get them to move to Merced in general as it's not as attractive compared to ot...
+
+- 1st query: Not relevant; Right source but less content for 1st chunk, all other 4 chunks have wrong sources
+- 2nd query: Relevant; Specific, on topic, right source for the 1st chunk
+- 3rd query: Relevant; Specific, on topic, right source for the first three chunks
 
 ---
 

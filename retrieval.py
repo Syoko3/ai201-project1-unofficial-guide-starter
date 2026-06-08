@@ -138,5 +138,3 @@ if __name__ == "__main__":
         for hit in hits:
             print(f"\n[Distance: {hit['distance']:.3f}] Source: {hit['metadata']['source']}")
             print(f"Content: {hit['text'][:250]}...")
-        
-        print(f"\nQUESTION: Are these results actually relevant to the query: '{query}'?")
