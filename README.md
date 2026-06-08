@@ -307,9 +307,9 @@ internetbooker134
 OP
 I agree more hiring needs to be done for the CSE department although from what I've heard it's hard to hire faculty and get them to move to Merced in general as it's not as attractive compared to ot...
 
-- 1st query: Not relevant; Right source but less content for 1st chunk, all other 4 chunks have wrong sources
-- 2nd query: Relevant; Specific, on topic, right source for the 1st chunk
-- 3rd query: Relevant; Specific, on topic, right source for the first three chunks
+- 1st query: Partially relevant; Right source but less content for 1st chunk; all other 4 chunks have wrong sources
+- 2nd query: Partially relevant; Specific, on topic, right source for the 1st chunk; 2nd to 4th chunk have right source but less content; 5th chunk has wrong source
+- 3rd query: Relevant; Specific, on topic, right source for the first three chunks; last two chunks are also relevant, on topic, right source, but less content
 
 ---
 
